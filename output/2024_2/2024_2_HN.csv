@@ -1,0 +1,778 @@
+﻿Địa điểm,Mã SV,Họ Lót,Tên,Mã HP,Mã LHP,Tên HP,Số TC,Bộ môn giảng dạy,Khoa giảng dạy,Time slot
+HN,19200232,Tống Mạnh,Danh,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19200354,Đoàn Đức,Anh,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19200839,Bùi Thị Linh,Chi,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19200971,Hà Văn,Đoan,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19201477,Lê Minh,Cương,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19201684,Lại Hà,My,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19201735,Hoàng Thu,Hường,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19202006,Hoàng Anh,Đức,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19202020,Nguyễn Văn,Hiệp,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19202030,Bùi Thuỳ,Linh,TXQTVH04,24032024.TXQTVH04.0001,Giao tiếp kinh doanh và thuyết trình,3,Bộ môn Văn hóa kinh doanh,Khoa Quản trị kinh doanh,1
+HN,19200887,Phạm Mạnh,Cường,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19210746,Nguyễn Hoàng,Lan,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19211878,Nguyễn Trần Hương,Ly,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19212205,Vũ Thị Hạnh,Dung,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19220491,Nguyễn Thị Thanh,Huyền,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19220735,Dương Thu Vân,Anh,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19221056,Hoàng Thị Ngọc,Linh,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19221075,Nguyễn Thị,Ngà,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19221639,Nguyễn Thị Hải,Anh,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19221727,Nguyễn Thị Thu,Nga,TXKTKE02,24032024.TXKTKE02.0001,Kế toán công,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,4
+HN,19201464,Nguyễn Tiến,Dũng,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19210484,Nguyễn Quốc,Cường,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19210890,Đặng Hoài,Sơn,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19220377,Bùi Bích,Phương,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19220529,Nguyễn Thị Hoài,Ninh,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19220699,Trần Thị Việt,Hằng,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19221304,Phạm Thị Thúy,Hà,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19221327,Trần Hoàng,Sơn,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19221737,Triệu Hồng,Nhung,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19222022,Bùi Đình Tuấn,Anh,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19222409,Lê Thị Quỳnh,Trang,TXNHTM09,24032024.TXNHTM09.0001,Kế toán ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19211275,Lê Anh,Tuấn,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,3
+HN,19211661,Phùng Thế,Trường,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,3
+HN,19220577,Phan Tuấn,Anh,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,3
+HN,19220649,Nguyễn Quang,Quyết,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,3
+HN,19230198,Nguyễn Trọng,Khanh,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,3
+HN,19230856,Nguyễn Thùy,Dung,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,3
+HN,19230876,Nguyễn Thị Bích,Hiền,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,3
+HN,19232040,Bùi Văn,Thắng,TXLUCS1128,24032024.TXLUCS1128.0001,Lý luận nhà nước và pháp luật 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,3
+HN,19210890,Đặng Hoài,Sơn,TXNHTM07,24032024.TXNHTM07.0001,Ngân hàng phát triển,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19211294,Phùng Minh,Hải,TXNHTM07,24032024.TXNHTM07.0001,Ngân hàng phát triển,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19211674,Đặng Minh,Hoàng,TXNHTM07,24032024.TXNHTM07.0001,Ngân hàng phát triển,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19220699,Trần Thị Việt,Hằng,TXNHTM07,24032024.TXNHTM07.0001,Ngân hàng phát triển,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19221304,Phạm Thị Thúy,Hà,TXNHTM07,24032024.TXNHTM07.0001,Ngân hàng phát triển,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19222022,Bùi Đình Tuấn,Anh,TXNHTM07,24032024.TXNHTM07.0001,Ngân hàng phát triển,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19222055,Lương Thị Trà,My,TXNHTM07,24032024.TXNHTM07.0001,Ngân hàng phát triển,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19210890,Đặng Hoài,Sơn,TXNHLT1106,24032024.TXNHLT1106.0001,Ngân hàng trung ương,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,2
+HN,19211674,Đặng Minh,Hoàng,TXNHLT1106,24032024.TXNHLT1106.0001,Ngân hàng trung ương,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,2
+HN,19220688,Phạm Ngọc,Cảnh,TXNHLT1106,24032024.TXNHLT1106.0001,Ngân hàng trung ương,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,2
+HN,19220699,Trần Thị Việt,Hằng,TXNHLT1106,24032024.TXNHLT1106.0001,Ngân hàng trung ương,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,2
+HN,19221304,Phạm Thị Thúy,Hà,TXNHLT1106,24032024.TXNHLT1106.0001,Ngân hàng trung ương,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,2
+HN,19221307,Ngô Thị,Hương,TXNHLT1106,24032024.TXNHLT1106.0001,Ngân hàng trung ương,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,2
+HN,19222055,Lương Thị Trà,My,TXNHLT1106,24032024.TXNHLT1106.0001,Ngân hàng trung ương,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,2
+HN,19231324,Nguyễn Đức,Duy,TXNHLT1106,24032024.TXNHLT1106.0001,Ngân hàng trung ương,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,2
+HN,19231852,Phạm Tố,Loan,TXNHLT1106,24032024.TXNHLT1106.0001,Ngân hàng trung ương,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,2
+HN,19200354,Đoàn Đức,Anh,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19200884,Phạm Thanh,Tùng,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19201174,Đỗ Thị Lan,Anh,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19201196,Phạm Phương,Đông,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19201333,Phạm Xuân,Tiến,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19201528,Nguyễn Thị Tuyết,Nhung,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19201696,Nguyễn Thị Ngọc,Ánh,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19201747,Cao Tô,Phong,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19201773,Vũ Long,Trường,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19202061,Trần Thị Thanh,Tâm,TXBHKT01,24032024.TXBHKT01.0001,Quản trị kinh doanh bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,2
+HN,19200163,Phạm Minh,Đức,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19200354,Đoàn Đức,Anh,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19200884,Phạm Thanh,Tùng,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201174,Đỗ Thị Lan,Anh,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201196,Phạm Phương,Đông,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201342,Lê Đình,Thông,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201345,Đoàn Hữu,Trung,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201696,Nguyễn Thị Ngọc,Ánh,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19210885,Nguyễn Thanh,Mai,TXNHLT06,24032024.TXNHLT06.0001,Tài chính công 1,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,4
+HN,19220213,Nguyễn Linh,Đan,TXNHLT06,24032024.TXNHLT06.0001,Tài chính công 1,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,4
+HN,19220223,Nguyễn Thị Thu,Hiền,TXNHLT06,24032024.TXNHLT06.0001,Tài chính công 1,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,4
+HN,19220377,Bùi Bích,Phương,TXNHLT06,24032024.TXNHLT06.0001,Tài chính công 1,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,4
+HN,19220688,Phạm Ngọc,Cảnh,TXNHLT06,24032024.TXNHLT06.0001,Tài chính công 1,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,4
+HN,19220699,Trần Thị Việt,Hằng,TXNHLT06,24032024.TXNHLT06.0001,Tài chính công 1,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,4
+HN,19221304,Phạm Thị Thúy,Hà,TXNHLT06,24032024.TXNHLT06.0001,Tài chính công 1,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,4
+HN,19221338,Nguyễn Thị Hải,Yến,TXNHLT06,24032024.TXNHLT06.0001,Tài chính công 1,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,4
+HN,19222022,Bùi Đình Tuấn,Anh,TXNHLT06,24032024.TXNHLT06.0001,Tài chính công 1,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,4
+HN,19200810,Nguyễn Văn,Linh,TXNHCK03,24032024.TXNHCK03.0001,Thị trường chứng khoán 2,2,Bộ môn Thị trường chứng khoán,Viện Ngân hàng - Tài chính,9
+HN,19201464,Nguyễn Tiến,Dũng,TXNHCK03,24032024.TXNHCK03.0001,Thị trường chứng khoán 2,2,Bộ môn Thị trường chứng khoán,Viện Ngân hàng - Tài chính,9
+HN,19201468,Nguyễn Thị,Huyền,TXNHCK03,24032024.TXNHCK03.0001,Thị trường chứng khoán 2,2,Bộ môn Thị trường chứng khoán,Viện Ngân hàng - Tài chính,9
+HN,19201469,Nguyễn Thị Xuân,Lộc,TXNHCK03,24032024.TXNHCK03.0001,Thị trường chứng khoán 2,2,Bộ môn Thị trường chứng khoán,Viện Ngân hàng - Tài chính,9
+HN,19201475,Nguyễn Hữu,Tình,TXNHCK03,24032024.TXNHCK03.0001,Thị trường chứng khoán 2,2,Bộ môn Thị trường chứng khoán,Viện Ngân hàng - Tài chính,9
+HN,19201665,Hoàng Thu,Hương,TXNHCK03,24032024.TXNHCK03.0001,Thị trường chứng khoán 2,2,Bộ môn Thị trường chứng khoán,Viện Ngân hàng - Tài chính,9
+HN,19201668,Hoàng Thùy,Linh,TXNHCK03,24032024.TXNHCK03.0001,Thị trường chứng khoán 2,2,Bộ môn Thị trường chứng khoán,Viện Ngân hàng - Tài chính,9
+HN,19201706,Nguyễn Chu,Chiển,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201734,Quàng Thị Thu,Hương,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201738,Phạm Nguyễn Trúc,Lâm,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201773,Vũ Long,Trường,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201821,Nguyễn Đình,Hoàng,TXTMKT02,24032024.TXTMKT02.0001,Quản trị kinh doanh thương mại,3,Bộ môn Kinh tế và Kinh doanh thương mại,Viện Thương mại và Kinh tế quốc tế,0
+HN,19190948,Nguyễn Thành,Đạt,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19200235,Trần Thị Thu,Hà,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19200672,Hoàng Hải,Quân,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19200877,Đinh Quang,Tân,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19200971,Hà Văn,Đoan,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201528,Nguyễn Thị Tuyết,Nhung,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201684,Lại Hà,My,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19201756,Trần Phạm Bảo,Tuấn,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19202027,Nguyễn Ngọc,Khiêm,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19202061,Trần Thị Thanh,Tâm,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19202068,Lê Trần Phương,Thảo,TXTMKD02,24032024.TXTMKD02.0001,Kinh doanh quốc tế 1,3,Bộ môn Kinh doanh quốc tế,Viện Thương mại và Kinh tế quốc tế,0
+HN,19220693,Ngô Văn,Đạt,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19221296,Nguyễn Tân,Binh,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19221299,Lê Tuấn,Đức,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19221306,Trần Minh,Hoàng,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19221307,Ngô Thị,Hương,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19221310,Trần Thị Thanh,Huyền,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19221325,Nguyễn Minh,Quang,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19221328,Lê Minh,Tâm,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19221334,Nguyễn Thị,Trang,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19222409,Lê Thị Quỳnh,Trang,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19230360,Lê Ngọc,Tú,TXNHTM05,24032024.TXNHTM05.0001,Chuyên đề marketing ngân hàng,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,1
+HN,19201478,Trần tất,Đạt,TXQTKD112,24032024.TXQTKD112.0001,Quản trị doanh nghiệp,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19212210,Nguyễn Thùy,Dương,TXQTKD112,24032024.TXQTKD112.0001,Quản trị doanh nghiệp,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19221365,Lê Văn,Ất,TXQTKD112,24032024.TXQTKD112.0001,Quản trị doanh nghiệp,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19221396,Nguyễn Thị Phương,Dung,TXQTKD112,24032024.TXQTKD112.0001,Quản trị doanh nghiệp,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19221492,Nguyễn Khánh,Ly,TXQTKD112,24032024.TXQTKD112.0001,Quản trị doanh nghiệp,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19221499,Nguyễn Thị,Mến,TXQTKD112,24032024.TXQTKD112.0001,Quản trị doanh nghiệp,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19221583,Nguyễn Đức,Thuận,TXQTKD112,24032024.TXQTKD112.0001,Quản trị doanh nghiệp,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19222105,Trần Hải,Anh,TXQTKD112,24032024.TXQTKD112.0001,Quản trị doanh nghiệp,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19222172,Lê Vũ Hoàng,Hà,TXQTKD112,24032024.TXQTKD112.0001,Quản trị doanh nghiệp,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19220688,Phạm Ngọc,Cảnh,TXNHLT02,24032024.TXNHLT02.0001,Lý thuyết tài chính tiền tệ 2,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,1
+HN,19230341,Phạm Thuý,Ngọc,TXNHLT02,24032024.TXNHLT02.0001,Lý thuyết tài chính tiền tệ 2,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,1
+HN,19230349,Đinh Thị,Tâm,TXNHLT02,24032024.TXNHLT02.0001,Lý thuyết tài chính tiền tệ 2,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,1
+HN,19230356,Tòng Thị,Thúy,TXNHLT02,24032024.TXNHLT02.0001,Lý thuyết tài chính tiền tệ 2,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,1
+HN,19231328,Nguyễn Minh,Hà,TXNHLT02,24032024.TXNHLT02.0001,Lý thuyết tài chính tiền tệ 2,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,1
+HN,19231370,Phạm Thị Thúy,Ngọc,TXNHLT02,24032024.TXNHLT02.0001,Lý thuyết tài chính tiền tệ 2,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,1
+HN,19232208,Đỗ Xuân,Sơn,TXNHLT02,24032024.TXNHLT02.0001,Lý thuyết tài chính tiền tệ 2,3,Bộ môn Lý thuyết tài chính tiền tệ,Viện Ngân hàng - Tài chính,1
+HN,19190524,Lê Thị,Hạnh,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19202068,Lê Trần Phương,Thảo,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19210795,Đinh Viết,Tuyên,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220089,Nguyễn Thị,Vân,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220455,Trần Thị Mai,Anh,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220457,Vũ Mai,Anh,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220467,Lê Thị,Hằng,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220491,Nguyễn Thị Thanh,Huyền,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220521,Nguyễn Bá,Ngọc,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220525,Trần Tố,Như,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220527,Nguyễn Trang,Nhung,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220533,Chu Thanh,Phong,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220540,Vũ Hoàng,Sơn,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220541,Đào Thị Hồng,Sương,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220549,Lê Thị,Thương,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220555,Phạm Thị,Trâm,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19221639,Nguyễn Thị Hải,Anh,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19221705,Nguyễn Thị Bích,Liên,TXLUKD01,24032024.TXLUKD01.0001,Pháp luật kinh doanh,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220173,Cao Nguyễn Thanh,Tâm,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,4
+HN,19220580,Lê Ngọc,Ánh,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,4
+HN,19220614,Nguyễn Thị Tú,Lan,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,4
+HN,19221200,Hoàng Hữu,Kiên,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,4
+HN,19221207,Trần Xuân,Linh,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,4
+HN,19221859,Hà Trọng,Hà,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,4
+HN,19221958,Đỗ Thái,Phong,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,4
+HN,19221990,Nguyễn Thị Thanh,Thuý,TXLUKD05,24032024.TXLUKD05.0001,Luật hình sự 1,3,Bộ môn Pháp luật cơ sở,Khoa Luật,4
+HN,19210746,Nguyễn Hoàng,Lan,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19211201,Ngô Hải,Vân,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19220011,Phan Thị Nguyệt,Ánh,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19220032,Nguyễn Giang,Hương,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19220046,Nguyễn Thị Trà,My,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19220051,Nguyễn Phương,Nam,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19220080,Mai Kiều,Trang,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19220455,Trần Thị Mai,Anh,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19220465,Trần Thu,Hà,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19220515,Đoàn Thị Kim,Ngân,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19220533,Chu Thanh,Phong,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19221015,Nguyễn Mạnh,Duy,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19221664,Nguyễn Vân,Giang,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19221676,Trần Thị,Hiền,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19221680,Bùi Văn,Hoá,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19221701,Nguyễn Thị Thanh,Lam,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19221753,Nguyễn Hồng,Sơn,TXKTQT03,24032024.TXKTQT03.0001,Hệ thống thông tin kế toán,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230015,Trần Thị Hương,Chi,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230023,Nguyễn Hoàng,Hải,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230053,Vũ Thị,Mai,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230091,Nguyễn Diệp,Thư,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230731,Trần Hoàng Mỹ,Hằng,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230732,Đỗ Thị,Hậu,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230734,Nguyễn Thị,Hoa,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230742,Đinh Thị,Hương,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230803,Đào Thị Minh,Thư,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230820,Hà Quang,Trung,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230825,Nguyễn Thị Hồng,Vân,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19231428,Vũ Thanh,Hoa,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19231509,Đinh Phạm Hà,Vy,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19232078,Cao Thị Minh,Anh,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19232079,Đinh Thị Vân,Anh,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19232088,Phạm Ninh,Chi,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19232092,Thân Bá,Dũng,TXKTHT1105,24032024.TXKTHT1105.0001,Kiểm soát nội bộ,3,Bộ môn Hệ thống thông tin kế toán,Viện Kế toán - Kiểm toán,0
+HN,19230010,Phạm Thị Vân,Anh,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230015,Trần Thị Hương,Chi,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230018,Nguyễn Thị Thuỳ,Dương,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230023,Nguyễn Hoàng,Hải,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230081,Nguyễn Thị,Thắm,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230091,Nguyễn Diệp,Thư,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230731,Trần Hoàng Mỹ,Hằng,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230732,Đỗ Thị,Hậu,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230734,Nguyễn Thị,Hoa,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230742,Đinh Thị,Hương,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230749,Nguyễn Thu,Huyền,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230761,Phạm Thị,Loan,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230796,Đỗ Thị Phương,Thảo,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230803,Đào Thị Minh,Thư,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230820,Hà Quang,Trung,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19230825,Nguyễn Thị Hồng,Vân,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19231481,Hoàng Thị Phương,Thảo,TXKTKE1109,24032024.TXKTKE1109.0001,Kế toán công 1,3,Bộ môn Nguyên lý kế toán,Viện Kế toán - Kiểm toán,3
+HN,19211682,Hoàng Minh,Tâm,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19220215,Nguyễn Bá,Diễn,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19220234,Tiến Thị Phương,Linh,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19222035,Nguyễn Thanh,Hằng,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19230341,Phạm Thuý,Ngọc,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19230349,Đinh Thị,Tâm,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19230356,Tòng Thị,Thúy,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19231327,Nguyễn Hải,Hà,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19231351,Vũ Thị,Lan,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19231357,Nguyễn Thị,Linh,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19231370,Phạm Thị Thúy,Ngọc,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19231838,Hoàng Đức,Hưng,TXNHQT05,24032024.TXNHQT05.0001,Tài chính quốc tế 1,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,0
+HN,19220520,Thân Thị Hồng,Ngân,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230023,Nguyễn Hoàng,Hải,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230049,Nguyễn Thị Kiều,Loan,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230113,Hoàng Thị,Viên,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230731,Trần Hoàng Mỹ,Hằng,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230732,Đỗ Thị,Hậu,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230734,Nguyễn Thị,Hoa,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230742,Đinh Thị,Hương,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230744,Ngô Thị Lan,Hương,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230760,Vũ Thị,Linh,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230761,Phạm Thị,Loan,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230764,Trịnh Thị,Luyến,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230774,Vũ Thu,Ngân,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230803,Đào Thị Minh,Thư,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230820,Hà Quang,Trung,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19230825,Nguyễn Thị Hồng,Vân,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19231482,Nguyễn Thị Thanh,Thảo,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19231486,Mai Thị,Thơm,TXKHEH1105,24032024.TXKHEH1105.0001,Lịch sử kinh tế,3,Bộ môn Lịch sử Kinh tế,Khoa Kinh tế học,2
+HN,19201573,Nguyễn Thị,Hương,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19201915,Nguyễn Hoành,Việt,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19210287,Hoàng Thúy,Hằng,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19210795,Đinh Viết,Tuyên,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220455,Trần Thị Mai,Anh,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220457,Vũ Mai,Anh,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220467,Lê Thị,Hằng,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220489,Nguyễn Thiên,Hương,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220491,Nguyễn Thị Thanh,Huyền,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220505,Nguyễn Thị Phương,Mai,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220521,Nguyễn Bá,Ngọc,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220525,Trần Tố,Như,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220526,Hoàng Thảo,Nhung,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220527,Nguyễn Trang,Nhung,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220540,Vũ Hoàng,Sơn,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19220549,Lê Thị,Thương,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19221071,Vũ Thị Trà,My,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230023,Nguyễn Hoàng,Hải,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230053,Vũ Thị,Mai,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230724,Phạm Hương,Giang,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230727,Nghiêm Thị,Hà,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230759,Phạm Thị Thùy,Linh,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230760,Vũ Thị,Linh,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230783,Hứa Thị Hồng,Nhung,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230784,Lù Thị,Oanh,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230803,Đào Thị Minh,Thư,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19230810,Lê Thị Thu,Trà,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19231483,Phạm Thị Ngọc,Thảo,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19232146,Đào Thị,Trà,TXKTKI02,24032024.TXKTKI02.0001,Kiểm toán tài chính 1,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,11
+HN,19211142,Nguyễn Khánh,Huyền,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19220477,Nguyễn Thu,Hiền,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19221054,Nguyễn Thị Diễm,Lệ,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19221727,Nguyễn Thị Thu,Nga,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230011,Trần Thị Hoàng,Anh,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230037,Phạm Thị,Huyền,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230041,Lê Thị,Lan,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230050,Nguyễn Thị Kim,Loan,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230074,Đàm Thị,Quyên,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230091,Nguyễn Diệp,Thư,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230098,Đinh Hạnh,Trang,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230717,Nguyễn Thị,Bình,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230736,Nguyễn Xuân,Hoà,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230750,Phùng Thị Ngọc,Huyền,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230764,Trịnh Thị,Luyến,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230770,An Thị Trà,Mi,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230774,Vũ Thu,Ngân,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230780,Phan Thị,Nhu,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19230797,Đỗ Thị Phương,Thảo,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19231483,Phạm Thị Ngọc,Thảo,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19232092,Thân Bá,Dũng,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19232108,Dà Thị,Le,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19232122,Nguyễn Thị Thanh,Nhàn,TXKTQT01,24032024.TXKTQT01.0001,Kế toán quản trị 1,3,Bộ môn Kế toán quản trị,Viện Kế toán - Kiểm toán,1
+HN,19211293,Phạm Hoàng,Dương,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19211294,Phùng Minh,Hải,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19212015,Nguyễn Linh,Chi,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19222071,Phạm Thị Ngọc,Thảo,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230077,Nguyễn Thúy,Quỳnh,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230308,Nguyễn Tuấn,Anh,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230310,Nguyễn Ngọc,Ánh,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230311,Văn Gia,Bảo,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230312,Cầm Thanh,Bình,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230316,Nguyễn Tiến,Dũng,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230317,Cung Thị Thu,Hà,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230319,Đinh Thị,Hạnh,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230320,Nguyễn Minh,Hiển,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230322,Nguyễn Thế,Hiếu,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230323,Ngô Viết,Hòa,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230325,Nguyễn Việt,Hưng,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230331,Chu Diệu,Linh,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230334,Nguyễn Văn,Lực,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230340,Lê Đức,Ngọc,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230342,Trần Dương Bảo,Ngọc,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230343,Nguyễn Thị,Nguyên,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230344,Lý Minh,Nguyệt,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230353,Phan Hồng,Thu,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230354,Nguyễn Thị,Thuỷ,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230359,Nguyễn Thục,Trinh,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230360,Lê Ngọc,Tú,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19230362,Phạm Thanh,Tùng,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19231852,Phạm Tố,Loan,TXNHTM04,24032024.TXNHTM04.0001,Ngân hàng thương mại 2,3,Bộ môn Ngân hàng thương mại,Viện Ngân hàng - Tài chính,0
+HN,19210890,Đặng Hoài,Sơn,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19212205,Vũ Thị Hạnh,Dung,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19212274,Trần Thu,Phương,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19220233,Thái Nhật,Linh,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19220522,Trần Thị Thu,Ngọc,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19220524,Phạm Thị,Nhàn,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19220541,Đào Thị Hồng,Sương,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221034,Đặng Thị,Hiền,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221060,Nguyễn Diệu,Linh,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221080,Lương Thu,Ngọc,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221296,Nguyễn Tân,Binh,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221299,Lê Tuấn,Đức,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221306,Trần Minh,Hoàng,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221307,Ngô Thị,Hương,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221328,Lê Minh,Tâm,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221664,Nguyễn Vân,Giang,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221682,Nguyễn Thị Minh,Huệ,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221692,Dương Thị,Huyền,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221780,Tạ Thị,Trang,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19221784,Đào Quốc,Tuấn,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19222046,Lưu Thượng,Huynh,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19231852,Phạm Tố,Loan,TXNHQT03,24032024.TXNHQT03.0001,Thanh toán quốc tế,3,Bộ môn Tài chính quốc tế,Viện Ngân hàng - Tài chính,11
+HN,19220580,Lê Ngọc,Ánh,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19220614,Nguyễn Thị Tú,Lan,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19221157,Bàn Tòn,Chày,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19230194,Ngọ Thị Thanh,Huyền,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19230836,Nguyễn Huyền,Anh,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19230863,Cà Thị,Duyên,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19230947,Lê Quốc,Thái,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19230958,Nguyễn Thị Hồng,Thuý,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19231920,Nguyễn Lương,Bằng,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19231927,Đỗ Thanh Thanh,Chúc,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19231941,Hoàng Nghĩa Việt,Đức,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19232022,Đặng Thị Hồng,Nhung,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19232058,Hàn Thu,Trang,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19232065,Hắc Nguyễn,Tuấn,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19232075,Trần Lê Hà,Vy,TXLUKD02,24032024.TXLUKD02.0001,Luật hành chính,3,Bộ môn Pháp luật cơ sở,Khoa Luật,11
+HN,19200783,Nguyễn Thị Chiều,Xuân,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19210347,Bùi Thị,Quỳnh,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19210730,Trần Thị,Hồng,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19211106,Mạc Thị Thúy,Chi,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19211113,Nguyễn Thị,Dung,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19211142,Nguyễn Khánh,Huyền,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19211540,Nguyễn Thu,Hằng,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19211556,Bế Thị Phương,Lê,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19211834,Lê Thị,Chinh,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19211853,Ngô Thị,Hiền,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19211869,Nguyễn Thị,Lan,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19212274,Trần Thu,Phương,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220030,Lê Đắc,Hùng,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220050,Phan Thị Lê,Na,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220472,Nguyễn Thị Bích,Hạnh,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220475,Nguyễn Thị,Hiền,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220515,Đoàn Thị Kim,Ngân,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220532,Mai Kiều,Oanh,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220544,Bùi Thị,Thảo,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220553,Hà Thị,Thủy,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220567,Phạm Anh,Đức,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220569,Nguyễn Thu,Phương,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220844,Nguyễn Khánh,Linh,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220996,Nguyễn Thị Ngọc,Anh,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19221676,Trần Thị,Hiền,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19221681,Lê Thị Bích,Hồng,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19221705,Nguyễn Thị Bích,Liên,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19221714,Nguyễn Thùy,Linh,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19221740,Bùi Minh,Phương,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19221753,Nguyễn Hồng,Sơn,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19221762,Đỗ Thị Kim,Thoa,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19221769,Tạ Thanh,Thủy,TXKTTC1113,24032024.TXKTTC1113.0001,Kế toán công ty,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220688,Phạm Ngọc,Cảnh,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19220692,Trần Việt,Cường,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19220693,Ngô Văn,Đạt,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19220818,Trần Thị Trang,Hương,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19221302,Phạm Quang,Duy,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19222056,Nguyễn Trà,My,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19222069,Trần Đức,Thắng,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19222071,Phạm Thị Ngọc,Thảo,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230077,Nguyễn Thúy,Quỳnh,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230308,Nguyễn Tuấn,Anh,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230310,Nguyễn Ngọc,Ánh,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230311,Văn Gia,Bảo,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230316,Nguyễn Tiến,Dũng,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230317,Cung Thị Thu,Hà,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230319,Đinh Thị,Hạnh,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230320,Nguyễn Minh,Hiển,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230322,Nguyễn Thế,Hiếu,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230323,Ngô Viết,Hòa,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230325,Nguyễn Việt,Hưng,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230331,Chu Diệu,Linh,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230334,Nguyễn Văn,Lực,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230340,Lê Đức,Ngọc,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230343,Nguyễn Thị,Nguyên,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230344,Lý Minh,Nguyệt,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230353,Phan Hồng,Thu,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230354,Nguyễn Thị,Thuỷ,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230359,Nguyễn Thục,Trinh,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230360,Lê Ngọc,Tú,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19230362,Phạm Thanh,Tùng,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19231324,Nguyễn Đức,Duy,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19231838,Hoàng Đức,Hưng,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19231852,Phạm Tố,Loan,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19231877,Đặng Văn,Thuần,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19232194,Nguyễn Thị Mỹ,Linh,TXNHTC03,24032024.TXNHTC03.0001,Tài chính doanh nghiệp 2,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,3
+HN,19200678,Hoàng Đức,Thắng,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19201535,Phạm Xuân,Thành,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19202011,Văn Thế,Duy,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19210928,Nguyễn Thị Bích,Diệp,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19210985,Đoàn Thị Vân,Khánh,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19211040,Trần Anh,Quân,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19211050,Vũ Tiến,Thành,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19211668,Nguyễn Thị Lan,Anh,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19211756,Lê Đình Hoài,Nam,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19212137,Đỗ Văn,Quân,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19220408,Đỗ Thị Minh,Thu,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19220414,Dương Ngọc Bảo,Trân,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19220429,Mai Xuân,Trường,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19220905,Nguyễn Thị Phương,Quỳnh,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19221494,Lê  Thị,Mai,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19221533,Chu Việt,Phương,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19222181,Nguyễn Văn,Hải,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19222329,Ngô Thị Kim,Oanh,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19222396,Phạm Thị Thu,Thủy,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19222425,Nguyễn Văn,Tuấn,TXQTKD103,24032024.TXQTKD103.0001,Quản trị tác nghiệp 1,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,11
+HN,19210487,Hà Ngọc,Hải,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19210885,Nguyễn Thanh,Mai,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19212016,Nguyễn Văn,Chính,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19212036,Phạm Thị Thúy,Vân,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19220213,Nguyễn Linh,Đan,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19220218,Nguyễn Thị Thùy,Dung,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19220223,Nguyễn Thị Thu,Hiền,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19220729,Trần Thanh,Vân,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221292,Nguyễn Thị,An,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221293,Bùi Dương,Anh,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221294,Đinh Thị Vân,Anh,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221303,Nguyễn Hương,Giang,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221308,Nguyễn Mai,Hương,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221311,Lê Văn,Linh,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221312,Phạm Thị Khánh,Linh,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221315,Dương Văn,Nam,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221316,Chu Thị,Nhàn,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221317,Đỗ Nguyên Hiếu,Nhi,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221318,Nguyễn Phương,Nhung,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221319,Đinh Thị,Phúc,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221320,Nguyễn Thị,Phương,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221323,Nguyễn Văn,Quân,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221326,Nguyễn Đình,Quảng,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221327,Trần Hoàng,Sơn,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221329,Nguyễn Vững,Tâm,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221330,Đinh Thu,Thảo,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221331,Lộc Thị,Thu,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221333,Nguyễn Hoàng Thanh,Trang,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221336,Nguyễn Kim Anh,Tú,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19221349,Nguyễn Hoàng,Anh,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19222069,Trần Đức,Thắng,TXNHCO1109,24032024.TXNHCO1109.0001,Tài chính công 2,3,Bộ môn Tài chính công,Viện Ngân hàng - Tài chính,1
+HN,19201899,Nguyễn Văn,Thành,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19210746,Nguyễn Hoàng,Lan,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19220042,Phan Thị Thanh,Lương,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19220046,Nguyễn Thị Trà,My,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19220051,Nguyễn Phương,Nam,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19220080,Mai Kiều,Trang,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19220082,Phan Thị Thu,Trang,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19220455,Trần Thị Mai,Anh,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19220567,Phạm Anh,Đức,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19220569,Nguyễn Thu,Phương,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19221639,Nguyễn Thị Hải,Anh,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19221680,Bùi Văn,Hoá,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19221701,Nguyễn Thị Thanh,Lam,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230014,Nguyễn Thị An,Chi,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230029,Nguyễn Thị,Huệ,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230032,Hoàng Thị Thu,Hương,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230033,Hoàng Thị Thu,Hương,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230098,Đinh Hạnh,Trang,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230112,Nguyễn Thị,Vân,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230722,Trịnh Duy,Đông,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230724,Phạm Hương,Giang,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230747,Nguyễn Thị Thu,Hường,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230749,Nguyễn Thu,Huyền,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230756,Lê Thị,Liệu,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230759,Phạm Thị Thùy,Linh,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230763,Đào Thị,Luyến,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230792,Ngô Thị,Tám,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230796,Đỗ Thị Phương,Thảo,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19230800,Vũ Thị,Thoan,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19231481,Hoàng Thị Phương,Thảo,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19231483,Phạm Thị Ngọc,Thảo,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19232079,Đinh Thị Vân,Anh,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19232095,Trần Thị Thu,Hà,TXKTKI03,24032024.TXKTKI03.0001,Kiểm toán căn bản,3,Bộ môn Kiểm toán,Viện Kế toán - Kiểm toán,2
+HN,19210487,Hà Ngọc,Hải,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19211293,Phạm Hoàng,Dương,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19211308,Nguyễn Thị Minh,Phương,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19212016,Nguyễn Văn,Chính,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19212033,Nguyễn Hữu,Thọ,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19212036,Phạm Thị Thúy,Vân,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19220218,Nguyễn Thị Thùy,Dung,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19220232,Hoàng Văn,Linh,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19220242,Đào Viết,Ngọc,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19220701,Nguyễn Thị Thanh,Hoa,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221292,Nguyễn Thị,An,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221293,Bùi Dương,Anh,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221294,Đinh Thị Vân,Anh,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221303,Nguyễn Hương,Giang,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221308,Nguyễn Mai,Hương,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221311,Lê Văn,Linh,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221312,Phạm Thị Khánh,Linh,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221315,Dương Văn,Nam,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221316,Chu Thị,Nhàn,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221317,Đỗ Nguyên Hiếu,Nhi,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221318,Nguyễn Phương,Nhung,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221319,Đinh Thị,Phúc,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221320,Nguyễn Thị,Phương,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221323,Nguyễn Văn,Quân,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221326,Nguyễn Đình,Quảng,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221327,Trần Hoàng,Sơn,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221328,Lê Minh,Tâm,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221329,Nguyễn Vững,Tâm,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221330,Đinh Thu,Thảo,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221331,Lộc Thị,Thu,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221333,Nguyễn Hoàng Thanh,Trang,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221336,Nguyễn Kim Anh,Tú,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19221349,Nguyễn Hoàng,Anh,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19222031,Nguyễn Trọng,Dương,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19222050,Vũ Trung,Kiên,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19222069,Trần Đức,Thắng,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19231342,Hà Quý,Hoàng,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19231846,Đỗ Thị,Lâm,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19231868,Nguyễn Minh,Sơn,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19232194,Nguyễn Thị Mỹ,Linh,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19232208,Đỗ Xuân,Sơn,TXNHTC1108,24032024.TXNHTC1108.0001,Phân tích tài chính,3,Bộ môn Tài chính doanh nghiệp,Viện Ngân hàng - Tài chính,2
+HN,19211546,Hoàng Thị,Hồng,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220477,Nguyễn Thu,Hiền,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220527,Nguyễn Trang,Nhung,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19220735,Dương Thu Vân,Anh,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19230041,Lê Thị,Lan,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19230063,Nguyễn Thị Bích,Ngọc,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231406,Nguyễn Đức,Anh,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231409,Tạ Ngọc,Ánh,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231413,Nguyễn Thị,Chi,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231416,Đỗ Thanh,Dương,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231418,Phạm Thị,Giang,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231421,Phạm Ngân,Hà,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231422,Trần Thị,Hà,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231424,Phạm Thị,Hải,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231431,Nguyễn Đức,Hoàng,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231432,Nguyễn Thị,Huế,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231435,Phạm Thị Thanh,Huyền,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231440,Hoàng Thị Thùy,Linh,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231446,Trần Huỳnh Thùy,Linh,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231448,Hoàng Khánh,Ly,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231453,Đồng Thị Hương,Mơ,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231454,Nguyễn Trà,My,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231456,Vũ Trà,My,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231458,Hà Thị,Nga,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231461,Phạm Thị Quỳnh,Như,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231463,Vũ Thị Hồng,Nhung,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231464,Vũ Thị Kim,Oanh,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231467,Nguyễn Thị,Phương,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231469,Trần Thị,Phương,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231472,Lê Thị,Tâm,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231473,Nguyễn Thị,Thắm,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231475,Nguyễn Thị Phương,Thanh,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231481,Hoàng Thị Phương,Thảo,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231483,Phạm Thị Ngọc,Thảo,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231485,Vũ Thị,Thơ,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231489,Nguyễn Thị,Thương,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231490,Nguyễn Thị,Thuỳ,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231491,Nguyễn Thị Thu,Thuỷ,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231492,Trần Thị,Thúy,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231493,Dương Ngọc,Trâm,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231494,Cháu Thùy,Trang,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19231496,Hồ Thùy,Trang,TXKTTC01,24032024.TXKTTC01.0001,Kế toán tài chính 1,3,Bộ môn Kế toán tài chính,Viện Kế toán - Kiểm toán,0
+HN,19190865,Nguyễn Thị,Mai,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19210402,Nguyễn Tiến,Đạt,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19220580,Lê Ngọc,Ánh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19220614,Nguyễn Thị Tú,Lan,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19221157,Bàn Tòn,Chày,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19221200,Hoàng Hữu,Kiên,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19230912,Nguyễn Thị,Luyến,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231895,Đỗ Thị,Thủy,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231896,Lưu Huỳnh Thuỳ,Trang,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231898,Bùi Bằng,Anh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231916,Vũ Thị Phương,Anh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231922,Lý Thị Vĩ,Bảo,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231927,Đỗ Thanh Thanh,Chúc,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231936,Hoàng Đình,Độ,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231937,Nguyễn Quang,Độ,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231944,Đoàn Thị Phương,Dung,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231947,Trần Đại,Dương,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231951,Nguyễn Thu,Hà,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231972,Phạm Minh,Hòa,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231987,Nguyễn Minh,Khánh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231996,Trần Thị Thuỳ,Linh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19231999,Hoàng Đức,Long,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232001,Nguyễn Hoàng,Long,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232004,Cao Tiến,Mạnh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232005,Lê Văn,Minh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232006,Nguyễn Nhật,Minh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232007,Phạm Quang Nhật,Minh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232011,Nguyễn Phương,Nam,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232017,Lưu Minh,Ngọc,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232021,Trần Linh,Nhi,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232022,Đặng Thị Hồng,Nhung,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232023,Nguyễn Thị Tuyết,Nhung,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232024,Nguyễn Thị,Oanh,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232026,Lê Thanh,Phong,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232030,Nguyễn Minh,Phương,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232031,Nguyễn Thị Hoài,Phương,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232034,Nguyễn Mạnh,Quân,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232041,Nguyễn Văn,Thắng,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232049,Trịnh Thị,Thảo,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232053,Nguyễn Nam,Thuỳ,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232054,Nguyễn Thị Thu,Thuỷ,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232058,Hàn Thu,Trang,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232059,Lê Thu,Trang,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232069,Vũ Thị Mai,Uyên,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232070,Nguyễn Thị Hồng,Vân,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19232075,Trần Lê Hà,Vy,TXLUCS09,24032024.TXLUCS09.0001,Luật hiến pháp,3,Bộ môn Pháp luật cơ sở,Khoa Luật,1
+HN,19230052,Nguyễn Khánh,Ly,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230306,Đỗ Ngọc,Anh,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230314,Lê Minh,Đức,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230315,Ninh Quang,Đức,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230324,Phạm Minh,Hoàng,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230329,Nguyễn Thị,Lê,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230332,Phạm Thị  Khánh,Linh,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230337,Nguyễn Xuân,Mạnh,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230338,Nguyễn Thị Huyền,My,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230350,Trần Thanh,Tâm,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230355,Phan Thị Thanh,Thuỷ,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230357,Nguyễn Thu,Trang,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230361,Hoàng Thanh,Tùng,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19230363,Lê Phương,Vi,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231805,Đỗ Tiến,Anh,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231807,Vũ Phương,Anh,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231814,Ngô Xuân,Đạt,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231815,Vũ Thị,Diệp,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231817,Hoàng Thị Phương,Dung,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231826,Vũ Phương,Hà,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231832,Nguyễn Thị,Hoà,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231843,Vũ Quang,Huy,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231844,Phạm Thị Thanh,Huyền,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231846,Đỗ Thị,Lâm,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231850,Lương Thị Giao,Linh,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231856,Đào Thị,Mai,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231858,Nguyễn Quang,Minh,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231859,Huỳnh Nữ Như,Ngọc,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231865,Nguyễn Thị,Phượng,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231869,Nguyễn Lâm,Sung,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231875,Nguyễn Thị Phương,Thảo,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231882,Vàng Thị,Thuỷ,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231889,Trương Thị Quỳnh,Trang,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19231893,Tô Anh,Tú,TXBHKT1118,24032024.TXBHKT1118.0001,Nguyên lý bảo hiểm,3,Bộ môn Kinh tế Bảo hiểm,Khoa Bảo hiểm,8
+HN,19201150,Nguyễn Thu,Nga,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19201478,Trần tất,Đạt,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19210524,Lương Thị,Chinh,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19211046,Phan Thị Minh,Tâm,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19211050,Vũ Tiến,Thành,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19211615,Nguyễn Văn,Duy,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19211668,Nguyễn Thị Lan,Anh,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19220331,Nguyễn Tùng,Lâm,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221347,Lưu Thị Lan,Anh,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221354,Nguyễn Việt,Anh,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221368,Nguyễn Thị Thanh,Biên,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221378,Nguyễn Bá,Công,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221397,Chu Tiến,Dũng,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221400,Lê Minh,Dương,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221434,Đậu Đức,Hùng,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221445,Đinh Thị Thu,Hương,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221485,Đoàn Quang,Long,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221491,Nguyễn Đình,Luân,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221498,Nguyễn Đức,Mạnh,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221519,Đinh Bảo,Ngọc,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221547,Nguyễn Thị,Sen,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221553,Trần Hữu,Thái,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221555,Hoàng Văn,Thắng,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221573,Nguyễn Thu,Thảo,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221579,Nguyễn Anh,Thư,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221604,Vũ Ngọc,Trung,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221612,Nguyễn Khắc,Tuấn,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221616,Nguyễn Thanh,Tùng,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221618,Nguyễn Mạnh,Tưởng,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221619,Nguyễn Thị Thu,Uyên,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221625,Trương Quang,Vinh,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19221627,Nguyễn Văn,Vượng,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222144,Phạm Thị,Điệp,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222185,Phạm Thúy,Hằng,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222210,Lại Nguyễn,Hoàng,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222216,Trần Thị,Huệ,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222316,Nguyễn Thị Thúy,Ngọc,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222319,Vũ Thị,Ngọc,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222337,Bùi Thị,Phương,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222376,Phạm Phương,Thảo,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222418,Nguyễn Văn,Trung,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222419,Lê Xuân,Trường,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222423,Lê Phúc,Tuấn,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19222444,Trần Văn,Vũ,TXQTKD104,24032024.TXQTKD104.0001,Quản trị tác nghiệp 2,3,Bộ môn Quản trị doanh nghiệp,Khoa Quản trị kinh doanh,0
+HN,19210830,Nguyễn Hải,Hưng,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220133,Đỗ Thanh,Hằng,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220587,Lê Huy,Dương,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19220632,Nguyễn Hà,My,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19221173,Đặng Tùng,Dương,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19221189,Thái Đình,Hồng,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19221198,Nguyễn Thị Thanh,Huyền,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19221204,Hoàng Thị Thùy,Linh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19221263,Phạm Thị Thu,Thuỷ,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19221937,Nguyễn Thị,Mây,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19222014,Thân Thanh,Tùng,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230159,Cao Linh Ánh,Dương,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230164,Lê Anh,Duy,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230169,Phạm Thu,Hà,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230185,Ngô Văn,Hùng,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230186,Trần Duyên,Hùng,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230192,Nguyễn Đức,Huy,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230195,Trần Ngọc,Huyền,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230197,Nguyễn Tuấn,Khải,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230214,Nguyễn Khánh,Linh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230228,Nguyễn Dương Thảo,My,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230244,Phạm Thị,Phương,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230277,Phạm Thị Thanh,Thủy,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230283,Phạm Vương Quỳnh,Trang,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230903,Phạm Ngọc,Liên,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230932,Phan Đăng,Phú,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230958,Nguyễn Thị Hồng,Thuý,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19230969,Phạm Minh,Trang,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19231901,Lê Tuấn,Anh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19231978,Đàm Thúy,Huyền,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19232013,Nguyễn Văn,Ngà,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19232020,Trần Thị,Nhật,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19232044,Phạm Quang,Thanh,TXLUKD1165,24032024.TXLUKD1165.0001,Pháp luật an sinh xã hội,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,1
+HN,19210863,Đặng Tố,Trân,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19211661,Phùng Thế,Trường,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19211953,Trần Nguyễn Hưng,Hoàng,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19211980,Trần Thế,Phúc,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19212217,Đoàn Minh Khả,Hân,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19212289,Quách Sỹ,Thao,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19220128,Phạm Thùy,Dương,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19220133,Đỗ Thanh,Hằng,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19220367,Nguyễn Thu,Nguyệt,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19220452,Nguyễn Quỳnh,Anh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19220593,Trần Duy,Hải,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19221164,Lý Quốc,Đạt,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19221205,Lê Diệu,Linh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19221228,Hồ Thị Thảo,Nguyên,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19221230,Lê Thị Ánh,Nguyệt,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19221897,Nguyễn Thị Thanh,Huyền,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19221903,Nguyễn Vân,Kiều,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19230186,Trần Duyên,Hùng,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19230213,Nguyễn Diệu,Linh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19230933,Lường Thị,Phương,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19230940,Nguyễn Như,Quỳnh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19231903,Nguyễn Hải,Anh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19231915,Trần Thị Lan,Anh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19231917,Nguyễn Ngọc,Ánh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19231932,Vũ Duy,Đại,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19231958,Trần Thị Thu,Hằng,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19231981,Huỳnh Phương,Huyền,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19232020,Trần Thị,Nhật,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19232039,Nguyễn Minh,Thái,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19232044,Phạm Quang,Thanh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2
+HN,19232072,Nguyễn Hữu,Vinh,TXLUKD1183,24032024.TXLUKD1183.0001,Pháp luật hôn nhân và gia đình,3,Bộ môn Pháp luật kinh doanh,Khoa Luật,2

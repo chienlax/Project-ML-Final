@@ -1,0 +1,9 @@
+good_results/
+Others/
+env/
+dist/
+build/main/
+*.spec
+.venv/
+.vscode/
+build/ignore/

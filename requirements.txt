@@ -1,0 +1,7 @@
+absl_py==2.1.0
+k_means_constrained==0.7.3
+numpy==1.26.4
+ortools==9.10.4067
+pandas==2.2.2
+psutil==5.9.8
+scikit_learn==1.5.0

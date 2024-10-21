@@ -1,0 +1,927 @@
+﻿Địa điểm,Mã SV,Họ Lót,Tên,Mã HP,Mã LHP,Tên HP,Số TC,Thời gian thi,DKT
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXICT01,19189004TXICT01,Nhập môn Internet và E-learning,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXPSD01,19189004TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXKHMI01,19189004TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXNHLT01,19189004TXNHLT01,Lý thuyết tài chính tiền tệ 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXQLKT01,19189004TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXLUCS02,19189004TXLUCS02,Lý luận nhà nước và pháp luật 1,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXLUCS03,19189004TXLUCS03,Lý luận nhà nước và pháp luật 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXTOCB02,19189004TXTOCB02,Toán cho các nhà kinh tế 1,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXLUKD06,19189004TXLUKD06,Luật hình sự 2,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXNLDS01,19189004TXNLDS01,Dân số và phát triển,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXLUKD08,19189004TXLUKD08,Luật thương mại 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXLUKD09,19189004TXLUKD09,Luật thương mại 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXLUKD07,19189004TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXLUKD24,19189004TXLUKD24,Luật tố tụng hành chính,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19189004,Trần Quốc ,Huy,TXLUKD13,19189004TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXQLKT01,19201771TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXQTTH10,19201771TXQTTH10,Khởi sự kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXTMKT02,19201771TXTMKT02,Quản trị kinh doanh thương mại,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXQTKD108,19201771TXQTKD108,Quản trị điều hành dự án,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXQTTH04,19201771TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXQTTH05,19201771TXQTTH05,Quản trị chi phí kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXQTTH06,19201771TXQTTH06,Kiểm soát,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXQTTH07,19201771TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXQTVH04,19201771TXQTVH04,Giao tiếp kinh doanh và thuyết trình,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19201771,Lê Quỳnh ,Trang,TXQTKD116,19201771TXQTKD116,Kỹ năng quản trị,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215631,Nguyễn Thị Kim ,Duyên,TXQTVH1107,19215631TXQTVH1107,Đạo đức kinh doanh,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19215631,Nguyễn Thị Kim ,Duyên,TXTOKT1145,19215631TXTOKT1145,Lý thuyết xác suất và thống kê toán,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19215631,Nguyễn Thị Kim ,Duyên,TXQTTH1123,19215631TXQTTH1123,Quản trị quá trình kinh doanh,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19215631,Nguyễn Thị Kim ,Duyên,TXTKKD1112,19215631TXTKKD1112,Thống kê chất lượng,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19215631,Nguyễn Thị Kim ,Duyên,TXQTKD1136,19215631TXQTKD1136,Quản trị văn phòng,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19215631,Nguyễn Thị Kim ,Duyên,TXQTTH1131,19215631TXQTTH1131,Phương pháp tối ưu trong kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215631,Nguyễn Thị Kim ,Duyên,TXQTTH04,19215631TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215631,Nguyễn Thị Kim ,Duyên,TXQTTH02,19215631TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215631,Nguyễn Thị Kim ,Duyên,TXQTKD103,19215631TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215415,Nguyễn Thị Mai ,Hương,TXLLNL1106,19215415TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215415,Nguyễn Thị Mai ,Hương,TXLLTT1101,19215415TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215415,Nguyễn Thị Mai ,Hương,TXLUKD08,19215415TXLUKD08,Luật thương mại 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215415,Nguyễn Thị Mai ,Hương,TXLUKD1173,19215415TXLUKD1173,Luật sở hữu trí tuệ,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215415,Nguyễn Thị Mai ,Hương,TXLUKD05,19215415TXLUKD05,Luật hình sự 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215415,Nguyễn Thị Mai ,Hương,TXLUKD03,19215415TXLUKD03,Luật dân sự 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215415,Nguyễn Thị Mai ,Hương,TXLUCS1137,19215415TXLUCS1137,Luật tố tụng dân sự,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215415,Nguyễn Thị Mai ,Hương,TXLUKD1186,19215415TXLUKD1186,Pháp luật môi trường,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215415,Nguyễn Thị Mai ,Hương,TXLUKD1180,19215415TXLUKD1180,Pháp luật đầu tư,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXICT01,19215409TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXLLNL1105,19215409TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXLUKD1177,19215409TXLUKD1177,Pháp luật chứng khoán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXLUCS1137,19215409TXLUCS1137,Luật tố tụng dân sự,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXLUKD10,19215409TXLUKD10,Tư pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXKHMA01,19215409TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXQTTH01,19215409TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXQLKT01,19215409TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXLUCS03,19215409TXLUCS03,Lý luận nhà nước và pháp luật 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXLUKD1173,19215409TXLUKD1173,Luật sở hữu trí tuệ,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215409,Nguyễn Ngọc ,Ánh,TXTMKQ1123,19215409TXTMKQ1123,Kinh tế quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXKHMA01,19200369TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXLUCS01,19200369TXLUCS01,Pháp luật đại cương,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXLUKD01,19200369TXLUKD01,Pháp luật kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXNLQT02,19200369TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXQTKD01,19200369TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXQTKD103,19200369TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXQTTH06,19200369TXQTTH06,Kiểm soát,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXTKKD03,19200369TXTKKD03,Thống kê kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXTOKT02,19200369TXTOKT02,Lý thuyết xác suất và thống kê toán 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXQTVH01,19200369TXQTVH01,Văn hóa và đạo đức kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXQTKD107,19200369TXQTKD107,Quản trị hậu cần,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXQTKD108,19200369TXQTKD108,Quản trị điều hành dự án,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXQTVH04,19200369TXQTVH04,Giao tiếp kinh doanh và thuyết trình,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD07,19210076TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD10,19210076TXLUKD10,Tư pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD1170,19210076TXLUKD1170,Luật WTO,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD1176,19210076TXLUKD1176,Pháp Luật cạnh tranh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD1177,19210076TXLUKD1177,Pháp luật chứng khoán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD1186,19210076TXLUKD1186,Pháp luật môi trường,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD1173,19210076TXLUKD1173,Luật sở hữu trí tuệ,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXTMKQ1123,19210076TXTMKQ1123,Kinh tế quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD13,19210076TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD1181,19210076TXLUKD1181,Pháp luật giao dịch điện tử,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD1187,19210076TXLUKD1187,Pháp luật ngân hàng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLLNL1107,19210076TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19210076,Nguyễn Hoàng ,Dung,TXLUKD1188,19210076TXLUKD1188,Pháp luật tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXPSD01,19205935TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXQTTH01,19205935TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXLLNL1105,19205935TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHTM03,19205935TXNHTM03,Ngân hàng thương mại 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXLLNL1106,19205935TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXLLTT1101,19205935TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHTC02,19205935TXNHTC02,Tài chính doanh nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHTM06,19205935TXNHTM06,Toán tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXLLNL1107,19205935TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHTM04,19205935TXNHTM04,Ngân hàng thương mại 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXTMKD1128,19205935TXTMKD1128,Kinh doanh quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXLUKD1187,19205935TXLUKD1187,Pháp luật ngân hàng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHCK04,19205935TXNHCK04,Phân tích và Đầu tư chứng khoán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHLT06,19205935TXNHLT06,Tài chính công 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHTM09,19205935TXNHTM09,Kế toán ngân hàng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXQTKD1132,19205935TXQTKD1132,Quản trị chiến lược,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXTOKT1145,19205935TXTOKT1145,Lý thuyết xác suất và thống kê toán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHQT05,19205935TXNHQT05,Tài chính quốc tế 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHCO1109,19205935TXNHCO1109,Tài chính công 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205935,Trương Văn ,Sơn,TXNHCO1111,19205935TXNHCO1111,Thuế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215602,Bùi Thanh ,Nga,TXKHMI01,19215602TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215602,Bùi Thanh ,Nga,TXTMKQ1123,19215602TXTMKQ1123,Kinh tế quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215602,Bùi Thanh ,Nga,TXLUKD1186,19215602TXLUKD1186,Pháp luật môi trường,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215602,Bùi Thanh ,Nga,TXLUKD13,19215602TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215602,Bùi Thanh ,Nga,TXLUKD1187,19215602TXLUKD1187,Pháp luật ngân hàng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215602,Bùi Thanh ,Nga,TXLUKD1181,19215602TXLUKD1181,Pháp luật giao dịch điện tử,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215602,Bùi Thanh ,Nga,TXLUKD10,19215602TXLUKD10,Tư pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215602,Bùi Thanh ,Nga,TXLUKD1176,19215602TXLUKD1176,Pháp Luật cạnh tranh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215602,Bùi Thanh ,Nga,TXLUKD1177,19215602TXLUKD1177,Pháp luật chứng khoán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXLUKD03,19191008TXLUKD03,Luật dân sự 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXLUKD15,19191008TXLUKD15,Luật sở hữu trí tuệ,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXLUCS08,19191008TXLUCS08,Pháp luật an sinh xã hội,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXLUKD27,19191008TXLUKD27,Pháp luật ngân hàng,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXLUKD29,19191008TXLUKD29,Chuyên đề Pháp luật chứng khoán,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXLUKD16,19191008TXLUKD16,Xây dựng văn bản pháp luật,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXLUKD31,19191008TXLUKD31,Pháp luật đầu tư,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXQTTH01,19191008TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXLUKD07,19191008TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191008,Lê Đình ,Hải,TXLUKD10,19191008TXLUKD10,Tư pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19200369,Phạm Lê ,Long,TXQTTH05,19200369TXQTTH05,Quản trị chi phí kinh doanh,3,90,Đăng Ký Thi ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLUKD1173,19225497TXLUKD1173,Luật sở hữu trí tuệ,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLUKD1165,19225497TXLUKD1165,Pháp luật an sinh xã hội,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLUKD1105,19225497TXLUKD1105,Pháp luật đất đai,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLUKD1180,19225497TXLUKD1180,Pháp luật đầu tư,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLUKD1183,19225497TXLUKD1183,Pháp luật hôn nhân và gia đình,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLLNL1106,19225497TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLLDL1102,19225497TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLUCS1138,19225497TXLUCS1138,Luật dân sự 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLLTT1101,19225497TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thị ,Ngọc,TXLLNL1107,19225497TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225497,Phan Thi ,Ngoc,TXKTKE01,19225497TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225497,Phan Thi ,Ngoc,TXKHMA01,19225497TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXLLTT01,19205523TXLLTT01,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXLUCS01,19205523TXLUCS01,Pháp luật đại cương,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXQTKD103,19205523TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXBHKT01,19205523TXBHKT01,Quản trị kinh doanh bảo hiểm,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXQTKD104,19205523TXQTKD104,Quản trị tác nghiệp 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXQTVH01,19205523TXQTVH01,Văn hóa và đạo đức kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXTKKD03,19205523TXTKKD03,Thống kê kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXTMKT02,19205523TXTMKT02,Quản trị kinh doanh thương mại,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXLUKD01,19205523TXLUKD01,Pháp luật kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXTMKD02,19205523TXTMKD02,Kinh doanh quốc tế 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXTOKT02,19205523TXTOKT02,Lý thuyết xác suất và thống kê toán 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205523,Trần Thị Linh ,Thuỳ,TXNHLT01,19205523TXNHLT01,Lý thuyết tài chính tiền tệ 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXICT01,19228011TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXPSD01,19228011TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXNHTC01,19228011TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXNLQT02,19228011TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXKHMA01,19228011TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXKHMI01,19228011TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXLLNL1105,19228011TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXQTKD01,19228011TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXQTKD103,19228011TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXQTTH02,19228011TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXLLNL1106,19228011TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXQTTH07,19228011TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19228011,Hứa Như ,Nguyên,TXQTKD102,19228011TXQTKD102,Quản trị chiến lược 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225599,Trần Thúy ,Quỳnh,TXKTKE01,19225599TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225599,Trần Thúy ,Quỳnh,TXLLTT1101,19225599TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225599,Trần Thúy ,Quỳnh,TXNHTC01,19225599TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225599,Trần Thúy ,Quỳnh,TXLUCS1129,19225599TXLUCS1129,Pháp luật đại cương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225599,Trần Thúy ,Quỳnh,TXQTTH06,19225599TXQTTH06,Kiểm soát,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225599,Trần Thúy ,Quỳnh,TXQTKD114,19225599TXQTKD114,Nghiên cứu kinh doanh,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225599,Trần Thúy ,Quỳnh,TXQTTH04,19225599TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225599,Trần Thúy ,Quỳnh,TXQTVH1109,19225599TXQTVH1109,Giao tiếp kinh doanh,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXKTTC1113,19225436TXKTTC1113,Kế toán công ty,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXDTKT1170,19225436TXDTKT1170,Thẩm định dự án đầu tư,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXKTQT1106,19225436TXKTQT1106,Kế toán quản trị 2,2,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXNHCO1107,19225436TXNHCO1107,Tài chính công,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXLUCS1129,19225436TXLUCS1129,Pháp luật đại cương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXKTTC02,19225436TXKTTC02,Kế toán tài chính 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXNHTM1121,19225436TXNHTM1121,Ngân hàng thương mại,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXKTKE02,19225436TXKTKE02,Kế toán công,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXTKKD1129,19225436TXTKKD1129,Thống kê trong kinh tế và kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225436,Nguyễn Thị Mỹ ,Linh,TXLLNL1105,19225436TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXLLNL1105,19225544TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXLLNL1106,19225544TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXLLNL1107,19225544TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXLLTT1101,19225544TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXLLDL1102,19225544TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXKHMA01,19205354TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXQTTH01,19205354TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXQTKD01,19205354TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXLLDL01,19205354TXLLDL01,Đường lối cách mạng của Đảng Cộng sản Việt Nam,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXQTKD103,19205354TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXTOKT02,19205354TXTOKT02,Lý thuyết xác suất và thống kê toán 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXNLQT02,19205354TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXTKKD03,19205354TXTKKD03,Thống kê kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXTMKT02,19205354TXTMKT02,Quản trị kinh doanh thương mại,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXQTTH07,19205354TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXQTKD112,19205354TXQTKD112,Quản trị doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXQTKD107,19205354TXQTKD107,Quản trị hậu cần,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205354,Hồ Thị Thanh ,Xuân,TXQTVH04,19205354TXQTVH04,Giao tiếp kinh doanh và thuyết trình,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXLUCS1129,19215318TXLUCS1129,Pháp luật đại cương,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXNHTC01,19215318TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXKTKE01,19215318TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXKHMA01,19215318TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXLLNL1106,19215318TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXQTKD103,19215318TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXQTTH02,19215318TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXLLNL1107,19215318TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXLLTT1101,19215318TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXQTVH1109,19215318TXQTVH1109,Giao tiếp kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXTOKT1145,19215318TXTOKT1145,Lý thuyết xác suất và thống kê toán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXNLQT02,19215318TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXQTTH10,19215318TXQTTH10,Khởi sự kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215318,Nguyễn Hoàng ,Long,TXTMKD1128,19215318TXTMKD1128,Kinh doanh quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225599,Trần Thúy ,Quỳnh,TXQTTH1131,19225599TXQTTH1131,Phương pháp tối ưu trong kinh doanh,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLLNL1105,19225521TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUCS09,19225521TXLUCS09,Luật hiến pháp,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD02,19225521TXLUKD02,Luật hành chính,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD05,19225521TXLUKD05,Luật hình sự 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD03,19225521TXLUKD03,Luật dân sự 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD08,19225521TXLUKD08,Luật thương mại 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD1165,19225521TXLUKD1165,Pháp luật an sinh xã hội,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLLNL1106,19225521TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLLTT1101,19225521TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLLDL1102,19225521TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD1173,19225521TXLUKD1173,Luật sở hữu trí tuệ,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUCS1138,19225521TXLUCS1138,Luật dân sự 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLLNL1107,19225521TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD1105,19225521TXLUKD1105,Pháp luật đất đai,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD1183,19225521TXLUKD1183,Pháp luật hôn nhân và gia đình,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD1180,19225521TXLUKD1180,Pháp luật đầu tư,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXTMKQ1123,19225521TXTMKQ1123,Kinh tế quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD1186,19225521TXLUKD1186,Pháp luật môi trường,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD09,19225521TXLUKD09,Luật thương mại 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD07,19225521TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD1188,19225521TXLUKD1188,Pháp luật tài chính,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD12,19225521TXLUKD12,Luật lao động,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD13,19225521TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225521,Đoàn Thanh ,Việt,TXLUKD1181,19225521TXLUKD1181,Pháp luật giao dịch điện tử,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXNHLT06,19225544TXNHLT06,Tài chính công 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXNHQT05,19225544TXNHQT05,Tài chính quốc tế 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXNHCK02,19225544TXNHCK02,Thị trường chứng khoán 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXKHMI01,19225544TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225544,Nguyễn Thị ,Thảo,TXKHMA01,19225544TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD22,19205570TXLUKD22,Kỹ năng xác lập và thực hiện hợp đồng thương mại,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD24,19205570TXLUKD24,Luật tố tụng hành chính,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD35,19205570TXLUKD35,Luật tố tụng hình sự,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD14,19205570TXLUKD14,Luật tố tụng dân sự,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD23,19205570TXLUKD23,Pháp luật đất đai,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD25,19205570TXLUKD25,Pháp luật tài chính,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD18,19205570TXLUKD18,Pháp luật hôn nhân và gia đình,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD27,19205570TXLUKD27,Pháp luật ngân hàng,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD29,19205570TXLUKD29,Chuyên đề Pháp luật chứng khoán,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUCS08,19205570TXLUCS08,Pháp luật an sinh xã hội,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD15,19205570TXLUKD15,Luật sở hữu trí tuệ,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXPTCC01,19205570TXPTCC01,Kinh tế công cộng 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLLDL01,19205570TXLLDL01,Đường lối cách mạng của Đảng Cộng sản Việt Nam,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLLTT01,19205570TXLLTT01,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD07,19205570TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD05,19205570TXLUKD05,Luật hình sự 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD12,19205570TXLUKD12,Luật lao động,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205570,Trần Đình Tân ,Xứ,TXLUKD03,19205570TXLUKD03,Luật dân sự 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXTOCB01,19225451TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXKHMI01,19225451TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXKHMA01,19225451TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXTOKT04,19225451TXTOKT04,Kinh tế lượng 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXKTKE02,19225451TXKTKE02,Kế toán công,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXKTTC01,19225451TXKTTC01,Kế toán tài chính 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXKTQT01,19225451TXKTQT01,Kế toán quản trị 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXLLNL1105,19225451TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXKTTC02,19225451TXKTTC02,Kế toán tài chính 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXNHCO1111,19225451TXNHCO1111,Thuế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225451,Hoàng Thị ,Thảo,TXNHTM1121,19225451TXNHTM1121,Ngân hàng thương mại,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXNHTC01,19225609TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTTH01,19225609TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTTH1131,19225609TXQTTH1131,Phương pháp tối ưu trong kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTTH04,19225609TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTTH06,19225609TXQTTH06,Kiểm soát,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTKD102,19225609TXQTKD102,Quản trị chiến lược 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTTH02,19225609TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTKD103,19225609TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTKD107,19225609TXQTKD107,Quản trị hậu cần,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTTH05,19225609TXQTTH05,Quản trị chi phí kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXKHMA01,19225609TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXKHMI01,19225609TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTKD01,19225609TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXNLQT02,19225609TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225609,Trần Thị Cẩm ,Tiên,TXQTTH07,19225609TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225512,Lê Thanh ,Thủy,TXLUCS09,19225512TXLUCS09,Luật hiến pháp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225512,Lê Thanh ,Thủy,TXLUKD08,19225512TXLUKD08,Luật thương mại 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225512,Lê Thanh ,Thủy,TXLUKD05,19225512TXLUKD05,Luật hình sự 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225512,Lê Thanh ,Thủy,TXLUKD1165,19225512TXLUKD1165,Pháp luật an sinh xã hội,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225512,Lê Thanh ,Thủy,TXLLNL1106,19225512TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225512,Lê Thanh ,Thủy,TXKHMI01,19225512TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225512,Lê Thanh ,Thủy,TXKHMA01,19225512TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225512,Lê Thanh ,Thủy,TXTOCB01,19225512TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225512,Lê Thanh ,Thủy,TXKTKE01,19225512TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXICT01,19235263TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXPSD01,19235263TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXLLNL1105,19235263TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXLLTT1101,19235263TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXTOCB01,19235263TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXNHLT1107,19235263TXNHLT1107,Lý thuyết tài chính tiền tệ,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXKTKE01,19235263TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXTOKT04,19235263TXTOKT04,Kinh tế lượng 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXKTTC01,19235263TXKTTC01,Kế toán tài chính 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXKTQT01,19235263TXKTQT01,Kế toán quản trị 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXKTKE1109,19235263TXKTKE1109,Kế toán công 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXKTKE1108,19235263TXKTKE1108,Kế toán quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXKTQT1106,19235263TXKTQT1106,Kế toán quản trị 2,2,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXKTHT1105,19235263TXKTHT1105,Kiểm soát nội bộ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXKHEH1105,19235263TXKHEH1105,Lịch sử kinh tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXDTKT1170,19235263TXDTKT1170,Thẩm định dự án đầu tư,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXNHCO1107,19235263TXNHCO1107,Tài chính công,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXNHCO1111,19235263TXNHCO1111,Thuế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXNHCK02,19235263TXNHCK02,Thị trường chứng khoán,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235263,Phạm Vân ,Quyên,TXKTQT1109,19235263TXKTQT1109,Kế toán chi phí,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUKD1170,19225300TXLUKD1170,Luật WTO,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUKD1176,19225300TXLUKD1176,Pháp Luật cạnh tranh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUKD1177,19225300TXLUKD1177,Pháp luật chứng khoán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUKD1181,19225300TXLUKD1181,Pháp luật giao dịch điện tử,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUKD1188,19225300TXLUKD1188,Pháp luật tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUKD1180,19225300TXLUKD1180,Pháp luật đầu tư,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUKD1186,19225300TXLUKD1186,Pháp luật môi trường,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLLNL1107,19225300TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXQLKT01,19225300TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUKD1105,19225300TXLUKD1105,Pháp luật đất đai,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXPSD01,19225300TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXICT01,19225300TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUCS1144,19235360TXLUCS1144,Luật hình sự,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLLTT1101,19235360TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUCS1127,19235360TXLUCS1127,Luật tố tụng hình sự,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD1163,19235360TXLUKD1163,Pháp luật về đầu tư,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD1165,19235360TXLUKD1165,Pháp luật an sinh xã hội,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD1173,19235360TXLUKD1173,Luật sở hữu trí tuệ,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD1183,19235360TXLUKD1183,Pháp luật hôn nhân và gia đình,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD1186,19235360TXLUKD1186,Pháp luật môi trường,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD1105,19235360TXLUKD1105,Pháp luật đất đai,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXQTTH01,19235360TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD07,19235360TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD08,19235360TXLUKD08,Luật thương mại 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD12,19235360TXLUKD12,Luật lao động,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD13,19235360TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235360,Nguyễn Ngọc ,Đạt,TXLUKD1179,19235360TXLUKD1179,Pháp luật đấu thầu,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXKHEH1105,19235325TXKHEH1105,Lịch sử kinh tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXKTHT1105,19235325TXKTHT1105,Kiểm soát nội bộ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXKTQT01,19235325TXKTQT01,Kế toán quản trị 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXKTQT1109,19235325TXKTQT1109,Kế toán chi phí,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXLLNL1107,19235325TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXMKMA1104,19235325TXMKMA1104,Marketing căn bản,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXNHCK02,19235325TXNHCK02,Thị trường chứng khoán,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXDTKT1170,19235325TXDTKT1170,Thẩm định dự án đầu tư,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXKTTC01,19235325TXKTTC01,Kế toán tài chính 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXLLNL1106,19235325TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXNHCO1111,19235325TXNHCO1111,Thuế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXNHLT1107,19235325TXNHLT1107,Lý thuyết tài chính tiền tệ,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXQLKT01,19235325TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXTKKD1129,19235325TXTKKD1129,Thống kê trong kinh tế và kinh doanh,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXKTTC1113,19191531TXKTTC1113,Kế toán công ty,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXKTTC1114,19191531TXKTTC1114,Kế toán tài chính 3,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXDTKT02,19191531TXDTKT02,Lập và Quản lý dự án đầu tư,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXQLCN01,19191531TXQLCN01,Quản lý công nghệ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXQTKD110,19191531TXQTKD110,Kỹ năng quản trị,2,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXMKMA01,19191531TXMKMA01,Marketing căn bản,2,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXKTKI02,19191531TXKTKI02,Kiểm toán tài chính 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXDTKT03,19191531TXDTKT03,Thẩm định dự án đầu tư,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXKTQT01,19191531TXKTQT01,Kế toán quản trị 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXPSD01,19191531TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191531,Trần Thị Thu ,Hiền,TXNHCO1107,19191531TXNHCO1107,Tài chính công,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225128,Hoàng Thị Hồng ,Hà,TXLLDL1102,19225128TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225128,Hoàng Thị Hồng ,Hà,TXLLNL1107,19225128TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225128,Hoàng Thị Hồng ,Hà,TXMKMA02,19225128TXMKMA02,Quản trị Marketing,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225128,Hoàng Thị Hồng ,Hà,TXLLNL1106,19225128TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225128,Hoàng Thị Hồng ,Hà,TXQTTH07,19225128TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225128,Hoàng Thị Hồng ,Hà,TXQTKD108,19225128TXQTKD108,Quản trị điều hành dự án,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225128,Hoàng Thị Hồng ,Hà,TXTMKD1128,19225128TXTMKD1128,Kinh doanh quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225128,Hoàng Thị Hồng ,Hà,TXQTTH02,19225128TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225128,Hoàng Thị Hồng ,Hà,TXQTKD102,19225128TXQTKD102,Quản trị chiến lược 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXTKKD1112,19225137TXTKKD1112,Thống kê chất lượng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTKD116,19225137TXQTKD116,Kỹ năng quản trị,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTKD1136,19225137TXQTKD1136,Quản trị văn phòng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTTH04,19225137TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXTMKD1128,19225137TXTMKD1128,Kinh doanh quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXKTKE01,19225137TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTTH01,19225137TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTVH1108,19225137TXQTVH1108,Đổi mới và sáng tạo,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTVH1110,19225137TXQTVH1110,Quản trị đa văn hóa,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTKD102,19225137TXQTKD102,Quản trị chiến lược 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTTH1123,19225137TXQTTH1123,Quản trị quá trình kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTKD01,19225137TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTVH1107,19225137TXQTVH1107,Đạo đức kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXMKMA02,19225137TXMKMA02,Quản trị Marketing,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXTOCB01,19225137TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXNLQT02,19225137TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTKD107,19225137TXQTKD107,Quản trị hậu cần,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTTH10,19225137TXQTTH10,Khởi sự kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTVH1109,19225137TXQTVH1109,Giao tiếp kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTTH02,19225137TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTTH07,19225137TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXQTKD103,19225137TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXNHTC01,19225137TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225137,Nguyễn Thị Ánh ,Hương,TXPSD01,19225137TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXMKMA02,19225138TXMKMA02,Quản trị Marketing,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXQTKD102,19225138TXQTKD102,Quản trị chiến lược 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXQTKD103,19225138TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXQTKD1136,19225138TXQTKD1136,Quản trị văn phòng,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXQTTH1131,19225138TXQTTH1131,Phương pháp tối ưu trong kinh doanh,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXTKKD1112,19225138TXTKKD1112,Thống kê chất lượng,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXQTVH1108,19225138TXQTVH1108,Đổi mới và sáng tạo,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXQTKD107,19225138TXQTKD107,Quản trị hậu cần,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXNHTC01,19225138TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXTMKD1128,19225138TXTMKD1128,Kinh doanh quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225138,Trần Văn ,Huy,TXQTKD116,19225138TXQTKD116,Kỹ năng quản trị,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225269,Ngô Thanh ,Huyền,TXLLNL1107,19225269TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225269,Ngô Thanh ,Huyền,TXLUKD13,19225269TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225269,Ngô Thanh ,Huyền,TXLUKD1105,19225269TXLUKD1105,Pháp luật đất đai,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225269,Ngô Thanh ,Huyền,TXLUKD1183,19225269TXLUKD1183,Pháp luật hôn nhân và gia đình,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225269,Ngô Thanh ,Huyền,TXLUKD1180,19225269TXLUKD1180,Pháp luật đầu tư,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225269,Ngô Thanh ,Huyền,TXLUCS1137,19225269TXLUCS1137,Luật tố tụng dân sự,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225269,Ngô Thanh ,Huyền,TXLUKD1170,19225269TXLUKD1170,Luật WTO,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225269,Ngô Thanh ,Huyền,TXLUKD1177,19225269TXLUKD1177,Pháp luật chứng khoán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225269,Ngô Thanh ,Huyền,TXLUKD1176,19225269TXLUKD1176,Pháp Luật cạnh tranh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD07,19235054TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD08,19235054TXLUKD08,Luật thương mại 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD1105,19235054TXLUKD1105,Pháp luật đất đai,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD1163,19235054TXLUKD1163,Pháp luật về đầu tư,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD1183,19235054TXLUKD1183,Pháp luật hôn nhân và gia đình,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD1186,19235054TXLUKD1186,Pháp luật môi trường,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD12,19235054TXLUKD12,Luật lao động,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXQTTH01,19235054TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLLTT1101,19235054TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD1165,19235054TXLUKD1165,Pháp luật an sinh xã hội,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD1173,19235054TXLUKD1173,Luật sở hữu trí tuệ,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD09,19235054TXLUKD09,Luật thương mại 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD10,19235054TXLUKD10,Tư pháp quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD1177,19235054TXLUKD1177,Pháp luật chứng khoán,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD1179,19235054TXLUKD1179,Pháp luật đấu thầu,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235054,Nguyễn Văn ,Cử,TXLUKD1188,19235054TXLUKD1188,Pháp luật tài chính,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXICT01,19235193TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXPSD01,19235193TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXICT01,19235240TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXPSD01,19235240TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXQTKD107,19235240TXQTKD107,Quản trị hậu cần,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXTKKD1129,19235240TXTKKD1129,Thống kê trong kinh tế và kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXQTKD01,19235240TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXLLDL1102,19235240TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXMKMA1104,19235240TXMKMA1104,Marketing căn bản,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXKTKE01,19235240TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXKHMI01,19235240TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXKHMA01,19235240TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXTOCB01,19235240TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXQTTH04,19235240TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235240,Trần Chí ,Nguyên,TXLLTT1101,19235240TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235115,Võ ,Thịnh,TXLUKD07,19235115TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235115,Võ ,Thịnh,TXLUKD1105,19235115TXLUKD1105,Pháp luật đất đai,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235115,Võ ,Thịnh,TXLUKD08,19235115TXLUKD08,Luật thương mại 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235115,Võ ,Thịnh,TXQTTH01,19235115TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235115,Võ ,Thịnh,TXLUKD12,19235115TXLUKD12,Luật lao động,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXLLNL1106,19225096TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXLLNL1105,19225096TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXLLNL1107,19225096TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXLLTT1101,19225096TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXLLDL1102,19225096TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXTOKT04,19225096TXTOKT04,Kinh tế lượng 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXNHTM05,19225096TXNHTM05,Chuyên đề Marketing Ngân hàng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXNHQT03,19225096TXNHQT03,Thanh toán quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXNHCO1109,19225096TXNHCO1109,Tài chính công 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225096,Lê Quốc ,Bảo,TXNHTM06,19225096TXNHTM06,Toán tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLLNL1107,19225303TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD07,19225303TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD1105,19225303TXLUKD1105,Pháp luật đất đai,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD1183,19225303TXLUKD1183,Pháp luật hôn nhân và gia đình,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUCS1137,19225303TXLUCS1137,Luật tố tụng dân sự,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD1187,19225303TXLUKD1187,Pháp luật ngân hàng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD1180,19225303TXLUKD1180,Pháp luật đầu tư,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD1181,19225303TXLUKD1181,Pháp luật giao dịch điện tử,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD1186,19225303TXLUKD1186,Pháp luật môi trường,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD1170,19225303TXLUKD1170,Luật WTO,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD1176,19225303TXLUKD1176,Pháp Luật cạnh tranh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD1177,19225303TXLUKD1177,Pháp luật chứng khoán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225303,Ngô Duy ,Tùng,TXLUKD13,19225303TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXICT01,19235039TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXPSD01,19235039TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXLUCS1129,19235039TXLUCS1129,Pháp luật đại cương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXTOCB01,19235039TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXNHLT1107,19235039TXNHLT1107,Lý thuyết tài chính tiền tệ,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTKE01,19235039TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXTOKT04,19235039TXTOKT04,Kinh tế lượng 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTTC01,19235039TXKTTC01,Kế toán tài chính 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTQT01,19235039TXKTQT01,Kế toán quản trị 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTKE1109,19235039TXKTKE1109,Kế toán công 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTKI03,19235039TXKTKI03,Kiểm toán căn bản,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTKE1108,19235039TXKTKE1108,Kế toán quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTQT1106,19235039TXKTQT1106,Kế toán quản trị 2,2,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTTC02,19235039TXKTTC02,Kế toán tài chính 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTKI02,19235039TXKTKI02,Kiểm toán tài chính 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTTC07,19235039TXKTTC07,Phân tích báo cáo tài chính,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTTC1114,19235039TXKTTC1114,Kế toán tài chính 3,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTQT1107,19235039TXKTQT1107,Phân tích kinh doanh,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTHT1105,19235039TXKTHT1105,Kiểm soát nội bộ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKTHT1101,19235039TXKTHT1101,Hệ thống thông tin kế toán 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXKHEH1105,19235039TXKHEH1105,Lịch sử kinh tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXDTKT1170,19235039TXDTKT1170,Thẩm định dự án đầu tư,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXNHTC1120,19235039TXNHTC1120,Tài chính doanh nghiệp,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXNHCO1107,19235039TXNHCO1107,Tài chính công,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXNHCO1111,19235039TXNHCO1111,Thuế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235039,Nguyễn Thị Xuân ,Trang,TXNHCK02,19235039TXNHCK02,Thị trường chứng khoán,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXKTKE01,19235193TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXLLNL1106,19235193TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXMKMA1104,19235193TXMKMA1104,Marketing căn bản,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXLLNL1107,19235193TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXQTTH01,19235193TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXLLNL1107,19235235TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXQTKD01,19235235TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXKHMA01,19235235TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXQTVH1107,19235235TXQTVH1107,Đạo đức kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXLLNL1106,19235235TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXQTTH01,19235235TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235115,Võ ,Thịnh,TXGDTC0004,19235115TXGDTC0004,Võ Taekwondo,1,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235529,Phan Thị Mai ,Thơm,TXICT01,19235529TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235529,Phan Thị Mai ,Thơm,TXPSD01,19235529TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235529,Phan Thị Mai ,Thơm,TXNHLT02,19235529TXNHLT02,Lý thuyết tài chính tiền tệ 2,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235529,Phan Thị Mai ,Thơm,TXNHTM05,19235529TXNHTM05,Chuyên đề Marketing Ngân hàng,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235529,Phan Thị Mai ,Thơm,TXQTKD114,19235529TXQTKD114,Nghiên cứu kinh doanh,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235529,Phan Thị Mai ,Thơm,TXNHTM04,19235529TXNHTM04,Ngân hàng thương mại 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235529,Phan Thị Mai ,Thơm,TXTKKD1129,19235529TXTKKD1129,Thống kê trong kinh tế và kinh doanh,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235529,Phan Thị Mai ,Thơm,TXNHCK1118,19235529TXNHCK1118,Thị trường chứng khoán nợ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235529,Phan Thị Mai ,Thơm,TXQTCL1105,19235529TXQTCL1105,Quản trị chất lượng dịch vụ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLLNL1106,19225300TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUCS1128,19225300TXLUCS1128,Lý luận nhà nước và pháp luật 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUCS03,19225300TXLUCS03,Lý luận nhà nước và pháp luật 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUKD02,19225300TXLUKD02,Luật hành chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225300,Nguyễn Thị Huỳnh ,Trang,TXLUCS1138,19225300TXLUCS1138,Luật dân sự 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQTTH10,19191573TXQTTH10,Khởi sự kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQTTH05,19191573TXQTTH05,Quản trị chi phí kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQTTH02,19191573TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQTTH04,19191573TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXLUKD01,19191573TXLUKD01,Pháp luật kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQTVH04,19191573TXQTVH04,Giao tiếp kinh doanh và thuyết trình,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQTTH06,19191573TXQTTH06,Kiểm soát,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQTTH07,19191573TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQTKD108,19191573TXQTKD108,Quản trị điều hành dự án,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQLCN02,19191573TXQLCN02,Quản lý công nghệ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19191573,Nguyễn Hải ,Nam,TXQTKD116,19191573TXQTKD116,Kỹ năng quản trị,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXICT01,19235278TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXPSD01,19235278TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXLLNL1106,19235278TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXLLNL1107,19235278TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXQTTH07,19235278TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXQTVH1107,19235278TXQTVH1107,Đạo đức kinh doanh,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXQTTH01,19235278TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXMKMA02,19235278TXMKMA02,Quản trị Marketing,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXNLQT02,19235278TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235278,Phạm Thị Thanh ,Thảo,TXQTVH1110,19235278TXQTVH1110,Quản trị đa văn hóa,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235325,Vương Quang ,Huy,TXKHMA01,19235325TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXQLKT01,19215508TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXTMKQ1123,19215508TXTMKQ1123,Kinh tế quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD07,19215508TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD1188,19215508TXLUKD1188,Pháp luật tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD09,19215508TXLUKD09,Luật thương mại 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD13,19215508TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD1187,19215508TXLUKD1187,Pháp luật ngân hàng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUCS1137,19215508TXLUCS1137,Luật tố tụng dân sự,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD1181,19215508TXLUKD1181,Pháp luật giao dịch điện tử,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD1165,19215508TXLUKD1165,Pháp luật an sinh xã hội,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD10,19215508TXLUKD10,Tư pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD1176,19215508TXLUKD1176,Pháp Luật cạnh tranh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD1177,19215508TXLUKD1177,Pháp luật chứng khoán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215508,Nguyễn Thị ,Luận,TXLUKD1170,19215508TXLUKD1170,Luật WTO,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXQTKD01,19235193TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXLLDL1102,19235193TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXQTTH05,19235193TXQTTH05,Quản trị chi phí kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235193,Hoàng Thị Bảo ,Hân,TXQTCL1105,19235193TXQTCL1105,Quản trị chất lượng dịch vụ,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235115,Võ ,Thịnh,TXTOCB01,19235115TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235115,Võ ,Thịnh,TXLUKD1173,19235115TXLUKD1173,Luật sở hữu trí tuệ,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19235115,Võ ,Thịnh,TXLUKD1163,19235115TXLUKD1163,Pháp luật về đầu tư,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXGDTC0004,19235235TXGDTC0004,Võ Taekwondo,1,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXGDTC0003,19235235TXGDTC0003,Võ Karatedo,1,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXGDTC0002,19235235TXGDTC0002,Cờ vua,1,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXGDTC0001,19235235TXGDTC0001,Giáo dục thể chất 1,1,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXLLDL1102,19235235TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXKHMI01,19235235TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19235235,Nguyễn Phùng Hoàng ,Nam,TXMKMA1104,19235235TXMKMA1104,Marketing căn bản,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần Quang ,Trung,TXKHMA01,19225327TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225327,Trần Quang ,Trung,TXLLNL1106,19225327TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225327,Trần Quang ,Trung,TXNHQT03,19225327TXNHQT03,Thanh toán quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225327,Trần Quang ,Trung,TXNHTM03,19225327TXNHTM03,Ngân hàng thương mại 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225327,Trần Quang ,Trung,TXNHTM05,19225327TXNHTM05,Chuyên đề Marketing Ngân hàng,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225327,Trần Quang ,Trung,TXTOKT04,19225327TXTOKT04,Kinh tế lượng 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225327,Trần Quang ,Trung,TXNHLT1106,19225327TXNHLT1106,Ngân hàng trung ương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225327,Trần Quang ,Trung,TXNHTM08,19225327TXNHTM08,Quản trị rủi ro,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225327,Trần Quang ,Trung,TXTOKT1145,19225327TXTOKT1145,Lý thuyết xác suất và thống kê toán,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXNHLT06,19225327TXNHLT06,Tài chính công 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXLLNL1105,19225327TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXLLDL1102,19225327TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXLLNL1107,19225327TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXLLTT1101,19225327TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXNHTC02,19225327TXNHTC02,Tài chính doanh nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXNHTC03,19225327TXNHTC03,Tài chính doanh nghiệp 2,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXNHTM04,19225327TXNHTM04,Ngân hàng thương mại 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXLUCS1129,19225327TXLUCS1129,Pháp luật đại cương,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXNHQT05,19225327TXNHQT05,Tài chính quốc tế 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXNHTM06,19225327TXNHTM06,Toán tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225327,Trần ,Quangtrung,TXNHTM07,19225327TXNHTM07,Ngân hàng phát triển,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19221441,Vũ Việt ,Hùng,TXQTKD1136,19221441TXQTKD1136,Quản trị văn phòng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19221441,Vũ Việt ,Hùng,TXQTTH05,19221441TXQTTH05,Quản trị chi phí kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19221441,Vũ Việt ,Hùng,TXQTTH1123,19221441TXQTTH1123,Quản trị quá trình kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19221441,Vũ Việt ,Hùng,TXQTVH1110,19221441TXQTVH1110,Quản trị đa văn hóa,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19221441,Vũ Việt ,Hùng,TXTOKT1145,19221441TXTOKT1145,Lý thuyết xác suất và thống kê toán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19221441,Vũ Việt ,Hùng,TXLLNL1107,19221441TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19221441,Vũ Việt ,Hùng,TXQTKD107,19221441TXQTKD107,Quản trị hậu cần,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19221441,Vũ Việt ,Hùng,TXQTTH1130,19221441TXQTTH1130,Lập kế hoạch khởi nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19221441,Vũ Việt ,Hùng,TXQTVH1107,19221441TXQTVH1107,Đạo đức kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXICT01,19225659TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXPSD01,19225659TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXLUKD08,19225659TXLUKD08,Luật thương mại 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXLUKD09,19225659TXLUKD09,Luật thương mại 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXQLKT1101,19225659TXQLKT1101,Quản lý học 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXLUCS1128,19225659TXLUCS1128,Lý luận nhà nước và pháp luật 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXTMKQ1123,19225659TXTMKQ1123,Kinh tế quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXTOCB01,19225659TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXKTKE1101,19225659TXKTKE1101,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD09,19230865TXLUKD09,Luật thương mại 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD02,19230865TXLUKD02,Luật hành chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD07,19230865TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD13,19230865TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD1163,19230865TXLUKD1163,Pháp luật về đầu tư,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD1179,19230865TXLUKD1179,Pháp luật đấu thầu,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD1183,19230865TXLUKD1183,Pháp luật hôn nhân và gia đình,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLLNL1107,19230865TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUCS1127,19230865TXLUCS1127,Luật tố tụng hình sự,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD1170,19230865TXLUKD1170,Luật WTO,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXPSD01,19225639TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXTOKT04,19225639TXTOKT04,Kinh tế lượng 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXLUCS1129,19225639TXLUCS1129,Pháp luật đại cương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXLLNL1107,19225639TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKTQT01,19225639TXKTQT01,Kế toán quản trị 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKTKI03,19225639TXKTKI03,Kiểm toán căn bản,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKTTC07,19225639TXKTTC07,Phân tích báo cáo tài chính,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKTHT1101,19225639TXKTHT1101,Hệ thống thông tin kế toán 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXDTKT1170,19225639TXDTKT1170,Thẩm định dự án đầu tư,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKHMI01,19225639TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXNHLT01,19205110TXNHLT01,Lý thuyết tài chính tiền tệ 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXKTKE01,19205110TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXNHTC01,19205110TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXQTKD103,19205110TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXQTVH01,19205110TXQTVH01,Văn hóa và đạo đức kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXBHKT01,19205110TXBHKT01,Quản trị kinh doanh bảo hiểm,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXQTTH04,19205110TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXQTVH04,19205110TXQTVH04,Giao tiếp kinh doanh và thuyết trình,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXQTTH07,19205110TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,Hà Thị ,Nguyên,TXQTKD116,19205110TXQTKD116,Kỹ năng quản trị,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHTM07,19225722TXNHTM07,Ngân hàng phát triển,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHTM09,19225722TXNHTM09,Kế toán ngân hàng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHLT1106,19225722TXNHLT1106,Ngân hàng trung ương,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXLUKD22,19205131TXLUKD22,Kỹ năng xác lập và thực hiện hợp đồng thương mại,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXLUCS03,19205131TXLUCS03,Lý luận nhà nước và pháp luật 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXLUKD07,19205131TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXLLNL01,19205131TXLLNL01,Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin 1,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXNLDS01,19205131TXNLDS01,Dân số và phát triển,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXKTKE01,19225659TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225659,Hoàng Thị Thanh ,Hà,TXQLKT01,19225659TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD24,19205161TXLUKD24,Luật tố tụng hành chính,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD35,19205161TXLUKD35,Luật tố tụng hình sự,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD23,19205161TXLUKD23,Pháp luật đất đai,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD25,19205161TXLUKD25,Pháp luật tài chính,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD26,19205161TXLUKD26,Pháp luật đấu thầu,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD27,19205161TXLUKD27,Pháp luật ngân hàng,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD15,19205161TXLUKD15,Luật sở hữu trí tuệ,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD18,19205161TXLUKD18,Pháp luật hôn nhân và gia đình,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUCS08,19205161TXLUCS08,Pháp luật an sinh xã hội,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD31,19205161TXLUKD31,Pháp luật đầu tư,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUCS1137,19225679TXLUCS1137,Luật tố tụng dân sự,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUKD1180,19225679TXLUKD1180,Pháp luật đầu tư,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUKD1187,19225679TXLUKD1187,Pháp luật ngân hàng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUKD12,19225679TXLUKD12,Luật lao động,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXTMKQ1123,19225679TXTMKQ1123,Kinh tế quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXTOCB01,19225679TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXKHMI01,19225679TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXKHMA01,19225679TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUCS09,19225679TXLUCS09,Luật hiến pháp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXKTKE01,19205069TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXLLNL01,19205069TXLLNL01,Nguyên lý CB của CN Mác - Lênin 1,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXNHTC01,19205069TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXTKKD02,19205069TXTKKD02,Nguyên lý thống kê,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXKTTC01,19205069TXKTTC01,Kế toán tài chính 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXLLTT01,19205069TXLLTT01,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXKTKI03,19205069TXKTKI03,Kiểm toán căn bản,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXLUCS01,19205069TXLUCS01,Pháp luật đại cương,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXTOCB02,19205069TXTOCB02,Toán cho các nhà kinh tế 1,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXLUKD01,19205069TXLUKD01,Pháp luật kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXLLDL1102,19225713TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXTOKT1145,19225713TXTOKT1145,Lý thuyết xác suất và thống kê toán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXNHTC1108,19225713TXNHTC1108,Phân tích tài chính,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXNHTC02,19225713TXNHTC02,Tài chính doanh nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXNHLT06,19225713TXNHLT06,Tài chính công 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXNHTC03,19225713TXNHTC03,Tài chính doanh nghiệp 2,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTKD116,19205103TXQTKD116,Kỹ năng quản trị,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTTH07,19205103TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTVH04,19205103TXQTVH04,Giao tiếp kinh doanh và thuyết trình,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTTH04,19205103TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTTH05,19205103TXQTTH05,Quản trị chi phí kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTTH02,19205103TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTVH01,19205103TXQTVH01,Văn hóa và đạo đức kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXBHKT01,19205103TXBHKT01,Quản trị kinh doanh bảo hiểm,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXNLQT02,19205103TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXTOKT02,19205103TXTOKT02,Lý thuyết xác suất và thống kê toán 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXNHTC01,19205103TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTTH10,19205103TXQTTH10,Khởi sự kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTTH06,19205103TXQTTH06,Kiểm soát,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTKD108,19205103TXQTKD108,Quản trị điều hành dự án,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTKD103,19205103TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXLUCS01,19205103TXLUCS01,Pháp luật đại cương,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205103,Nguyễn Vĩnh ,Lâu,TXQTKD01,19205103TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXLLDL1102,19225626TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXLLTT1101,19225626TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXTOKT04,19225626TXTOKT04,Kinh tế lượng 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKHMA01,19225626TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKHMI01,19225626TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXLLNL1106,19225626TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXLLNL1105,19225626TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXLLNL1107,19225626TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXTOCB01,19225626TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTKE01,19225626TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTQT01,19225626TXKTQT01,Kế toán quản trị 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTKE02,19225626TXKTKE02,Kế toán công,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTTC02,19225626TXKTTC02,Kế toán tài chính 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTQT03,19225626TXKTQT03,Hệ thống thông tin kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTTC1114,19225626TXKTTC1114,Kế toán tài chính 3,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTKI03,19225626TXKTKI03,Kiểm toán căn bản,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTTC07,19225626TXKTTC07,Phân tích báo cáo tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXNHQT03,19225626TXNHQT03,Thanh toán quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXNLQT02,19225626TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUKD03,19225679TXLUKD03,Luật dân sự 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXKHMA01,19205163TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXQTTH01,19205163TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXLLDL01,19205163TXLLDL01,Đường lối cách mạng của Đảng Cộng sản Việt Nam,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXLUKD05,19205163TXLUKD05,Luật hình sự 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXLUKD06,19205163TXLUKD06,Luật hình sự 2,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXLUKD24,19205163TXLUKD24,Luật tố tụng hành chính,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXLLNL1105,19225758TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXKHMA01,19225758TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXNLQT02,19225758TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTTH07,19225758TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTVH1107,19225758TXQTVH1107,Đạo đức kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTKD01,19225758TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTTH02,19225758TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTKD103,19225758TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHLT06,19225722TXNHLT06,Tài chính công 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHCK02,19225722TXNHCK02,Thị trường chứng khoán 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTKI02,19225626TXKTKI02,Kiểm toán tài chính 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXLUKD01,19225626TXLUKD01,Pháp luật kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTTC01,19225626TXKTTC01,Kế toán tài chính 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXLUCS1129,19225626TXLUCS1129,Pháp luật đại cương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXICT01,19231359TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHCK04,19231359TXNHCK04,Phân tích và đầu tư chứng khoán,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXLLDL1102,19231359TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXMKMA02,19231359TXMKMA02,Quản trị Marketing,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHCO1107,19231359TXNHCO1107,Tài chính công,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHQT05,19231359TXNHQT05,Tài chính quốc tế 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHTC02,19231359TXNHTC02,Tài chính doanh nghiệp 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHLT01,19231359TXNHLT01,Lý thuyết tài chính tiền tệ 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXQLKT01,19231359TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXTKKD1129,19231359TXTKKD1129,Thống kê trong kinh tế và kinh doanh,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHTM03,19231359TXNHTM03,Ngân hàng thương mại 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXTOKT1145,19231359TXTOKT1145,Lý thuyết xác suất và thống kê toán,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHCK1118,19231359TXNHCK1118,Thị trường chứng khoán nợ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHLT1106,19231359TXNHLT1106,Ngân hàng trung ương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHTC03,19231359TXNHTC03,Tài chính doanh nghiệp 2,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHTC1108,19231359TXNHTC1108,Phân tích tài chính,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXNHTM04,19231359TXNHTM04,Ngân hàng thương mại 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXQTCL1105,19231359TXQTCL1105,Quản trị chất lượng dịch vụ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,Đinh Thị ,Loan,TXTMKD1128,19231359TXTMKD1128,Kinh doanh quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19215166,Trương Thị ,Lựu,TXQTKD1136,19215166TXQTKD1136,Quản trị văn phòng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXICT01,19225659TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXPSD01,19225659TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXLUKD08,19225659TXLUKD08,Luật thương mại 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXLUKD09,19225659TXLUKD09,Luật thương mại 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXQLKT1101,19225659TXQLKT1101,Quản lý học 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXLUCS1128,19225659TXLUCS1128,Lý luận nhà nước và pháp luật 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXTMKQ1123,19225659TXTMKQ1123,Kinh tế quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXTOCB01,19225659TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXKTKE1101,19225659TXKTKE1101,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD09,19230865TXLUKD09,Luật thương mại 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD02,19230865TXLUKD02,Luật hành chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD07,19230865TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD13,19230865TXLUKD13,Luật thương mại quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD1163,19230865TXLUKD1163,Pháp luật về đầu tư,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD1179,19230865TXLUKD1179,Pháp luật đấu thầu,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD1183,19230865TXLUKD1183,Pháp luật hôn nhân và gia đình,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLLNL1107,19230865TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUCS1127,19230865TXLUCS1127,Luật tố tụng hình sự,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19230865,Thái Thị ,Hà,TXLUKD1170,19230865TXLUKD1170,Luật WTO,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXPSD01,19225639TXPSD01,Phát triển kỹ năng cá nhân,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXTOKT04,19225639TXTOKT04,Kinh tế lượng 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXLUCS1129,19225639TXLUCS1129,Pháp luật đại cương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXLLNL1107,19225639TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKTQT01,19225639TXKTQT01,Kế toán quản trị 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKTKI03,19225639TXKTKI03,Kiểm toán căn bản,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKTTC07,19225639TXKTTC07,Phân tích báo cáo tài chính,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKTHT1101,19225639TXKTHT1101,Hệ thống thông tin kế toán 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXDTKT1170,19225639TXDTKT1170,Thẩm định dự án đầu tư,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225639,Trịnh Bá ,Thành,TXKHMI01,19225639TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXNHLT01,19205110TXNHLT01,Lý thuyết tài chính tiền tệ 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXKTKE01,19205110TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXNHTC01,19205110TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXQTKD103,19205110TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXQTVH01,19205110TXQTVH01,Văn hóa và đạo đức kinh doanh,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXBHKT01,19205110TXBHKT01,Quản trị kinh doanh bảo hiểm,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXQTTH04,19205110TXQTTH04,Tái lập doanh nghiệp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXQTVH04,19205110TXQTVH04,Giao tiếp kinh doanh và thuyết trình,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXQTTH07,19205110TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205110,HÀ THỊ ,NGUYÊN,TXQTKD116,19205110TXQTKD116,Kỹ năng quản trị,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHTM07,19225722TXNHTM07,Ngân hàng phát triển,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHTM09,19225722TXNHTM09,Kế toán ngân hàng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHLT1106,19225722TXNHLT1106,Ngân hàng trung ương,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXLUKD22,19205131TXLUKD22,Kỹ năng xác lập và thực hiện hợp đồng thương mại,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXLUCS03,19205131TXLUCS03,Lý luận nhà nước và pháp luật 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXLUKD07,19205131TXLUKD07,Công pháp quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXLLNL01,19205131TXLLNL01,Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin 1,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205131,Dương Công Tấn ,Phát,TXNLDS01,19205131TXNLDS01,Dân số và phát triển,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXKTKE01,19225659TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225659,HOÀNG THỊ THANH ,HÀ,TXQLKT01,19225659TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD24,19205161TXLUKD24,Luật tố tụng hành chính,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD35,19205161TXLUKD35,Luật tố tụng hình sự,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD23,19205161TXLUKD23,Pháp luật đất đai,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD25,19205161TXLUKD25,Pháp luật tài chính,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD26,19205161TXLUKD26,Pháp luật đấu thầu,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD27,19205161TXLUKD27,Pháp luật ngân hàng,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD15,19205161TXLUKD15,Luật sở hữu trí tuệ,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD18,19205161TXLUKD18,Pháp luật hôn nhân và gia đình,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUCS08,19205161TXLUCS08,Pháp luật an sinh xã hội,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205161,Nguyễn Văn ,Kiệt,TXLUKD31,19205161TXLUKD31,Pháp luật đầu tư,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUCS1137,19225679TXLUCS1137,Luật tố tụng dân sự,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUKD1180,19225679TXLUKD1180,Pháp luật đầu tư,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUKD1187,19225679TXLUKD1187,Pháp luật ngân hàng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUKD12,19225679TXLUKD12,Luật lao động,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXTMKQ1123,19225679TXTMKQ1123,Kinh tế quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXTOCB01,19225679TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXKHMI01,19225679TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXKHMA01,19225679TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225679,Ngô Cao Bình ,Minh,TXLUCS09,19225679TXLUCS09,Luật hiến pháp,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXKTKE01,19205069TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXLLNL01,19205069TXLLNL01,Nguyên lý CB của CN Mác - Lênin 1,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXNHTC01,19205069TXNHTC01,Quản trị tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXTKKD02,19205069TXTKKD02,Nguyên lý thống kê,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXKTTC01,19205069TXKTTC01,Kế toán tài chính 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXLLTT01,19205069TXLLTT01,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXKTKI03,19205069TXKTKI03,Kiểm toán căn bản,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXLUCS01,19205069TXLUCS01,Pháp luật đại cương,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXTOCB02,19205069TXTOCB02,Toán cho các nhà kinh tế 1,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205069,Võ Thị Mai ,Ly,TXLUKD01,19205069TXLUKD01,Pháp luật kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXLLDL1102,19225713TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXTOKT1145,19225713TXTOKT1145,Lý thuyết xác suất và thống kê toán,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXNHTC1108,19225713TXNHTC1108,Phân tích tài chính,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXNHTC02,19225713TXNHTC02,Tài chính doanh nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXNHLT06,19225713TXNHLT06,Tài chính công 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225713,Ngô An ,Hạ,TXNHTC03,19225713TXNHTC03,Tài chính doanh nghiệp 2,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXLLDL1102,19225626TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXLLTT1101,19225626TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXTOKT04,19225626TXTOKT04,Kinh tế lượng 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKHMA01,19225626TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKHMI01,19225626TXKHMI01,Kinh tế vi mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXLLNL1106,19225626TXLLNL1106,Kinh tế chính trị Mác - Lênin,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXLLNL1105,19225626TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXLLNL1107,19225626TXLLNL1107,Chủ nghĩa xã hội khoa học,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXTOCB01,19225626TXTOCB01,Toán cho các nhà kinh tế,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKTKE01,19225626TXKTKE01,Nguyên lý kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKTQT01,19225626TXKTQT01,Kế toán quản trị 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKTKE02,19225626TXKTKE02,Kế toán công,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKTTC02,19225626TXKTTC02,Kế toán tài chính 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKTQT03,19225626TXKTQT03,Hệ thống thông tin kế toán,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKTTC1114,19225626TXKTTC1114,Kế toán tài chính 3,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKTKI03,19225626TXKTKI03,Kiểm toán căn bản,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKTTC07,19225626TXKTTC07,Phân tích báo cáo tài chính,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXNHQT03,19225626TXNHQT03,Thanh toán quốc tế,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXNLQT02,19225626TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXKHMA01,19205163TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXQTTH01,19205163TXQTTH01,Quản trị kinh doanh 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXLLDL01,19205163TXLLDL01,Đường lối cách mạng của Đảng Cộng sản Việt Nam,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXLUKD05,19205163TXLUKD05,Luật hình sự 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXLUKD06,19205163TXLUKD06,Luật hình sự 2,2,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19205163,Lê Thị Minh ,Tuyết,TXLUKD24,19205163TXLUKD24,Luật tố tụng hành chính,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXLLNL1105,19225758TXLLNL1105,Triết học Mác - Lênin,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXKHMA01,19225758TXKHMA01,Kinh tế vĩ mô 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXNLQT02,19225758TXNLQT02,Quản trị nhân lực,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTTH07,19225758TXQTTH07,Quản trị chất lượng,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTVH1109,19225758TXQTVH1109,Giao tiếp kinh doanh và thuyết trình,3,60,
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTKD01,19225758TXQTKD01,Quản trị chiến lược 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTTH02,19225758TXQTTH02,Quản trị kinh doanh 2,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225758,Đào Thị ,Hoa,TXQTKD103,19225758TXQTKD103,Quản trị tác nghiệp 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHLT06,19225722TXNHLT06,Tài chính công 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225722,Lê Vũ Nhân ,Tạo,TXNHCK02,19225722TXNHCK02,Thị trường chứng khoán 1,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXKTKI02,19225626TXKTKI02,Kiểm toán tài chính 1,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần Thị Mỹ ,Hoà,TXLUKD01,19225626TXLUKD01,Pháp luật kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXKTTC01,19225626TXKTTC01,Kế toán tài chính 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19225626,Trần thị mỹ ,hoà,TXLUCS1129,19225626TXLUCS1129,Pháp luật đại cương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXICT01,19231359TXICT01,Nhập môn Internet và Elearning,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHCK04,19231359TXNHCK04,Phân tích và đầu tư chứng khoán,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXLLDL1102,19231359TXLLDL1102,Lịch sử Đảng Cộng sản Việt Nam,2,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXMKMA02,19231359TXMKMA02,Quản trị Marketing,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHCO1107,19231359TXNHCO1107,Tài chính công,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHQT05,19231359TXNHQT05,Tài chính quốc tế 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHTC02,19231359TXNHTC02,Tài chính doanh nghiệp 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHLT01,19231359TXNHLT01,Lý thuyết tài chính tiền tệ 1,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXQLKT01,19231359TXQLKT01,Quản lý học 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXTKKD1129,19231359TXTKKD1129,Thống kê trong kinh tế và kinh doanh,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHTM03,19231359TXNHTM03,Ngân hàng thương mại 1,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXTOKT1145,19231359TXTOKT1145,Lý thuyết xác suất và thống kê toán,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHCK1118,19231359TXNHCK1118,Thị trường chứng khoán nợ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHLT1106,19231359TXNHLT1106,Ngân hàng trung ương,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHTC03,19231359TXNHTC03,Tài chính doanh nghiệp 2,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHTC1108,19231359TXNHTC1108,Phân tích tài chính,3,60,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXNHTM04,19231359TXNHTM04,Ngân hàng thương mại 2,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXQTCL1105,19231359TXQTCL1105,Quản trị chất lượng dịch vụ,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19231359,ĐINH THỊ ,LOAN,TXTMKD1128,19231359TXTMKD1128,Kinh doanh quốc tế,3,90,Đăng Ký Thi Ghép
+Hồ Chí Minh,19215166,Trương Thị ,Lựu,TXQTTH1123,19215166TXQTTH1123,Quản trị quá trình kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215166,Trương Thị ,Lựu,TXQTVH1108,19215166TXQTVH1108,Đổi mới sáng tạo,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215166,Trương Thị ,Lựu,TXQTVH1110,19215166TXQTVH1110,Quản trị đa văn hóa,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215166,Trương Thị ,Lựu,TXTKKD1112,19215166TXTKKD1112,Thống kê chất lượng,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215166,Trương Thị ,Lựu,TXLLTT1101,19215166TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215166,Trương Thị ,Lựu,TXQTTH05,19215166TXQTTH05,Quản trị chi phí kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215166,Trương Thị ,Lựu,TXQTTH1131,19215166TXQTTH1131,Phương pháp tối ưu trong kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215166,Trương Thị ,Lựu,TXKHMA01,19215166TXKHMA01,vĩ mô,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215156,Bùi Huỳnh ,Diệp,TXLLNL1105,19215156TXLLNL1105,Triết học Mác - Lênin_3TC,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215156,Bùi Huỳnh ,Diệp,TXLLNL1107,19215156TXLLNL1107,Chủ nghĩa xã hội khoa học_2TC,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215156,Bùi Huỳnh ,Diệp,TXLLTT1101,19215156TXLLTT1101,Tư tưởng Hồ Chí Minh,2,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215156,Bùi Huỳnh ,Diệp,TXQTTH10,19215156TXQTTH10,Khởi sự kinh doanh,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215156,Bùi Huỳnh ,Diệp,TXTMKD1128,19215156TXTMKD1128,Kinh doanh quốc tế_3TC,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215156,Bùi Huỳnh ,Diệp,TXTOKT1145,19215156TXTOKT1145,Lý thuyết xác suất và thống kê toán_3TC,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215156,Bùi Huỳnh ,Diệp,TXQTVH1107,19215156TXQTVH1107,Đạo đức kinh doanh ,3,60,Đăng Ký Thi Lại
+Hồ Chí Minh,19215156,Bùi Huỳnh ,Diệp,TXQTVH1108,19215156TXQTVH1108,Đổi mới và sáng tạo_3TC,3,90,Đăng Ký Thi Lại
+Hồ Chí Minh,19215156,Bùi Huỳnh ,Diệp,TXQTVH1110,19215156TXQTVH1110,Quản trị đa văn hóa_3TC,3,90,Đăng Ký Thi Lại
