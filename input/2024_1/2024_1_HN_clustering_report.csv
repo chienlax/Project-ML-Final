@@ -1,41 +1,85 @@
 Clustering Algorithm Performance Report
-========================================
+============================================================
 Algorithm: KMeans
-  - Silhouette Score: 0.19092402843440812
-  - Number of Clusters: 8
+Parameters: {'n_clusters': 5, 'n_init': 20}
+  - Weighted Score: 2.897424679067816
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
+  - Number of Clusters: 5
 
 Algorithm: KMeansConstrained
-  - Silhouette Score: 0.06484280953186274
-  - Number of Clusters: 8
+Parameters: {'n_clusters': 2, 'size_min': 15, 'n_jobs': -1}
+  - Weighted Score: 1.3121768913496301
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
+  - Number of Clusters: 2
 
 Algorithm: AffinityPropagation
-  - Silhouette Score: 0.17000574248187633
-  - Number of Clusters: 20
+Parameters: {'damping': 0.5}
+  - Weighted Score: 4.99842544264856
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
+  - Number of Clusters: 33
 
 Algorithm: MeanShift
-  - Silhouette Score: 0.3195213707452556
+Parameters: {'bin_seeding': False}
+  - Weighted Score: 2.9354999033866407
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
   - Number of Clusters: 25
 
 Algorithm: OPTICS
-  - Silhouette Score: -0.060201760775241885
+Parameters: {'min_samples': 30}
+  - Weighted Score: 0.3532408690245794
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
   - Number of Clusters: 2
 
 Algorithm: Birch
-  - Silhouette Score: 0.3274402272901618
+Parameters: {'n_clusters': 6}
+  - Weighted Score: 2.985709799080306
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
+  - Number of Clusters: 6
+
+Algorithm: GaussianMixture
+Parameters: {'n_components': 8}
+  - Weighted Score: 1.5892202990871311
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
   - Number of Clusters: 8
 
 Algorithm: AgglomerativeClustering
-  - Silhouette Score: 0.17111774857796994
-  - Number of Clusters: 8
+Parameters: {'n_clusters': 6, 'linkage': 'ward'}
+  - Weighted Score: 2.985709799080306
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
+  - Number of Clusters: 6
 
 Algorithm: DBSCAN
-  - Silhouette Score: -0.06649863281465392
+Parameters: {'eps': 0.3, 'min_samples': 15}
+  - Weighted Score: 0.1539192086598371
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
   - Number of Clusters: 2
 
 Algorithm: SpectralClustering
-  - Silhouette Score: 0.12551548631649687
-  - Number of Clusters: 8
+Parameters: {'n_clusters': 5, 'affinity': 'rbf'}
+  - Weighted Score: 2.8181421178906554
+  - Silhouette Score: 0.18440256193725513
+  - Davies-Bouldin Score: 0.4765216272392606
+  - Calinski-Harabasz Score: 7.256115695685406
+  - Number of Clusters: 4
 
-Best Algorithm: Birch
-Best Silhouette Score: 0.3274402272901618
-========================================
+Best Algorithm: AffinityPropagation
+Best Weighted Score: 4.99842544264856
+============================================================

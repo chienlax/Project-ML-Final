@@ -15,12 +15,13 @@ import pandas as pd
 
 from ortools.sat.python import cp_model
 
-from sklearn.cluster import KMeans, AgglomerativeClustering, DBSCAN, SpectralClustering
-from sklearn.mixture import GaussianMixture
-from sklearn.metrics import silhouette_score, davies_bouldin_score, calinski_harabasz_score
+from sklearn.cluster import KMeans, AgglomerativeClustering, DBSCAN, SpectralClustering, AffinityPropagation, MeanShift, OPTICS, Birch
 from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans, AgglomerativeClustering, DBSCAN, SpectralClustering, AffinityPropagation, MeanShift, OPTICS, Birch#, GaussianMixture
-from sklearn import mixture
+from k_means_constrained import KMeansConstrained
+
+from sklearn.metrics import silhouette_score
+from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
+
 
 FLAGS = flags.FLAGS
 flags.DEFINE_string("input_dir", "input", "Input data directory")
@@ -37,79 +38,196 @@ flags.DEFINE_integer("max_division", 5, "max_division") # value n = n-1 division
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.DEBUG)
 
-
-def apply_clustering(X, min_sv_hp, max_clusters=10, n_jobs=1, output_report_path=None):
-    X_scaled = StandardScaler().fit_transform(X)
-    
-    clustering_results = {}
-    best_algorithm = None
-    best_labels = None
+def apply_clustering_algorithms(X, min_hp_sv, n_jobs=1, weights=(0.5, 0.3, 0.2)):
+    best_y = None
+    best_nc = 0
     best_score = -1
+    best_algorithm = None
 
-    # Define clustering models, including KMeansConstrained
-    clustering_algorithms = {
-        "KMeans": KMeans(n_clusters=min(max_clusters, X.shape[0] // min_sv_hp), n_init=10, random_state=42),
-        "KMeansConstrained": KMeansConstrained(
-            n_clusters=min(max_clusters, X.shape[0] // min_sv_hp),
-            size_min=min_sv_hp,
-            n_jobs=n_jobs,
-            random_state=0
-        ),
-        "AffinityPropagation": AffinityPropagation(damping=0.9),
-        "MeanShift": MeanShift(bin_seeding=True),
-        "OPTICS": OPTICS(min_samples=min_sv_hp, n_jobs=n_jobs),
-        "Birch": Birch(n_clusters=min(max_clusters, X.shape[0] // min_sv_hp)),
-        "AgglomerativeClustering": AgglomerativeClustering(
-            n_clusters=min(max_clusters, X.shape[0] // min_sv_hp)
-        ),
-        "DBSCAN": DBSCAN(eps=0.5, min_samples=min_sv_hp),
-        "SpectralClustering": SpectralClustering(
-            n_clusters=min(max_clusters, X.shape[0] // min_sv_hp), affinity="nearest_neighbors", n_jobs=n_jobs
-        )
-    }
+    # Define clustering algorithms to test
+    clustering_algorithms = [
+        ('KMeans', KMeans),
+        ('KMeansConstrained', KMeansConstrained),
+        ('AgglomerativeClustering', AgglomerativeClustering),
+        ('SpectralClustering', SpectralClustering),
+        ('Birch', Birch)
+    ]
+
+    # Standardize data
+    X_scaled = StandardScaler().fit_transform(X)
+
+    # Iterate over clustering algorithms
+    for algo_name, algo in clustering_algorithms:
+        labels = None
+        weighted_score = -1  # Initialize weighted score for each algorithm
+        
+        if algo_name == 'KMeans':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                kmeans = algo(n_clusters=nc, random_state=0, algorithm = 'elkan')
+                labels = kmeans.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                if weighted_score > best_score:
+                    best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
+
+        elif algo_name == 'KMeansConstrained':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                kmeans = algo(n_clusters=nc, size_min=min_hp_sv, n_jobs=n_jobs)
+                labels = kmeans.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                if weighted_score > best_score:
+                    best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
+
+        elif algo_name == 'AgglomerativeClustering':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                agglom = algo(n_clusters=nc)
+                labels = agglom.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                if weighted_score > best_score:
+                    best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
+
+        elif algo_name == 'SpectralClustering':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                spectral = algo(n_clusters=nc, random_state=0)
+                labels = spectral.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                if weighted_score > best_score:
+                    best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
+
+
+        elif algo_name == 'Birch':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                birch = algo(n_clusters=nc)
+                labels = birch.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                if weighted_score > best_score:
+                    best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
+
+    return best_y, best_nc, best_score, best_algorithm
+
+def calculate_weighted_score(X_scaled, labels, weights):
+    # Calculate individual scores
+    silhouette = silhouette_score(X_scaled, labels) if len(set(labels)) > 1 else -1
+    calinski = calinski_harabasz_score(X_scaled, labels) if len(set(labels)) > 1 else -1
+    davies = davies_bouldin_score(X_scaled, labels) if len(set(labels)) > 1 else float('inf')
+
+    # Weighted average score
+    return weights[0] * silhouette + weights[1] * (calinski / 1000) - weights[2] * davies
+
+
+def calculate_weighted_score(X_scaled, labels, weights):
+    silhouette = silhouette_score(X_scaled, labels) if len(set(labels)) > 1 else -1
+    calinski_harabasz = calinski_harabasz_score(X_scaled, labels) if len(set(labels)) > 1 else -1
+    davies_bouldin = davies_bouldin_score(X_scaled, labels) if len(set(labels)) > 1 else -1
+
+    weighted_score = (weights[0] * silhouette +
+                      weights[1] * calinski_harabasz -
+                      weights[2] * davies_bouldin)
     
-    # Loop over each algorithm
-    for name, algorithm in clustering_algorithms.items():
-        try:
-            # For GaussianMixture, fit_predict is not available, so we use predict after fit
-            if name == "GaussianMixture":
-                labels = algorithm.fit(X_scaled).predict(X_scaled)
-            else:
-                labels = algorithm.fit_predict(X_scaled)
-            
-            # Only evaluate silhouette score if we have more than one cluster
-            if len(set(labels)) > 1:  
-                score = silhouette_score(X_scaled, labels)
-                clustering_results[name] = {"score": score, "labels": labels}
+    return weighted_score
 
-                # Update best clustering based on silhouette score
-                if score > best_score:
-                    best_algorithm = name
-                    best_labels = labels
-                    best_score = score
-        except Exception as e:
-            clustering_results[name] = {"score": None, "labels": None, "error": str(e)}
-            continue
+def export_report(X, min_hp_sv, output, dot_thi, tinh, weights=(0.5, 0.3, 0.2), n_jobs=1):
+    # Set the report path
+    clustering_report_path = f"{output}/{dot_thi}/{dot_thi}_{tinh}_clustering_report.csv"
 
-    # Generate a report and save it
-    if output_report_path:
-        with open(output_report_path, 'w') as report_file:
-            report_file.write("Clustering Algorithm Performance Report\n")
-            report_file.write("=" * 40 + "\n")
-            for algo_name, result in clustering_results.items():
-                report_file.write(f"Algorithm: {algo_name}\n")
-                if result["score"] is not None:
-                    report_file.write(f"  - Silhouette Score: {result['score']}\n")
-                    report_file.write(f"  - Number of Clusters: {len(set(result['labels']))}\n")
-                else:
-                    report_file.write(f"  - Error: {result['error']}\n")
-                report_file.write("\n")
+    report_data = []
+    
+    # Define clustering algorithms to test
+    clustering_algorithms = [
+        ('KMeans', KMeans),
+        ('KMeansConstrained', KMeansConstrained),
+        ('AgglomerativeClustering', AgglomerativeClustering),
+        ('SpectralClustering', SpectralClustering),
+        ('Birch', Birch)
+    ]
 
-            report_file.write(f"Best Algorithm: {best_algorithm}\n")
-            report_file.write(f"Best Silhouette Score: {best_score}\n")
-            report_file.write("=" * 40 + "\n")
+    # Standardize data
+    X_scaled = StandardScaler().fit_transform(X)
 
-    return best_algorithm, best_labels, best_score
+    # Iterate over clustering algorithms
+    for algo_name, algo in clustering_algorithms:
+        # Track the best result for each algorithm
+        labels = None
+        
+        if algo_name == 'KMeans':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                kmeans = algo(n_clusters=nc, random_state=0, n_jobs=n_jobs)
+                labels = kmeans.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                
+                report_data.append({
+                    'Algorithm': algo_name,
+                    'n_clusters': nc,
+                    'Silhouette Score': silhouette_score(X_scaled, labels),
+                    'Calinski-Harabasz Score': calinski_harabasz_score(X_scaled, labels),
+                    'Davies-Bouldin Score': davies_bouldin_score(X_scaled, labels),
+                    'Weighted Score': weighted_score
+                })
+
+        elif algo_name == 'KMeansConstrained':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                kmeans = algo(n_clusters=nc, size_min=min_hp_sv, n_jobs=n_jobs)
+                labels = kmeans.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                
+                report_data.append({
+                    'Algorithm': algo_name,
+                    'n_clusters': nc,
+                    'Silhouette Score': silhouette_score(X_scaled, labels),
+                    'Calinski-Harabasz Score': calinski_harabasz_score(X_scaled, labels),
+                    'Davies-Bouldin Score': davies_bouldin_score(X_scaled, labels),
+                    'Weighted Score': weighted_score
+                })
+
+        elif algo_name == 'AgglomerativeClustering':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                agglom = algo(n_clusters=nc)
+                labels = agglom.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                
+                report_data.append({
+                    'Algorithm': algo_name,
+                    'n_clusters': nc,
+                    'Silhouette Score': silhouette_score(X_scaled, labels),
+                    'Calinski-Harabasz Score': calinski_harabasz_score(X_scaled, labels),
+                    'Davies-Bouldin Score': davies_bouldin_score(X_scaled, labels),
+                    'Weighted Score': weighted_score
+                })
+                
+        elif algo_name == 'SpectralClustering':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                spectral = algo(n_clusters=nc, random_state=0)
+                labels = spectral.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                
+                report_data.append({
+                    'Algorithm': algo_name,
+                    'n_clusters': nc,
+                    'Silhouette Score': silhouette_score(X_scaled, labels),
+                    'Calinski-Harabasz Score': calinski_harabasz_score(X_scaled, labels),
+                    'Davies-Bouldin Score': davies_bouldin_score(X_scaled, labels),
+                    'Weighted Score': weighted_score
+                })
+                
+
+        elif algo_name == 'Birch':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                birch = algo(n_clusters=nc)
+                labels = birch.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                report_data.append({
+                    'Algorithm': algo_name,
+                    'n_clusters': nc,
+                    'Silhouette Score': silhouette_score(X_scaled, labels),
+                    'Calinski-Harabasz Score': calinski_harabasz_score(X_scaled, labels),
+                    'Davies-Bouldin Score': davies_bouldin_score(X_scaled, labels),
+                    'Weighted Score': weighted_score
+                })
+
+    report_df = pd.DataFrame(report_data)
+    
+    report_df.to_csv(clustering_report_path, index=False)
+    print(f"Clustering report saved to: {clustering_report_path}")
+
 
 def main(argv):
     dot_thi = FLAGS.exam
@@ -124,7 +242,6 @@ def main(argv):
     max_division = FLAGS.max_division
 
     file_path = f"{input_dir}/{dot_thi}/{dot_thi}_{tinh}.csv"
-    clustering_report_path = f"{input_dir}/{dot_thi}/{dot_thi}_{tinh}_clustering_report.csv"
     data = pd.read_csv(file_path, encoding='utf-8-sig')
     data = data[data["Bộ môn giảng dạy"] != "Bộ môn Giáo dục thể chất"]
     data["Time slot"] = -1
@@ -250,21 +367,21 @@ def main(argv):
                     if X.shape[1] == 0:
                         continue
 
-                    # Use apply_clustering with a report path
-                    best_algorithm, best_labels, best_score = apply_clustering(
-                        X, min_sv_hp, max_clusters=11, n_jobs=n_jobs, output_report_path=clustering_report_path
-                    )
+                    best_y, best_nc, best_score, best_algorithm = apply_clustering_algorithms(X, min_hp_sv, n_jobs=n_jobs)
+        
+                    # Log the best clustering result
+                    if best_y is not None:
+                        logger.info(f"Splitting {i} ({hp.loc[i, 'sv']}) into {best_nc} clusters using {best_algorithm} with score {best_score}")
+                        
+                    X["cluster"] = best_y
 
-                    if best_labels is not None:
-                        X["cluster"] = best_labels
-                        logger.info(f"Best clustering for {i}: {best_algorithm} with score {best_score}")
-
-                        for s in np.unique(best_labels):
-                            s_i = X[X["cluster"] == s].index.tolist()
-                            data.loc[(data["Mã HP"] == i) & (data["Mã SV"].isin(s_i)), "Mã HP"] = f"{i}_{s}"
+                    for s in range(best_nc):
+                        s_i = X.loc[X["cluster"] == s].index.tolist()
+                        data.loc[(data["Mã HP"] == i) & (data["Mã SV"].isin(s_i)), "Mã HP"] = f"{i}_{s}"
 
             if solver.value(obj) == 0:
                 logger.info("Solution found")
+                data.to_csv(f"{folder_out}/{dot_thi}_{tinh}_raw_clustering.csv", index=False, encoding='utf-8-sig', mode='w+')
                 
                 for i in hp.index:
                     for j in hp.index:
@@ -354,21 +471,21 @@ def main(argv):
             logger.error("No solution found")
             return
 
-    for i in hp.index:
-        data.loc[data["Mã HP"] == i, "Mã HP"] = i.split("_")[0]
+        for i in hp.index:
+            data.loc[data["Mã HP"] == i, "Mã HP"] = i.split("_")[0]
 
-    folder_out = "/".join([output_dir, dot_thi])
-    if not os.path.exists(folder_out):
-        os.makedirs(folder_out)
-        
-    data = data.sort_values(
-        by=["Time slot", "Mã HP", "Mã LHP", "Khoa giảng dạy", "Tên", "Họ Lót", "Mã SV"],
-        ascending=[True, True, True, True, True, True, True],
-    )
+        folder_out = "/".join([output_dir, dot_thi])
+        if not os.path.exists(folder_out):
+            os.makedirs(folder_out)
+            
+        data = data.sort_values(
+            by=["Time slot", "Mã HP", "Mã LHP", "Khoa giảng dạy", "Tên", "Họ Lót", "Mã SV"],
+            ascending=[True, True, True, True, True, True, True],
+        )
 
-    data.to_csv(f"{folder_out}/{dot_thi}_{tinh}.csv", index=False, encoding='utf-8-sig')
-    data.to_csv(f"{folder_out}/{dot_thi}_{tinh}_raw.csv", index=False, encoding='utf-8-sig')
-    
+        data.to_csv(f"{folder_out}/{dot_thi}_{tinh}.csv", index=False, encoding='utf-8-sig', mode='w+')
+        data.to_csv(f"{folder_out}/{dot_thi}_{tinh}_raw.csv", index=False, encoding='utf-8-sig', mode='w+')
+
 if __name__ == "__main__":
     p = psutil.Process()
     p.cpu_affinity([1, 2, 3, 4])
