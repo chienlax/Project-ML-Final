@@ -1,0 +1,41 @@
+Clustering Algorithm Performance Report
+========================================
+Algorithm: KMeans
+  - Silhouette Score: 0.19092402843440812
+  - Number of Clusters: 8
+
+Algorithm: KMeansConstrained
+  - Silhouette Score: 0.06484280953186274
+  - Number of Clusters: 8
+
+Algorithm: AffinityPropagation
+  - Silhouette Score: 0.17000574248187633
+  - Number of Clusters: 20
+
+Algorithm: MeanShift
+  - Silhouette Score: 0.3195213707452556
+  - Number of Clusters: 25
+
+Algorithm: OPTICS
+  - Silhouette Score: -0.060201760775241885
+  - Number of Clusters: 2
+
+Algorithm: Birch
+  - Silhouette Score: 0.3274402272901618
+  - Number of Clusters: 8
+
+Algorithm: AgglomerativeClustering
+  - Silhouette Score: 0.17111774857796994
+  - Number of Clusters: 8
+
+Algorithm: DBSCAN
+  - Silhouette Score: -0.06649863281465392
+  - Number of Clusters: 2
+
+Algorithm: SpectralClustering
+  - Silhouette Score: 0.12551548631649687
+  - Number of Clusters: 8
+
+Best Algorithm: Birch
+Best Silhouette Score: 0.3274402272901618
+========================================
