@@ -9,7 +9,6 @@ from absl import flags
 
 from k_means_constrained import KMeansConstrained
 from sklearn.discriminant_analysis import StandardScaler
-from sklearn.metrics import silhouette_score
 import numpy as np
 import pandas as pd
 
@@ -19,20 +18,19 @@ from sklearn.cluster import KMeans, AgglomerativeClustering, SpectralClustering,
 from sklearn.preprocessing import StandardScaler
 from k_means_constrained import KMeansConstrained
 
-from sklearn.metrics import silhouette_score
 from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
 
 FLAGS = flags.FLAGS
 flags.DEFINE_string("input_dir", "input", "Input data directory")
 flags.DEFINE_string("output_dir", "output", "Schedule output directory")
-flags.DEFINE_integer("timeslot", 24, "Số ca thi")
+flags.DEFINE_integer("timeslot", 30, "Số ca thi")
 flags.DEFINE_integer("num_of_available_room", 40, "Số phòng khả dụng")
-flags.DEFINE_integer("student_per_room", 40, "Số sinh viên/ phòng") # for normal room
-flags.DEFINE_integer("min_student_per_room", 20, "Số sv tối thiểu/phòng")
+flags.DEFINE_integer("student_per_room", 100, "Số sinh viên/ phòng") # for normal room
+flags.DEFINE_integer("min_student_per_room", 10, "Số sv tối thiểu/phòng")
 flags.DEFINE_string("exam", "2024_1", "Đợt thi")
 flags.DEFINE_string("location", "HN", "Địa điểm thi")
 flags.DEFINE_integer("n_jobs", -1, "n_jobs")
-flags.DEFINE_integer("max_division", 5, "max_division") # value n = n-1 divisions
+flags.DEFINE_integer("max_division", 4, "max_division") # value n = n-1 divisions
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.DEBUG)
@@ -243,14 +241,14 @@ def main(argv):
     data["Time slot"] = -1
 
     while True:
-        cm = pd.crosstab(data["Mã SV"], data["Mã HP"])
+        cm = pd.crosstab(data["Ma SV"], data["Ma HP"])
         conflict = cm.T.dot(cm)
         logger.debug(f"\n{conflict}")
         logger.debug(f"\n{data}")
         
-        sv = data["Mã SV"].unique()
-        hp = data.groupby("Mã HP").agg({"Mã SV": "count", "Time slot": "first"})
-        hp = hp.rename(columns={"Mã SV": "sv"})
+        sv = data["Ma SV"].unique()
+        hp = data.groupby("Ma HP").agg({"Ma SV": "count", "Time slot": "first"})
+        hp = hp.rename(columns={"Ma SV": "sv"})
         hp["rooms"] = np.ceil(hp["sv"] / student_per_room).astype(int)
         logger.debug(f"\n{sv}")
         
@@ -333,7 +331,7 @@ def main(argv):
                 )
                 for i in hp.index:
                     if solver.Value(x[(i, t)]) > 0:
-                        data.loc[data["Mã HP"] == i, "Time slot"] = t
+                        data.loc[data["Ma HP"] == i, "Time slot"] = t
                         logger.info(f"Exam {i} scheduled in time slot {t}")
 
             split_set = set()
@@ -373,14 +371,10 @@ def main(argv):
 
                     for s in range(best_nc):
                         s_i = X.loc[X["cluster"] == s].index.tolist()
-                        data.loc[(data["Mã HP"] == i) & (data["Mã SV"].isin(s_i)), "Mã HP"] = f"{i}_{s}"
+                        data.loc[(data["Ma HP"] == i) & (data["Ma SV"].isin(s_i)), "Ma HP"] = f"{i}_{s}"
 
             if solver.value(obj) == 0:
                 logger.info("Solution found")
-                folder_out = "/".join([output_dir, dot_thi])
-                if not os.path.exists(folder_out):
-                    os.makedirs(folder_out)
-                data.to_csv(f"{folder_out}/{dot_thi}_{tinh}_raw_clustering.csv", index=False, encoding='utf-8-sig', mode='w+')
                 
                 for i in hp.index:
                     for j in hp.index:
@@ -463,7 +457,7 @@ def main(argv):
 
                     for i in hp.index:
                         if solver.value(x[(i, t)]) > 0:
-                            data.loc[data["Mã HP"] == i, "Time slot"] = t
+                            data.loc[data["Ma HP"] == i, "Time slot"] = t
                             logger.info(f"Exam {i}")
                 break
         else:
@@ -471,22 +465,22 @@ def main(argv):
             return
 
     for i in hp.index:
-        data.loc[data["Mã HP"] == i, "Mã HP"] = i.split("_")[0]
+        data.loc[data["Ma HP"] == i, "Ma HP"] = i.split("_")[0]
+
+    data = data.sort_values(
+        by=["Time slot", "Ma SV", "Ma HP"],
+        ascending=[True, True, True],
+    )
 
     folder_out = "/".join([output_dir, dot_thi])
     if not os.path.exists(folder_out):
         os.makedirs(folder_out)
-        
-    data = data.sort_values(
-        by=["Time slot", "Mã HP", "Mã LHP", "Khoa giảng dạy", "Tên", "Họ Lót", "Mã SV"],
-        ascending=[True, True, True, True, True, True, True],
-    )
 
     data.to_csv(f"{folder_out}/{dot_thi}_{tinh}.csv", index=False, encoding='utf-8-sig', mode='w+')
     data.to_csv(f"{folder_out}/{dot_thi}_{tinh}_raw.csv", index=False, encoding='utf-8-sig', mode='w+')
 
 if __name__ == "__main__":
     p = psutil.Process()
-    p.cpu_affinity([1, 2, 3, 4])
+    p.cpu_affinity([1, 2, 3, 4, 5])
     app.run(main)
     
