@@ -23,13 +23,13 @@ from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bo
 FLAGS = flags.FLAGS
 flags.DEFINE_string("input_dir", "input", "Input data directory")
 flags.DEFINE_string("output_dir", "output", "Schedule output directory")
-flags.DEFINE_integer("timeslot", 30, "Số ca thi")
+flags.DEFINE_integer("timeslot", 16, "Số ca thi")
 flags.DEFINE_integer("num_of_available_room", 40, "Số phòng khả dụng")
 flags.DEFINE_integer("student_per_room", 100, "Số sinh viên/ phòng") # for normal room
 flags.DEFINE_integer("min_student_per_room", 10, "Số sv tối thiểu/phòng")
-flags.DEFINE_string("exam", "2024_1", "Đợt thi")
+flags.DEFINE_string("exam", "2024_4", "Đợt thi")
 flags.DEFINE_string("location", "HN", "Địa điểm thi")
-flags.DEFINE_integer("n_jobs", -1, "n_jobs")
+flags.DEFINE_integer("n_jobs", 1, "n_jobs")
 flags.DEFINE_integer("max_division", 4, "max_division") # value n = n-1 divisions
 
 logger = logging.getLogger(__name__)
@@ -109,18 +109,7 @@ def calculate_weighted_score(X_scaled, labels, weights):
     # Weighted average score
     return weights[0] * silhouette + weights[1] * (calinski / 1000) - weights[2] * davies
 
-def calculate_weighted_score(X_scaled, labels, weights):
-    silhouette = silhouette_score(X_scaled, labels) if len(set(labels)) > 1 else -1
-    calinski_harabasz = calinski_harabasz_score(X_scaled, labels) if len(set(labels)) > 1 else -1
-    davies_bouldin = davies_bouldin_score(X_scaled, labels) if len(set(labels)) > 1 else -1
-
-    weighted_score = (weights[0] * silhouette +
-                      weights[1] * calinski_harabasz -
-                      weights[2] * davies_bouldin)
-    
-    return weighted_score
-
-def export_report(X, min_hp_sv, output, dot_thi, tinh, weights=(0.5, 0.3, 0.2), n_jobs=1):
+def export_report(X, min_hp_sv, output, dot_thi, tinh, weights=(0.6, 0.2, 0.2), n_jobs=1):
     # Set the report path
     clustering_report_path = f"{output}/{dot_thi}/{dot_thi}_{tinh}_clustering_report.csv"
 
@@ -237,10 +226,25 @@ def main(argv):
 
     file_path = f"{input_dir}/{dot_thi}/{dot_thi}_{tinh}.csv"
     data = pd.read_csv(file_path, encoding='utf-8-sig')
-    # data = data[data["Bộ môn giảng dạy"] != "Bộ môn Giáo dục thể chất"]
     data["Time slot"] = -1
+    
+# Create output directory if it doesn't exist
+    if not os.path.exists(f'{output_dir}/{dot_thi}'):
+        os.makedirs(f'{output_dir}/{dot_thi}')
+
+    # Configure logging
+    log_file = os.path.join(f'{output_dir}/{dot_thi}', 'clustering.log')
+    logging.basicConfig(level=logging.INFO,
+                        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+                        handlers=[
+                            logging.FileHandler(log_file),
+                            logging.StreamHandler()
+                        ])
+
+    logger.info("Starting clustering process")
 
     while True:
+        start_time = time.time()
         cm = pd.crosstab(data["Ma SV"], data["Ma HP"])
         conflict = cm.T.dot(cm)
         logger.debug(f"\n{conflict}")
@@ -310,14 +314,14 @@ def main(argv):
         for i in hp.index:
             for j in hp.index:
                 if i < j and i.split("_")[0] == j.split("_")[0]:
-                    for k in range(0, n_time_slot, 3):
-                        ai = sum(x[(i, k + t)] for t in range(3))
-                        aj = sum(x[(j, k + t)] for t in range(3))
+                    for k in range(0, n_time_slot, 4):
+                        ai = sum(x[(i, k + t)] for t in range(4))
+                        aj = sum(x[(j, k + t)] for t in range(4))
                         model.add(ai == aj)
 
         model.minimize(obj)
         solver = cp_model.CpSolver()
-        solver.parameters.max_time_in_seconds = 60
+        solver.parameters.max_time_in_seconds = 600
         solver.parameters.log_search_progress = True
         status = solver.Solve(model)
 
@@ -463,6 +467,8 @@ def main(argv):
         else:
             logger.error("No solution found")
             return
+        
+    end_time = time.time()
 
     for i in hp.index:
         data.loc[data["Ma HP"] == i, "Ma HP"] = i.split("_")[0]
@@ -478,9 +484,12 @@ def main(argv):
 
     data.to_csv(f"{folder_out}/{dot_thi}_{tinh}.csv", index=False, encoding='utf-8-sig', mode='w+')
     data.to_csv(f"{folder_out}/{dot_thi}_{tinh}_raw.csv", index=False, encoding='utf-8-sig', mode='w+')
+    
+    duration = end_time - start_time
+    logger.info(f"Clustering process completed in {duration:.2f} seconds")
 
 if __name__ == "__main__":
     p = psutil.Process()
-    p.cpu_affinity([1, 2, 3, 4, 5])
+    p.cpu_affinity([1, 2, 3, 4, 5, 6, 7, 8])
     app.run(main)
     
