@@ -23,17 +23,17 @@ from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bo
 FLAGS = flags.FLAGS
 flags.DEFINE_string("input_dir", "input", "Input data directory")
 flags.DEFINE_string("output_dir", "output", "Schedule output directory")
-flags.DEFINE_integer("timeslot", 30, "Số ca thi")
+flags.DEFINE_integer("timeslot", 12, "Số ca thi")
 flags.DEFINE_integer("num_of_available_room", 40, "Số phòng khả dụng")
 flags.DEFINE_integer("student_per_room", 100, "Số sinh viên/ phòng") # for normal room
 flags.DEFINE_integer("min_student_per_room", 10, "Số sv tối thiểu/phòng")
-flags.DEFINE_string("exam", "2024_1", "Đợt thi")
+flags.DEFINE_string("exam", "2024_9", "Đợt thi")
 flags.DEFINE_string("location", "HN", "Địa điểm thi")
 flags.DEFINE_integer("n_jobs", -1, "n_jobs")
 flags.DEFINE_integer("max_division", 4, "max_division") # value n = n-1 divisions
 
-logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.DEBUG)
+# logging = logging.getLogger(__name__)
+# logging.basicConfig(level=logging.DEBUG)
 
 def apply_clustering_algorithms(X, min_hp_sv, n_jobs=1, weights=(0.5, 0.3, 0.2)):
     best_y = None
@@ -222,8 +222,10 @@ def export_report(X, min_hp_sv, output, dot_thi, tinh, weights=(0.5, 0.3, 0.2), 
     
     report_df.to_csv(clustering_report_path, index=False)
     print(f"Clustering report saved to: {clustering_report_path}")
+    logging.info(f"Clustering report saved to: {clustering_report_path}")
 
 def main(argv):
+    FLAGS(argv)
     dot_thi = FLAGS.exam
     tinh = FLAGS.location
     time_slot = FLAGS.timeslot
@@ -235,25 +237,52 @@ def main(argv):
     output_dir = FLAGS.output_dir
     max_division = FLAGS.max_division
 
+    folder_out = os.path.join(output_dir, dot_thi)
+    os.makedirs(folder_out, exist_ok=True)
+
+    # Configure logging
+    log_file = os.path.join(folder_out, 'log.txt')
+    
+    # Remove any existing handlers
+    for handler in logging.root.handlers[:]:
+        logging.root.removeHandler(handler)
+        
+    # Configure logging with both file and console output
+    logging.basicConfig(
+        level=logging.DEBUG,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler(log_file, mode='w'),
+            logging.StreamHandler()
+        ]
+    )
+    
+    logging.info(f"Starting execution with exam: {dot_thi}, location: {tinh}")
+
     file_path = f"{input_dir}/{dot_thi}/{dot_thi}_{tinh}.csv"
     data = pd.read_csv(file_path, encoding='utf-8-sig')
-    # data = data[data["Bộ môn giảng dạy"] != "Bộ môn Giáo dục thể chất"]
     data["Time slot"] = -1
+    logging.debug("Initialized Time slot column with -1")
 
     while True:
         cm = pd.crosstab(data["Ma SV"], data["Ma HP"])
         conflict = cm.T.dot(cm)
-        logger.debug(f"\n{conflict}")
-        logger.debug(f"\n{data}")
+        logging.debug(f"\n{conflict}")
+        logging.debug(f"\n{data}")
         
         sv = data["Ma SV"].unique()
         hp = data.groupby("Ma HP").agg({"Ma SV": "count", "Time slot": "first"})
         hp = hp.rename(columns={"Ma SV": "sv"})
         hp["rooms"] = np.ceil(hp["sv"] / student_per_room).astype(int)
-        logger.debug(f"\n{sv}")
+        logging.debug(f"\n{sv}")
+
+        logging.debug(f"Unique students:\n{sv}")
+        logging.debug(f"Grouped data:\n{hp}")
         
         model = cp_model.CpModel()
         x = {}
+        logging.info("Model and variables initialized")
+
         n_time_slot = time_slot
         min_hp_sv = min_sv_hp
         half_day = time_slot // 2
@@ -322,17 +351,17 @@ def main(argv):
         status = solver.Solve(model)
 
         if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
-            logger.info(f"Objective value: {solver.ObjectiveValue()}")
+            logging.info(f"Objective value: {solver.ObjectiveValue()}")
 
             for t in range(n_time_slot):
-                logger.info(f"Time slot {t}: ")
-                logger.info(
+                logging.info(f"Time slot {t}: ")
+                logging.info(
                     f"Number of rooms: {sum((solver.Value(x[(i, t)]) * hp.loc[i, 'rooms']) for i in hp.index)}"
                 )
                 for i in hp.index:
                     if solver.Value(x[(i, t)]) > 0:
                         data.loc[data["Ma HP"] == i, "Time slot"] = t
-                        logger.info(f"Exam {i} scheduled in time slot {t}")
+                        logging.info(f"Exam {i} scheduled in time slot {t}")
 
             split_set = set()
             for i in hp.index:
@@ -349,7 +378,7 @@ def main(argv):
                     ):
                         split = i if (hp.loc[i, "sv"] < hp.loc[j, "sv"] or len(i.split("_")) > len(j.split("_"))) else j
                         split_set.add(split)
-                        logger.info(
+                        logging.info(
                             f"Conflict between {i} ({hp.loc[i, 'sv']}) and {j} ({hp.loc[j, 'sv']}): {conflict.loc[i, j]}"
                         )
 
@@ -365,7 +394,7 @@ def main(argv):
         
                     # Log the best clustering result
                     if best_y is not None:
-                        logger.info(f"Splitting {i} ({hp.loc[i, 'sv']}) into {best_nc} clusters using {best_algorithm} with score {best_score}")
+                        logging.info(f"Splitting {i} ({hp.loc[i, 'sv']}) into {best_nc} clusters using {best_algorithm} with score {best_score}")
                         
                     X["cluster"] = best_y
 
@@ -374,7 +403,7 @@ def main(argv):
                         data.loc[(data["Ma HP"] == i) & (data["Ma SV"].isin(s_i)), "Ma HP"] = f"{i}_{s}"
 
             if solver.value(obj) == 0:
-                logger.info("Solution found")
+                logging.info("Solution found")
                 
                 for i in hp.index:
                     for j in hp.index:
@@ -450,18 +479,18 @@ def main(argv):
                 status = solver.Solve(model)
 
                 for t in range(n_time_slot):
-                    logger.info(f"Time slot {t}: ")
-                    logger.info(
+                    logging.info(f"Time slot {t}: ")
+                    logging.info(
                         f"Number of rooms: {sum((solver.value(x[(i, t)]) * hp.loc[i, 'rooms']) for i in hp.index)}"
                     )
 
                     for i in hp.index:
                         if solver.value(x[(i, t)]) > 0:
                             data.loc[data["Ma HP"] == i, "Time slot"] = t
-                            logger.info(f"Exam {i}")
+                            logging.info(f"Exam {i}")
                 break
         else:
-            logger.error("No solution found")
+            logging.error("No solution found")
             return
 
     for i in hp.index:
