@@ -1,0 +1,1420 @@
+2024-11-21 10:00:10,393 - INFO - Starting execution with exam: 2024_11, location: HN
+2024-11-21 10:00:10,405 - DEBUG - Initialized Time slot column with -1
+2024-11-21 10:00:16,308 - DEBUG - 
+Ma HP   KH0001  KH0002  KH0003  KH0004  KH0005  KH0006  ...  KH0617  KH0618  KH0619  KH0620  KH0621  KH0622
+Ma HP                                                   ...                                                
+KH0001     123      16       1       0       0       0  ...       0       0       0       0       0       0
+KH0002      16     113       2       0       0       0  ...       0       0       0       0       0       0
+KH0003       1       2     616      10       0       0  ...       0       0       0       0       0       0
+KH0004       0       0      10     150       7       0  ...       0       0       1       0       0       0
+KH0005       0       0       0       7      64       0  ...       1       0       0       0       0       0
+...        ...     ...     ...     ...     ...     ...  ...     ...     ...     ...     ...     ...     ...
+KH0618       0       0       0       0       0       0  ...       2      22       0       0       1       5
+KH0619       0       0       0       1       0       0  ...       1       0      10       2       0       0
+KH0620       0       0       0       0       0       0  ...       0       0       2      13       1       5
+KH0621       0       0       0       0       0       0  ...       0       1       0       1       9       0
+KH0622       0       0       0       0       0       0  ...       1       5       0       5       0      32
+
+[622 rows x 622 columns]
+2024-11-21 10:00:16,311 - DEBUG - 
+       Ma SV   Ma HP  Time slot
+0          1  KH0417         -1
+1          2  KH0476         -1
+2          3  KH0247         -1
+3          4  KH0158         -1
+4          5  KH0347         -1
+...      ...     ...        ...
+58974  21263  KH0518         -1
+58975  21264  KH0005         -1
+58976  21264  KH0144         -1
+58977  21265  KH0144         -1
+58978  21266  KH0261         -1
+
+[58979 rows x 3 columns]
+2024-11-21 10:00:16,315 - DEBUG - 
+[    1     2     3 ... 21264 21265 21266]
+2024-11-21 10:00:16,315 - DEBUG - Unique students:
+[    1     2     3 ... 21264 21265 21266]
+2024-11-21 10:00:16,317 - DEBUG - Grouped data:
+         sv  Time slot  rooms
+Ma HP                        
+KH0001  123         -1      2
+KH0002  113         -1      2
+KH0003  616         -1      7
+KH0004  150         -1      2
+KH0005   64         -1      1
+...     ...        ...    ...
+KH0618   22         -1      1
+KH0619   10         -1      1
+KH0620   13         -1      1
+KH0621    9         -1      1
+KH0622   32         -1      1
+
+[622 rows x 3 columns]
+2024-11-21 10:00:16,318 - INFO - Model and variables initialized
+2024-11-21 10:01:08,240 - INFO - Objective value: 0.0
+2024-11-21 10:01:08,240 - INFO - Time slot 0: 
+2024-11-21 10:01:08,243 - INFO - Number of rooms: 71
+2024-11-21 10:01:08,246 - INFO - Exam KH0040 scheduled in time slot 0
+2024-11-21 10:01:08,249 - INFO - Exam KH0044 scheduled in time slot 0
+2024-11-21 10:01:08,251 - INFO - Exam KH0046 scheduled in time slot 0
+2024-11-21 10:01:08,254 - INFO - Exam KH0084 scheduled in time slot 0
+2024-11-21 10:01:08,256 - INFO - Exam KH0121 scheduled in time slot 0
+2024-11-21 10:01:08,259 - INFO - Exam KH0134 scheduled in time slot 0
+2024-11-21 10:01:08,261 - INFO - Exam KH0168 scheduled in time slot 0
+2024-11-21 10:01:08,263 - INFO - Exam KH0176 scheduled in time slot 0
+2024-11-21 10:01:08,265 - INFO - Exam KH0182 scheduled in time slot 0
+2024-11-21 10:01:08,267 - INFO - Exam KH0218 scheduled in time slot 0
+2024-11-21 10:01:08,270 - INFO - Exam KH0222 scheduled in time slot 0
+2024-11-21 10:01:08,272 - INFO - Exam KH0224 scheduled in time slot 0
+2024-11-21 10:01:08,274 - INFO - Exam KH0233 scheduled in time slot 0
+2024-11-21 10:01:08,276 - INFO - Exam KH0266 scheduled in time slot 0
+2024-11-21 10:01:08,279 - INFO - Exam KH0291 scheduled in time slot 0
+2024-11-21 10:01:08,281 - INFO - Exam KH0292 scheduled in time slot 0
+2024-11-21 10:01:08,283 - INFO - Exam KH0296 scheduled in time slot 0
+2024-11-21 10:01:08,285 - INFO - Exam KH0298 scheduled in time slot 0
+2024-11-21 10:01:08,288 - INFO - Exam KH0324 scheduled in time slot 0
+2024-11-21 10:01:08,290 - INFO - Exam KH0326 scheduled in time slot 0
+2024-11-21 10:01:08,292 - INFO - Exam KH0334 scheduled in time slot 0
+2024-11-21 10:01:08,295 - INFO - Exam KH0335 scheduled in time slot 0
+2024-11-21 10:01:08,297 - INFO - Exam KH0337 scheduled in time slot 0
+2024-11-21 10:01:08,299 - INFO - Exam KH0340 scheduled in time slot 0
+2024-11-21 10:01:08,302 - INFO - Exam KH0341 scheduled in time slot 0
+2024-11-21 10:01:08,304 - INFO - Exam KH0346 scheduled in time slot 0
+2024-11-21 10:01:08,306 - INFO - Exam KH0371 scheduled in time slot 0
+2024-11-21 10:01:08,309 - INFO - Exam KH0373 scheduled in time slot 0
+2024-11-21 10:01:08,311 - INFO - Exam KH0388 scheduled in time slot 0
+2024-11-21 10:01:08,314 - INFO - Exam KH0400 scheduled in time slot 0
+2024-11-21 10:01:08,316 - INFO - Exam KH0421 scheduled in time slot 0
+2024-11-21 10:01:08,318 - INFO - Exam KH0431 scheduled in time slot 0
+2024-11-21 10:01:08,321 - INFO - Exam KH0449 scheduled in time slot 0
+2024-11-21 10:01:08,323 - INFO - Exam KH0478 scheduled in time slot 0
+2024-11-21 10:01:08,326 - INFO - Exam KH0480 scheduled in time slot 0
+2024-11-21 10:01:08,328 - INFO - Exam KH0481 scheduled in time slot 0
+2024-11-21 10:01:08,330 - INFO - Exam KH0504 scheduled in time slot 0
+2024-11-21 10:01:08,332 - INFO - Exam KH0508 scheduled in time slot 0
+2024-11-21 10:01:08,335 - INFO - Exam KH0512 scheduled in time slot 0
+2024-11-21 10:01:08,337 - INFO - Exam KH0533 scheduled in time slot 0
+2024-11-21 10:01:08,340 - INFO - Exam KH0534 scheduled in time slot 0
+2024-11-21 10:01:08,342 - INFO - Exam KH0538 scheduled in time slot 0
+2024-11-21 10:01:08,345 - INFO - Exam KH0540 scheduled in time slot 0
+2024-11-21 10:01:08,347 - INFO - Exam KH0544 scheduled in time slot 0
+2024-11-21 10:01:08,349 - INFO - Exam KH0548 scheduled in time slot 0
+2024-11-21 10:01:08,351 - INFO - Exam KH0549 scheduled in time slot 0
+2024-11-21 10:01:08,353 - INFO - Exam KH0550 scheduled in time slot 0
+2024-11-21 10:01:08,355 - INFO - Exam KH0551 scheduled in time slot 0
+2024-11-21 10:01:08,358 - INFO - Exam KH0557 scheduled in time slot 0
+2024-11-21 10:01:08,360 - INFO - Exam KH0561 scheduled in time slot 0
+2024-11-21 10:01:08,362 - INFO - Exam KH0562 scheduled in time slot 0
+2024-11-21 10:01:08,365 - INFO - Exam KH0563 scheduled in time slot 0
+2024-11-21 10:01:08,367 - INFO - Exam KH0564 scheduled in time slot 0
+2024-11-21 10:01:08,369 - INFO - Exam KH0568 scheduled in time slot 0
+2024-11-21 10:01:08,372 - INFO - Exam KH0571 scheduled in time slot 0
+2024-11-21 10:01:08,374 - INFO - Exam KH0572 scheduled in time slot 0
+2024-11-21 10:01:08,377 - INFO - Exam KH0579 scheduled in time slot 0
+2024-11-21 10:01:08,379 - INFO - Exam KH0580 scheduled in time slot 0
+2024-11-21 10:01:08,381 - INFO - Exam KH0585 scheduled in time slot 0
+2024-11-21 10:01:08,384 - INFO - Exam KH0596 scheduled in time slot 0
+2024-11-21 10:01:08,386 - INFO - Exam KH0605 scheduled in time slot 0
+2024-11-21 10:01:08,389 - INFO - Exam KH0619 scheduled in time slot 0
+2024-11-21 10:01:08,391 - INFO - Exam KH0621 scheduled in time slot 0
+2024-11-21 10:01:08,391 - INFO - Time slot 1: 
+2024-11-21 10:01:08,394 - INFO - Number of rooms: 67
+2024-11-21 10:01:08,397 - INFO - Exam KH0047 scheduled in time slot 1
+2024-11-21 10:01:08,399 - INFO - Exam KH0054 scheduled in time slot 1
+2024-11-21 10:01:08,401 - INFO - Exam KH0107 scheduled in time slot 1
+2024-11-21 10:01:08,404 - INFO - Exam KH0135 scheduled in time slot 1
+2024-11-21 10:01:08,406 - INFO - Exam KH0141 scheduled in time slot 1
+2024-11-21 10:01:08,408 - INFO - Exam KH0150 scheduled in time slot 1
+2024-11-21 10:01:08,411 - INFO - Exam KH0177 scheduled in time slot 1
+2024-11-21 10:01:08,413 - INFO - Exam KH0179 scheduled in time slot 1
+2024-11-21 10:01:08,415 - INFO - Exam KH0192 scheduled in time slot 1
+2024-11-21 10:01:08,418 - INFO - Exam KH0214 scheduled in time slot 1
+2024-11-21 10:01:08,420 - INFO - Exam KH0217 scheduled in time slot 1
+2024-11-21 10:01:08,422 - INFO - Exam KH0226 scheduled in time slot 1
+2024-11-21 10:01:08,425 - INFO - Exam KH0268 scheduled in time slot 1
+2024-11-21 10:01:08,427 - INFO - Exam KH0282 scheduled in time slot 1
+2024-11-21 10:01:08,430 - INFO - Exam KH0284 scheduled in time slot 1
+2024-11-21 10:01:08,432 - INFO - Exam KH0287 scheduled in time slot 1
+2024-11-21 10:01:08,434 - INFO - Exam KH0293 scheduled in time slot 1
+2024-11-21 10:01:08,437 - INFO - Exam KH0323 scheduled in time slot 1
+2024-11-21 10:01:08,439 - INFO - Exam KH0327 scheduled in time slot 1
+2024-11-21 10:01:08,442 - INFO - Exam KH0330 scheduled in time slot 1
+2024-11-21 10:01:08,444 - INFO - Exam KH0333 scheduled in time slot 1
+2024-11-21 10:01:08,446 - INFO - Exam KH0342 scheduled in time slot 1
+2024-11-21 10:01:08,449 - INFO - Exam KH0345 scheduled in time slot 1
+2024-11-21 10:01:08,451 - INFO - Exam KH0369 scheduled in time slot 1
+2024-11-21 10:01:08,454 - INFO - Exam KH0378 scheduled in time slot 1
+2024-11-21 10:01:08,456 - INFO - Exam KH0390 scheduled in time slot 1
+2024-11-21 10:01:08,459 - INFO - Exam KH0401 scheduled in time slot 1
+2024-11-21 10:01:08,461 - INFO - Exam KH0415 scheduled in time slot 1
+2024-11-21 10:01:08,463 - INFO - Exam KH0419 scheduled in time slot 1
+2024-11-21 10:01:08,466 - INFO - Exam KH0428 scheduled in time slot 1
+2024-11-21 10:01:08,468 - INFO - Exam KH0459 scheduled in time slot 1
+2024-11-21 10:01:08,471 - INFO - Exam KH0460 scheduled in time slot 1
+2024-11-21 10:01:08,473 - INFO - Exam KH0469 scheduled in time slot 1
+2024-11-21 10:01:08,476 - INFO - Exam KH0479 scheduled in time slot 1
+2024-11-21 10:01:08,478 - INFO - Exam KH0513 scheduled in time slot 1
+2024-11-21 10:01:08,480 - INFO - Exam KH0514 scheduled in time slot 1
+2024-11-21 10:01:08,483 - INFO - Exam KH0532 scheduled in time slot 1
+2024-11-21 10:01:08,485 - INFO - Exam KH0539 scheduled in time slot 1
+2024-11-21 10:01:08,488 - INFO - Exam KH0553 scheduled in time slot 1
+2024-11-21 10:01:08,490 - INFO - Exam KH0556 scheduled in time slot 1
+2024-11-21 10:01:08,493 - INFO - Exam KH0558 scheduled in time slot 1
+2024-11-21 10:01:08,495 - INFO - Exam KH0559 scheduled in time slot 1
+2024-11-21 10:01:08,497 - INFO - Exam KH0560 scheduled in time slot 1
+2024-11-21 10:01:08,500 - INFO - Exam KH0569 scheduled in time slot 1
+2024-11-21 10:01:08,502 - INFO - Exam KH0577 scheduled in time slot 1
+2024-11-21 10:01:08,504 - INFO - Exam KH0589 scheduled in time slot 1
+2024-11-21 10:01:08,507 - INFO - Exam KH0593 scheduled in time slot 1
+2024-11-21 10:01:08,509 - INFO - Exam KH0594 scheduled in time slot 1
+2024-11-21 10:01:08,511 - INFO - Exam KH0599 scheduled in time slot 1
+2024-11-21 10:01:08,514 - INFO - Exam KH0603 scheduled in time slot 1
+2024-11-21 10:01:08,516 - INFO - Exam KH0616 scheduled in time slot 1
+2024-11-21 10:01:08,518 - INFO - Exam KH0618 scheduled in time slot 1
+2024-11-21 10:01:08,521 - INFO - Exam KH0620 scheduled in time slot 1
+2024-11-21 10:01:08,521 - INFO - Time slot 2: 
+2024-11-21 10:01:08,524 - INFO - Number of rooms: 44
+2024-11-21 10:01:08,527 - INFO - Exam KH0045 scheduled in time slot 2
+2024-11-21 10:01:08,529 - INFO - Exam KH0114 scheduled in time slot 2
+2024-11-21 10:01:08,531 - INFO - Exam KH0122 scheduled in time slot 2
+2024-11-21 10:01:08,533 - INFO - Exam KH0165 scheduled in time slot 2
+2024-11-21 10:01:08,536 - INFO - Exam KH0180 scheduled in time slot 2
+2024-11-21 10:01:08,538 - INFO - Exam KH0190 scheduled in time slot 2
+2024-11-21 10:01:08,541 - INFO - Exam KH0209 scheduled in time slot 2
+2024-11-21 10:01:08,543 - INFO - Exam KH0216 scheduled in time slot 2
+2024-11-21 10:01:08,546 - INFO - Exam KH0230 scheduled in time slot 2
+2024-11-21 10:01:08,548 - INFO - Exam KH0232 scheduled in time slot 2
+2024-11-21 10:01:08,550 - INFO - Exam KH0235 scheduled in time slot 2
+2024-11-21 10:01:08,553 - INFO - Exam KH0258 scheduled in time slot 2
+2024-11-21 10:01:08,555 - INFO - Exam KH0281 scheduled in time slot 2
+2024-11-21 10:01:08,558 - INFO - Exam KH0295 scheduled in time slot 2
+2024-11-21 10:01:08,560 - INFO - Exam KH0344 scheduled in time slot 2
+2024-11-21 10:01:08,562 - INFO - Exam KH0350 scheduled in time slot 2
+2024-11-21 10:01:08,564 - INFO - Exam KH0357 scheduled in time slot 2
+2024-11-21 10:01:08,567 - INFO - Exam KH0370 scheduled in time slot 2
+2024-11-21 10:01:08,570 - INFO - Exam KH0375 scheduled in time slot 2
+2024-11-21 10:01:08,572 - INFO - Exam KH0393 scheduled in time slot 2
+2024-11-21 10:01:08,575 - INFO - Exam KH0408 scheduled in time slot 2
+2024-11-21 10:01:08,577 - INFO - Exam KH0424 scheduled in time slot 2
+2024-11-21 10:01:08,579 - INFO - Exam KH0429 scheduled in time slot 2
+2024-11-21 10:01:08,582 - INFO - Exam KH0470 scheduled in time slot 2
+2024-11-21 10:01:08,584 - INFO - Exam KH0471 scheduled in time slot 2
+2024-11-21 10:01:08,586 - INFO - Exam KH0485 scheduled in time slot 2
+2024-11-21 10:01:08,589 - INFO - Exam KH0511 scheduled in time slot 2
+2024-11-21 10:01:08,591 - INFO - Exam KH0530 scheduled in time slot 2
+2024-11-21 10:01:08,593 - INFO - Exam KH0531 scheduled in time slot 2
+2024-11-21 10:01:08,596 - INFO - Exam KH0535 scheduled in time slot 2
+2024-11-21 10:01:08,598 - INFO - Exam KH0541 scheduled in time slot 2
+2024-11-21 10:01:08,600 - INFO - Exam KH0546 scheduled in time slot 2
+2024-11-21 10:01:08,603 - INFO - Exam KH0552 scheduled in time slot 2
+2024-11-21 10:01:08,605 - INFO - Exam KH0586 scheduled in time slot 2
+2024-11-21 10:01:08,608 - INFO - Exam KH0590 scheduled in time slot 2
+2024-11-21 10:01:08,610 - INFO - Exam KH0592 scheduled in time slot 2
+2024-11-21 10:01:08,612 - INFO - Exam KH0598 scheduled in time slot 2
+2024-11-21 10:01:08,612 - INFO - Time slot 3: 
+2024-11-21 10:01:08,615 - INFO - Number of rooms: 49
+2024-11-21 10:01:08,618 - INFO - Exam KH0004 scheduled in time slot 3
+2024-11-21 10:01:08,621 - INFO - Exam KH0041 scheduled in time slot 3
+2024-11-21 10:01:08,624 - INFO - Exam KH0098 scheduled in time slot 3
+2024-11-21 10:01:08,626 - INFO - Exam KH0099 scheduled in time slot 3
+2024-11-21 10:01:08,628 - INFO - Exam KH0101 scheduled in time slot 3
+2024-11-21 10:01:08,631 - INFO - Exam KH0120 scheduled in time slot 3
+2024-11-21 10:01:08,633 - INFO - Exam KH0156 scheduled in time slot 3
+2024-11-21 10:01:08,635 - INFO - Exam KH0211 scheduled in time slot 3
+2024-11-21 10:01:08,638 - INFO - Exam KH0223 scheduled in time slot 3
+2024-11-21 10:01:08,640 - INFO - Exam KH0229 scheduled in time slot 3
+2024-11-21 10:01:08,642 - INFO - Exam KH0231 scheduled in time slot 3
+2024-11-21 10:01:08,645 - INFO - Exam KH0234 scheduled in time slot 3
+2024-11-21 10:01:08,647 - INFO - Exam KH0283 scheduled in time slot 3
+2024-11-21 10:01:08,649 - INFO - Exam KH0294 scheduled in time slot 3
+2024-11-21 10:01:08,651 - INFO - Exam KH0313 scheduled in time slot 3
+2024-11-21 10:01:08,653 - INFO - Exam KH0322 scheduled in time slot 3
+2024-11-21 10:01:08,656 - INFO - Exam KH0329 scheduled in time slot 3
+2024-11-21 10:01:08,658 - INFO - Exam KH0332 scheduled in time slot 3
+2024-11-21 10:01:08,660 - INFO - Exam KH0343 scheduled in time slot 3
+2024-11-21 10:01:08,663 - INFO - Exam KH0368 scheduled in time slot 3
+2024-11-21 10:01:08,665 - INFO - Exam KH0377 scheduled in time slot 3
+2024-11-21 10:01:08,667 - INFO - Exam KH0402 scheduled in time slot 3
+2024-11-21 10:01:08,675 - INFO - Exam KH0406 scheduled in time slot 3
+2024-11-21 10:01:08,679 - INFO - Exam KH0418 scheduled in time slot 3
+2024-11-21 10:01:08,682 - INFO - Exam KH0422 scheduled in time slot 3
+2024-11-21 10:01:08,685 - INFO - Exam KH0445 scheduled in time slot 3
+2024-11-21 10:01:08,690 - INFO - Exam KH0491 scheduled in time slot 3
+2024-11-21 10:01:08,693 - INFO - Exam KH0524 scheduled in time slot 3
+2024-11-21 10:01:08,695 - INFO - Exam KH0565 scheduled in time slot 3
+2024-11-21 10:01:08,697 - INFO - Exam KH0584 scheduled in time slot 3
+2024-11-21 10:01:08,700 - INFO - Exam KH0591 scheduled in time slot 3
+2024-11-21 10:01:08,702 - INFO - Exam KH0600 scheduled in time slot 3
+2024-11-21 10:01:08,702 - INFO - Time slot 4: 
+2024-11-21 10:01:08,705 - INFO - Number of rooms: 42
+2024-11-21 10:01:08,707 - INFO - Exam KH0007 scheduled in time slot 4
+2024-11-21 10:01:08,710 - INFO - Exam KH0010 scheduled in time slot 4
+2024-11-21 10:01:08,712 - INFO - Exam KH0035 scheduled in time slot 4
+2024-11-21 10:01:08,714 - INFO - Exam KH0077 scheduled in time slot 4
+2024-11-21 10:01:08,716 - INFO - Exam KH0082 scheduled in time slot 4
+2024-11-21 10:01:08,719 - INFO - Exam KH0109 scheduled in time slot 4
+2024-11-21 10:01:08,721 - INFO - Exam KH0142 scheduled in time slot 4
+2024-11-21 10:01:08,723 - INFO - Exam KH0151 scheduled in time slot 4
+2024-11-21 10:01:08,726 - INFO - Exam KH0175 scheduled in time slot 4
+2024-11-21 10:01:08,728 - INFO - Exam KH0189 scheduled in time slot 4
+2024-11-21 10:01:08,730 - INFO - Exam KH0208 scheduled in time slot 4
+2024-11-21 10:01:08,732 - INFO - Exam KH0225 scheduled in time slot 4
+2024-11-21 10:01:08,735 - INFO - Exam KH0236 scheduled in time slot 4
+2024-11-21 10:01:08,737 - INFO - Exam KH0254 scheduled in time slot 4
+2024-11-21 10:01:08,739 - INFO - Exam KH0255 scheduled in time slot 4
+2024-11-21 10:01:08,742 - INFO - Exam KH0262 scheduled in time slot 4
+2024-11-21 10:01:08,744 - INFO - Exam KH0299 scheduled in time slot 4
+2024-11-21 10:01:08,746 - INFO - Exam KH0321 scheduled in time slot 4
+2024-11-21 10:01:08,748 - INFO - Exam KH0328 scheduled in time slot 4
+2024-11-21 10:01:08,751 - INFO - Exam KH0336 scheduled in time slot 4
+2024-11-21 10:01:08,754 - INFO - Exam KH0351 scheduled in time slot 4
+2024-11-21 10:01:08,756 - INFO - Exam KH0364 scheduled in time slot 4
+2024-11-21 10:01:08,759 - INFO - Exam KH0376 scheduled in time slot 4
+2024-11-21 10:01:08,761 - INFO - Exam KH0380 scheduled in time slot 4
+2024-11-21 10:01:08,763 - INFO - Exam KH0407 scheduled in time slot 4
+2024-11-21 10:01:08,765 - INFO - Exam KH0430 scheduled in time slot 4
+2024-11-21 10:01:08,768 - INFO - Exam KH0473 scheduled in time slot 4
+2024-11-21 10:01:08,770 - INFO - Exam KH0477 scheduled in time slot 4
+2024-11-21 10:01:08,772 - INFO - Exam KH0503 scheduled in time slot 4
+2024-11-21 10:01:08,775 - INFO - Exam KH0506 scheduled in time slot 4
+2024-11-21 10:01:08,778 - INFO - Exam KH0507 scheduled in time slot 4
+2024-11-21 10:01:08,780 - INFO - Exam KH0528 scheduled in time slot 4
+2024-11-21 10:01:08,782 - INFO - Exam KH0554 scheduled in time slot 4
+2024-11-21 10:01:08,785 - INFO - Exam KH0566 scheduled in time slot 4
+2024-11-21 10:01:08,787 - INFO - Exam KH0601 scheduled in time slot 4
+2024-11-21 10:01:08,789 - INFO - Exam KH0610 scheduled in time slot 4
+2024-11-21 10:01:08,789 - INFO - Time slot 5: 
+2024-11-21 10:01:08,792 - INFO - Number of rooms: 38
+2024-11-21 10:01:08,795 - INFO - Exam KH0019 scheduled in time slot 5
+2024-11-21 10:01:08,797 - INFO - Exam KH0026 scheduled in time slot 5
+2024-11-21 10:01:08,799 - INFO - Exam KH0033 scheduled in time slot 5
+2024-11-21 10:01:08,802 - INFO - Exam KH0039 scheduled in time slot 5
+2024-11-21 10:01:08,804 - INFO - Exam KH0058 scheduled in time slot 5
+2024-11-21 10:01:08,806 - INFO - Exam KH0061 scheduled in time slot 5
+2024-11-21 10:01:08,809 - INFO - Exam KH0062 scheduled in time slot 5
+2024-11-21 10:01:08,812 - INFO - Exam KH0068 scheduled in time slot 5
+2024-11-21 10:01:08,814 - INFO - Exam KH0073 scheduled in time slot 5
+2024-11-21 10:01:08,816 - INFO - Exam KH0125 scheduled in time slot 5
+2024-11-21 10:01:08,819 - INFO - Exam KH0248 scheduled in time slot 5
+2024-11-21 10:01:08,821 - INFO - Exam KH0269 scheduled in time slot 5
+2024-11-21 10:01:08,823 - INFO - Exam KH0277 scheduled in time slot 5
+2024-11-21 10:01:08,826 - INFO - Exam KH0300 scheduled in time slot 5
+2024-11-21 10:01:08,828 - INFO - Exam KH0339 scheduled in time slot 5
+2024-11-21 10:01:08,830 - INFO - Exam KH0381 scheduled in time slot 5
+2024-11-21 10:01:08,833 - INFO - Exam KH0405 scheduled in time slot 5
+2024-11-21 10:01:08,835 - INFO - Exam KH0413 scheduled in time slot 5
+2024-11-21 10:01:08,837 - INFO - Exam KH0425 scheduled in time slot 5
+2024-11-21 10:01:08,839 - INFO - Exam KH0434 scheduled in time slot 5
+2024-11-21 10:01:08,843 - INFO - Exam KH0475 scheduled in time slot 5
+2024-11-21 10:01:08,845 - INFO - Exam KH0483 scheduled in time slot 5
+2024-11-21 10:01:08,848 - INFO - Exam KH0529 scheduled in time slot 5
+2024-11-21 10:01:08,850 - INFO - Exam KH0536 scheduled in time slot 5
+2024-11-21 10:01:08,853 - INFO - Exam KH0537 scheduled in time slot 5
+2024-11-21 10:01:08,857 - INFO - Exam KH0547 scheduled in time slot 5
+2024-11-21 10:01:08,859 - INFO - Exam KH0573 scheduled in time slot 5
+2024-11-21 10:01:08,862 - INFO - Exam KH0583 scheduled in time slot 5
+2024-11-21 10:01:08,864 - INFO - Exam KH0595 scheduled in time slot 5
+2024-11-21 10:01:08,864 - INFO - Time slot 6: 
+2024-11-21 10:01:08,867 - INFO - Number of rooms: 35
+2024-11-21 10:01:08,869 - INFO - Exam KH0014 scheduled in time slot 6
+2024-11-21 10:01:08,871 - INFO - Exam KH0020 scheduled in time slot 6
+2024-11-21 10:01:08,874 - INFO - Exam KH0036 scheduled in time slot 6
+2024-11-21 10:01:08,876 - INFO - Exam KH0075 scheduled in time slot 6
+2024-11-21 10:01:08,878 - INFO - Exam KH0089 scheduled in time slot 6
+2024-11-21 10:01:08,880 - INFO - Exam KH0100 scheduled in time slot 6
+2024-11-21 10:01:08,883 - INFO - Exam KH0124 scheduled in time slot 6
+2024-11-21 10:01:08,885 - INFO - Exam KH0173 scheduled in time slot 6
+2024-11-21 10:01:08,887 - INFO - Exam KH0193 scheduled in time slot 6
+2024-11-21 10:01:08,890 - INFO - Exam KH0274 scheduled in time slot 6
+2024-11-21 10:01:08,892 - INFO - Exam KH0289 scheduled in time slot 6
+2024-11-21 10:01:08,894 - INFO - Exam KH0320 scheduled in time slot 6
+2024-11-21 10:01:08,897 - INFO - Exam KH0338 scheduled in time slot 6
+2024-11-21 10:01:08,899 - INFO - Exam KH0349 scheduled in time slot 6
+2024-11-21 10:01:08,901 - INFO - Exam KH0414 scheduled in time slot 6
+2024-11-21 10:01:08,904 - INFO - Exam KH0417 scheduled in time slot 6
+2024-11-21 10:01:08,906 - INFO - Exam KH0427 scheduled in time slot 6
+2024-11-21 10:01:08,909 - INFO - Exam KH0458 scheduled in time slot 6
+2024-11-21 10:01:08,911 - INFO - Exam KH0467 scheduled in time slot 6
+2024-11-21 10:01:08,913 - INFO - Exam KH0484 scheduled in time slot 6
+2024-11-21 10:01:08,915 - INFO - Exam KH0499 scheduled in time slot 6
+2024-11-21 10:01:08,918 - INFO - Exam KH0505 scheduled in time slot 6
+2024-11-21 10:01:08,920 - INFO - Exam KH0543 scheduled in time slot 6
+2024-11-21 10:01:08,922 - INFO - Exam KH0575 scheduled in time slot 6
+2024-11-21 10:01:08,925 - INFO - Exam KH0597 scheduled in time slot 6
+2024-11-21 10:01:08,927 - INFO - Exam KH0602 scheduled in time slot 6
+2024-11-21 10:01:08,927 - INFO - Time slot 7: 
+2024-11-21 10:01:08,930 - INFO - Number of rooms: 35
+2024-11-21 10:01:08,932 - INFO - Exam KH0003 scheduled in time slot 7
+2024-11-21 10:01:08,935 - INFO - Exam KH0043 scheduled in time slot 7
+2024-11-21 10:01:08,937 - INFO - Exam KH0052 scheduled in time slot 7
+2024-11-21 10:01:08,940 - INFO - Exam KH0095 scheduled in time slot 7
+2024-11-21 10:01:08,942 - INFO - Exam KH0137 scheduled in time slot 7
+2024-11-21 10:01:08,945 - INFO - Exam KH0146 scheduled in time slot 7
+2024-11-21 10:01:08,947 - INFO - Exam KH0170 scheduled in time slot 7
+2024-11-21 10:01:08,949 - INFO - Exam KH0191 scheduled in time slot 7
+2024-11-21 10:01:08,951 - INFO - Exam KH0201 scheduled in time slot 7
+2024-11-21 10:01:08,954 - INFO - Exam KH0290 scheduled in time slot 7
+2024-11-21 10:01:08,956 - INFO - Exam KH0360 scheduled in time slot 7
+2024-11-21 10:01:08,959 - INFO - Exam KH0367 scheduled in time slot 7
+2024-11-21 10:01:08,961 - INFO - Exam KH0379 scheduled in time slot 7
+2024-11-21 10:01:08,964 - INFO - Exam KH0403 scheduled in time slot 7
+2024-11-21 10:01:08,966 - INFO - Exam KH0423 scheduled in time slot 7
+2024-11-21 10:01:08,968 - INFO - Exam KH0443 scheduled in time slot 7
+2024-11-21 10:01:08,970 - INFO - Exam KH0456 scheduled in time slot 7
+2024-11-21 10:01:08,972 - INFO - Exam KH0476 scheduled in time slot 7
+2024-11-21 10:01:08,975 - INFO - Exam KH0494 scheduled in time slot 7
+2024-11-21 10:01:08,977 - INFO - Exam KH0527 scheduled in time slot 7
+2024-11-21 10:01:08,979 - INFO - Exam KH0570 scheduled in time slot 7
+2024-11-21 10:01:08,982 - INFO - Exam KH0576 scheduled in time slot 7
+2024-11-21 10:01:08,984 - INFO - Exam KH0617 scheduled in time slot 7
+2024-11-21 10:01:08,984 - INFO - Time slot 8: 
+2024-11-21 10:01:08,988 - INFO - Number of rooms: 29
+2024-11-21 10:01:08,990 - INFO - Exam KH0023 scheduled in time slot 8
+2024-11-21 10:01:08,993 - INFO - Exam KH0104 scheduled in time slot 8
+2024-11-21 10:01:08,995 - INFO - Exam KH0111 scheduled in time slot 8
+2024-11-21 10:01:08,997 - INFO - Exam KH0128 scheduled in time slot 8
+2024-11-21 10:01:09,000 - INFO - Exam KH0129 scheduled in time slot 8
+2024-11-21 10:01:09,002 - INFO - Exam KH0132 scheduled in time slot 8
+2024-11-21 10:01:09,005 - INFO - Exam KH0145 scheduled in time slot 8
+2024-11-21 10:01:09,007 - INFO - Exam KH0153 scheduled in time slot 8
+2024-11-21 10:01:09,010 - INFO - Exam KH0210 scheduled in time slot 8
+2024-11-21 10:01:09,012 - INFO - Exam KH0272 scheduled in time slot 8
+2024-11-21 10:01:09,014 - INFO - Exam KH0275 scheduled in time slot 8
+2024-11-21 10:01:09,016 - INFO - Exam KH0288 scheduled in time slot 8
+2024-11-21 10:01:09,019 - INFO - Exam KH0331 scheduled in time slot 8
+2024-11-21 10:01:09,021 - INFO - Exam KH0366 scheduled in time slot 8
+2024-11-21 10:01:09,023 - INFO - Exam KH0404 scheduled in time slot 8
+2024-11-21 10:01:09,026 - INFO - Exam KH0501 scheduled in time slot 8
+2024-11-21 10:01:09,028 - INFO - Exam KH0526 scheduled in time slot 8
+2024-11-21 10:01:09,028 - INFO - Time slot 9: 
+2024-11-21 10:01:09,031 - INFO - Number of rooms: 26
+2024-11-21 10:01:09,033 - INFO - Exam KH0055 scheduled in time slot 9
+2024-11-21 10:01:09,036 - INFO - Exam KH0086 scheduled in time slot 9
+2024-11-21 10:01:09,038 - INFO - Exam KH0102 scheduled in time slot 9
+2024-11-21 10:01:09,041 - INFO - Exam KH0133 scheduled in time slot 9
+2024-11-21 10:01:09,043 - INFO - Exam KH0172 scheduled in time slot 9
+2024-11-21 10:01:09,046 - INFO - Exam KH0187 scheduled in time slot 9
+2024-11-21 10:01:09,048 - INFO - Exam KH0220 scheduled in time slot 9
+2024-11-21 10:01:09,050 - INFO - Exam KH0237 scheduled in time slot 9
+2024-11-21 10:01:09,053 - INFO - Exam KH0325 scheduled in time slot 9
+2024-11-21 10:01:09,055 - INFO - Exam KH0365 scheduled in time slot 9
+2024-11-21 10:01:09,058 - INFO - Exam KH0462 scheduled in time slot 9
+2024-11-21 10:01:09,060 - INFO - Exam KH0497 scheduled in time slot 9
+2024-11-21 10:01:09,062 - INFO - Exam KH0500 scheduled in time slot 9
+2024-11-21 10:01:09,064 - INFO - Exam KH0515 scheduled in time slot 9
+2024-11-21 10:01:09,067 - INFO - Exam KH0609 scheduled in time slot 9
+2024-11-21 10:01:09,067 - INFO - Time slot 10: 
+2024-11-21 10:01:09,071 - INFO - Number of rooms: 38
+2024-11-21 10:01:09,073 - INFO - Exam KH0015 scheduled in time slot 10
+2024-11-21 10:01:09,076 - INFO - Exam KH0022 scheduled in time slot 10
+2024-11-21 10:01:09,078 - INFO - Exam KH0057 scheduled in time slot 10
+2024-11-21 10:01:09,080 - INFO - Exam KH0066 scheduled in time slot 10
+2024-11-21 10:01:09,082 - INFO - Exam KH0115 scheduled in time slot 10
+2024-11-21 10:01:09,085 - INFO - Exam KH0166 scheduled in time slot 10
+2024-11-21 10:01:09,087 - INFO - Exam KH0213 scheduled in time slot 10
+2024-11-21 10:01:09,090 - INFO - Exam KH0246 scheduled in time slot 10
+2024-11-21 10:01:09,092 - INFO - Exam KH0251 scheduled in time slot 10
+2024-11-21 10:01:09,094 - INFO - Exam KH0261 scheduled in time slot 10
+2024-11-21 10:01:09,097 - INFO - Exam KH0304 scheduled in time slot 10
+2024-11-21 10:01:09,099 - INFO - Exam KH0386 scheduled in time slot 10
+2024-11-21 10:01:09,101 - INFO - Exam KH0468 scheduled in time slot 10
+2024-11-21 10:01:09,104 - INFO - Exam KH0495 scheduled in time slot 10
+2024-11-21 10:01:09,106 - INFO - Exam KH0523 scheduled in time slot 10
+2024-11-21 10:01:09,109 - INFO - Exam KH0542 scheduled in time slot 10
+2024-11-21 10:01:09,111 - INFO - Exam KH0555 scheduled in time slot 10
+2024-11-21 10:01:09,111 - INFO - Time slot 11: 
+2024-11-21 10:01:09,114 - INFO - Number of rooms: 29
+2024-11-21 10:01:09,116 - INFO - Exam KH0002 scheduled in time slot 11
+2024-11-21 10:01:09,119 - INFO - Exam KH0011 scheduled in time slot 11
+2024-11-21 10:01:09,122 - INFO - Exam KH0060 scheduled in time slot 11
+2024-11-21 10:01:09,124 - INFO - Exam KH0108 scheduled in time slot 11
+2024-11-21 10:01:09,127 - INFO - Exam KH0164 scheduled in time slot 11
+2024-11-21 10:01:09,129 - INFO - Exam KH0183 scheduled in time slot 11
+2024-11-21 10:01:09,131 - INFO - Exam KH0186 scheduled in time slot 11
+2024-11-21 10:01:09,133 - INFO - Exam KH0212 scheduled in time slot 11
+2024-11-21 10:01:09,136 - INFO - Exam KH0247 scheduled in time slot 11
+2024-11-21 10:01:09,138 - INFO - Exam KH0270 scheduled in time slot 11
+2024-11-21 10:01:09,141 - INFO - Exam KH0315 scheduled in time slot 11
+2024-11-21 10:01:09,143 - INFO - Exam KH0442 scheduled in time slot 11
+2024-11-21 10:01:09,146 - INFO - Exam KH0461 scheduled in time slot 11
+2024-11-21 10:01:09,148 - INFO - Exam KH0472 scheduled in time slot 11
+2024-11-21 10:01:09,150 - INFO - Exam KH0567 scheduled in time slot 11
+2024-11-21 10:01:09,153 - INFO - Exam KH0587 scheduled in time slot 11
+2024-11-21 10:01:09,155 - INFO - Exam KH0604 scheduled in time slot 11
+2024-11-21 10:01:09,158 - INFO - Exam KH0606 scheduled in time slot 11
+2024-11-21 10:01:09,160 - INFO - Exam KH0622 scheduled in time slot 11
+2024-11-21 10:01:09,160 - INFO - Time slot 12: 
+2024-11-21 10:01:09,163 - INFO - Number of rooms: 25
+2024-11-21 10:01:09,166 - INFO - Exam KH0034 scheduled in time slot 12
+2024-11-21 10:01:09,168 - INFO - Exam KH0038 scheduled in time slot 12
+2024-11-21 10:01:09,170 - INFO - Exam KH0131 scheduled in time slot 12
+2024-11-21 10:01:09,173 - INFO - Exam KH0154 scheduled in time slot 12
+2024-11-21 10:01:09,176 - INFO - Exam KH0160 scheduled in time slot 12
+2024-11-21 10:01:09,178 - INFO - Exam KH0171 scheduled in time slot 12
+2024-11-21 10:01:09,180 - INFO - Exam KH0206 scheduled in time slot 12
+2024-11-21 10:01:09,182 - INFO - Exam KH0309 scheduled in time slot 12
+2024-11-21 10:01:09,185 - INFO - Exam KH0348 scheduled in time slot 12
+2024-11-21 10:01:09,188 - INFO - Exam KH0361 scheduled in time slot 12
+2024-11-21 10:01:09,190 - INFO - Exam KH0394 scheduled in time slot 12
+2024-11-21 10:01:09,192 - INFO - Exam KH0452 scheduled in time slot 12
+2024-11-21 10:01:09,194 - INFO - Exam KH0496 scheduled in time slot 12
+2024-11-21 10:01:09,197 - INFO - Exam KH0525 scheduled in time slot 12
+2024-11-21 10:01:09,197 - INFO - Time slot 13: 
+2024-11-21 10:01:09,200 - INFO - Number of rooms: 32
+2024-11-21 10:01:09,202 - INFO - Exam KH0008 scheduled in time slot 13
+2024-11-21 10:01:09,205 - INFO - Exam KH0017 scheduled in time slot 13
+2024-11-21 10:01:09,208 - INFO - Exam KH0028 scheduled in time slot 13
+2024-11-21 10:01:09,210 - INFO - Exam KH0042 scheduled in time slot 13
+2024-11-21 10:01:09,212 - INFO - Exam KH0056 scheduled in time slot 13
+2024-11-21 10:01:09,215 - INFO - Exam KH0067 scheduled in time slot 13
+2024-11-21 10:01:09,217 - INFO - Exam KH0072 scheduled in time slot 13
+2024-11-21 10:01:09,219 - INFO - Exam KH0083 scheduled in time slot 13
+2024-11-21 10:01:09,222 - INFO - Exam KH0116 scheduled in time slot 13
+2024-11-21 10:01:09,224 - INFO - Exam KH0147 scheduled in time slot 13
+2024-11-21 10:01:09,227 - INFO - Exam KH0256 scheduled in time slot 13
+2024-11-21 10:01:09,229 - INFO - Exam KH0263 scheduled in time slot 13
+2024-11-21 10:01:09,231 - INFO - Exam KH0319 scheduled in time slot 13
+2024-11-21 10:01:09,233 - INFO - Exam KH0372 scheduled in time slot 13
+2024-11-21 10:01:09,236 - INFO - Exam KH0446 scheduled in time slot 13
+2024-11-21 10:01:09,238 - INFO - Exam KH0457 scheduled in time slot 13
+2024-11-21 10:01:09,241 - INFO - Exam KH0482 scheduled in time slot 13
+2024-11-21 10:01:09,243 - INFO - Exam KH0490 scheduled in time slot 13
+2024-11-21 10:01:09,245 - INFO - Exam KH0545 scheduled in time slot 13
+2024-11-21 10:01:09,248 - INFO - Exam KH0588 scheduled in time slot 13
+2024-11-21 10:01:09,248 - INFO - Time slot 14: 
+2024-11-21 10:01:09,251 - INFO - Number of rooms: 23
+2024-11-21 10:01:09,253 - INFO - Exam KH0032 scheduled in time slot 14
+2024-11-21 10:01:09,255 - INFO - Exam KH0049 scheduled in time slot 14
+2024-11-21 10:01:09,258 - INFO - Exam KH0079 scheduled in time slot 14
+2024-11-21 10:01:09,261 - INFO - Exam KH0138 scheduled in time slot 14
+2024-11-21 10:01:09,264 - INFO - Exam KH0203 scheduled in time slot 14
+2024-11-21 10:01:09,266 - INFO - Exam KH0238 scheduled in time slot 14
+2024-11-21 10:01:09,268 - INFO - Exam KH0239 scheduled in time slot 14
+2024-11-21 10:01:09,271 - INFO - Exam KH0252 scheduled in time slot 14
+2024-11-21 10:01:09,273 - INFO - Exam KH0286 scheduled in time slot 14
+2024-11-21 10:01:09,275 - INFO - Exam KH0305 scheduled in time slot 14
+2024-11-21 10:01:09,277 - INFO - Exam KH0318 scheduled in time slot 14
+2024-11-21 10:01:09,280 - INFO - Exam KH0363 scheduled in time slot 14
+2024-11-21 10:01:09,282 - INFO - Exam KH0409 scheduled in time slot 14
+2024-11-21 10:01:09,284 - INFO - Exam KH0437 scheduled in time slot 14
+2024-11-21 10:01:09,287 - INFO - Exam KH0474 scheduled in time slot 14
+2024-11-21 10:01:09,289 - INFO - Exam KH0492 scheduled in time slot 14
+2024-11-21 10:01:09,291 - INFO - Exam KH0502 scheduled in time slot 14
+2024-11-21 10:01:09,294 - INFO - Exam KH0522 scheduled in time slot 14
+2024-11-21 10:01:09,294 - INFO - Time slot 15: 
+2024-11-21 10:01:09,297 - INFO - Number of rooms: 31
+2024-11-21 10:01:09,299 - INFO - Exam KH0005 scheduled in time slot 15
+2024-11-21 10:01:09,301 - INFO - Exam KH0013 scheduled in time slot 15
+2024-11-21 10:01:09,304 - INFO - Exam KH0016 scheduled in time slot 15
+2024-11-21 10:01:09,306 - INFO - Exam KH0018 scheduled in time slot 15
+2024-11-21 10:01:09,309 - INFO - Exam KH0053 scheduled in time slot 15
+2024-11-21 10:01:09,311 - INFO - Exam KH0059 scheduled in time slot 15
+2024-11-21 10:01:09,313 - INFO - Exam KH0064 scheduled in time slot 15
+2024-11-21 10:01:09,315 - INFO - Exam KH0088 scheduled in time slot 15
+2024-11-21 10:01:09,318 - INFO - Exam KH0106 scheduled in time slot 15
+2024-11-21 10:01:09,321 - INFO - Exam KH0243 scheduled in time slot 15
+2024-11-21 10:01:09,323 - INFO - Exam KH0253 scheduled in time slot 15
+2024-11-21 10:01:09,326 - INFO - Exam KH0285 scheduled in time slot 15
+2024-11-21 10:01:09,328 - INFO - Exam KH0464 scheduled in time slot 15
+2024-11-21 10:01:09,330 - INFO - Exam KH0465 scheduled in time slot 15
+2024-11-21 10:01:09,332 - INFO - Exam KH0519 scheduled in time slot 15
+2024-11-21 10:01:09,335 - INFO - Exam KH0578 scheduled in time slot 15
+2024-11-21 10:01:09,337 - INFO - Exam KH0613 scheduled in time slot 15
+2024-11-21 10:01:09,338 - INFO - Time slot 16: 
+2024-11-21 10:01:09,341 - INFO - Number of rooms: 22
+2024-11-21 10:01:09,343 - INFO - Exam KH0070 scheduled in time slot 16
+2024-11-21 10:01:09,346 - INFO - Exam KH0071 scheduled in time slot 16
+2024-11-21 10:01:09,348 - INFO - Exam KH0152 scheduled in time slot 16
+2024-11-21 10:01:09,350 - INFO - Exam KH0169 scheduled in time slot 16
+2024-11-21 10:01:09,353 - INFO - Exam KH0181 scheduled in time slot 16
+2024-11-21 10:01:09,355 - INFO - Exam KH0207 scheduled in time slot 16
+2024-11-21 10:01:09,357 - INFO - Exam KH0221 scheduled in time slot 16
+2024-11-21 10:01:09,359 - INFO - Exam KH0278 scheduled in time slot 16
+2024-11-21 10:01:09,362 - INFO - Exam KH0303 scheduled in time slot 16
+2024-11-21 10:01:09,364 - INFO - Exam KH0362 scheduled in time slot 16
+2024-11-21 10:01:09,366 - INFO - Exam KH0387 scheduled in time slot 16
+2024-11-21 10:01:09,369 - INFO - Exam KH0389 scheduled in time slot 16
+2024-11-21 10:01:09,371 - INFO - Exam KH0447 scheduled in time slot 16
+2024-11-21 10:01:09,373 - INFO - Exam KH0493 scheduled in time slot 16
+2024-11-21 10:01:09,376 - INFO - Exam KH0607 scheduled in time slot 16
+2024-11-21 10:01:09,376 - INFO - Time slot 17: 
+2024-11-21 10:01:09,379 - INFO - Number of rooms: 18
+2024-11-21 10:01:09,381 - INFO - Exam KH0027 scheduled in time slot 17
+2024-11-21 10:01:09,384 - INFO - Exam KH0037 scheduled in time slot 17
+2024-11-21 10:01:09,386 - INFO - Exam KH0080 scheduled in time slot 17
+2024-11-21 10:01:09,388 - INFO - Exam KH0087 scheduled in time slot 17
+2024-11-21 10:01:09,391 - INFO - Exam KH0097 scheduled in time slot 17
+2024-11-21 10:01:09,393 - INFO - Exam KH0118 scheduled in time slot 17
+2024-11-21 10:01:09,396 - INFO - Exam KH0130 scheduled in time slot 17
+2024-11-21 10:01:09,398 - INFO - Exam KH0162 scheduled in time slot 17
+2024-11-21 10:01:09,400 - INFO - Exam KH0178 scheduled in time slot 17
+2024-11-21 10:01:09,402 - INFO - Exam KH0195 scheduled in time slot 17
+2024-11-21 10:01:09,405 - INFO - Exam KH0245 scheduled in time slot 17
+2024-11-21 10:01:09,407 - INFO - Exam KH0267 scheduled in time slot 17
+2024-11-21 10:01:09,410 - INFO - Exam KH0312 scheduled in time slot 17
+2024-11-21 10:01:09,412 - INFO - Exam KH0374 scheduled in time slot 17
+2024-11-21 10:01:09,412 - INFO - Time slot 18: 
+2024-11-21 10:01:09,415 - INFO - Number of rooms: 27
+2024-11-21 10:01:09,418 - INFO - Exam KH0029 scheduled in time slot 18
+2024-11-21 10:01:09,420 - INFO - Exam KH0030 scheduled in time slot 18
+2024-11-21 10:01:09,423 - INFO - Exam KH0144 scheduled in time slot 18
+2024-11-21 10:01:09,425 - INFO - Exam KH0161 scheduled in time slot 18
+2024-11-21 10:01:09,428 - INFO - Exam KH0204 scheduled in time slot 18
+2024-11-21 10:01:09,430 - INFO - Exam KH0244 scheduled in time slot 18
+2024-11-21 10:01:09,432 - INFO - Exam KH0259 scheduled in time slot 18
+2024-11-21 10:01:09,435 - INFO - Exam KH0391 scheduled in time slot 18
+2024-11-21 10:01:09,437 - INFO - Exam KH0488 scheduled in time slot 18
+2024-11-21 10:01:09,438 - INFO - Time slot 19: 
+2024-11-21 10:01:09,441 - INFO - Number of rooms: 39
+2024-11-21 10:01:09,443 - INFO - Exam KH0074 scheduled in time slot 19
+2024-11-21 10:01:09,446 - INFO - Exam KH0112 scheduled in time slot 19
+2024-11-21 10:01:09,448 - INFO - Exam KH0127 scheduled in time slot 19
+2024-11-21 10:01:09,450 - INFO - Exam KH0158 scheduled in time slot 19
+2024-11-21 10:01:09,454 - INFO - Exam KH0174 scheduled in time slot 19
+2024-11-21 10:01:09,456 - INFO - Exam KH0205 scheduled in time slot 19
+2024-11-21 10:01:09,459 - INFO - Exam KH0228 scheduled in time slot 19
+2024-11-21 10:01:09,461 - INFO - Exam KH0352 scheduled in time slot 19
+2024-11-21 10:01:09,463 - INFO - Exam KH0353 scheduled in time slot 19
+2024-11-21 10:01:09,465 - INFO - Exam KH0354 scheduled in time slot 19
+2024-11-21 10:01:09,467 - INFO - Exam KH0399 scheduled in time slot 19
+2024-11-21 10:01:09,470 - INFO - Exam KH0487 scheduled in time slot 19
+2024-11-21 10:01:09,472 - INFO - Exam KH0518 scheduled in time slot 19
+2024-11-21 10:01:09,475 - INFO - Exam KH0615 scheduled in time slot 19
+2024-11-21 10:01:09,476 - INFO - Time slot 20: 
+2024-11-21 10:01:09,479 - INFO - Number of rooms: 25
+2024-11-21 10:01:09,481 - INFO - Exam KH0025 scheduled in time slot 20
+2024-11-21 10:01:09,484 - INFO - Exam KH0091 scheduled in time slot 20
+2024-11-21 10:01:09,486 - INFO - Exam KH0110 scheduled in time slot 20
+2024-11-21 10:01:09,489 - INFO - Exam KH0184 scheduled in time slot 20
+2024-11-21 10:01:09,491 - INFO - Exam KH0200 scheduled in time slot 20
+2024-11-21 10:01:09,493 - INFO - Exam KH0241 scheduled in time slot 20
+2024-11-21 10:01:09,496 - INFO - Exam KH0242 scheduled in time slot 20
+2024-11-21 10:01:09,498 - INFO - Exam KH0358 scheduled in time slot 20
+2024-11-21 10:01:09,500 - INFO - Exam KH0398 scheduled in time slot 20
+2024-11-21 10:01:09,503 - INFO - Exam KH0444 scheduled in time slot 20
+2024-11-21 10:01:09,505 - INFO - Exam KH0466 scheduled in time slot 20
+2024-11-21 10:01:09,508 - INFO - Exam KH0509 scheduled in time slot 20
+2024-11-21 10:01:09,510 - INFO - Exam KH0510 scheduled in time slot 20
+2024-11-21 10:01:09,510 - INFO - Time slot 21: 
+2024-11-21 10:01:09,513 - INFO - Number of rooms: 20
+2024-11-21 10:01:09,515 - INFO - Exam KH0001 scheduled in time slot 21
+2024-11-21 10:01:09,518 - INFO - Exam KH0096 scheduled in time slot 21
+2024-11-21 10:01:09,520 - INFO - Exam KH0139 scheduled in time slot 21
+2024-11-21 10:01:09,523 - INFO - Exam KH0185 scheduled in time slot 21
+2024-11-21 10:01:09,525 - INFO - Exam KH0196 scheduled in time slot 21
+2024-11-21 10:01:09,527 - INFO - Exam KH0260 scheduled in time slot 21
+2024-11-21 10:01:09,529 - INFO - Exam KH0271 scheduled in time slot 21
+2024-11-21 10:01:09,532 - INFO - Exam KH0396 scheduled in time slot 21
+2024-11-21 10:01:09,534 - INFO - Exam KH0410 scheduled in time slot 21
+2024-11-21 10:01:09,537 - INFO - Exam KH0416 scheduled in time slot 21
+2024-11-21 10:01:09,539 - INFO - Exam KH0450 scheduled in time slot 21
+2024-11-21 10:01:09,541 - INFO - Exam KH0521 scheduled in time slot 21
+2024-11-21 10:01:09,542 - INFO - Time slot 22: 
+2024-11-21 10:01:09,545 - INFO - Number of rooms: 18
+2024-11-21 10:01:09,547 - INFO - Exam KH0050 scheduled in time slot 22
+2024-11-21 10:01:09,550 - INFO - Exam KH0078 scheduled in time slot 22
+2024-11-21 10:01:09,552 - INFO - Exam KH0159 scheduled in time slot 22
+2024-11-21 10:01:09,554 - INFO - Exam KH0194 scheduled in time slot 22
+2024-11-21 10:01:09,556 - INFO - Exam KH0250 scheduled in time slot 22
+2024-11-21 10:01:09,559 - INFO - Exam KH0347 scheduled in time slot 22
+2024-11-21 10:01:09,561 - INFO - Exam KH0359 scheduled in time slot 22
+2024-11-21 10:01:09,563 - INFO - Exam KH0411 scheduled in time slot 22
+2024-11-21 10:01:09,566 - INFO - Exam KH0455 scheduled in time slot 22
+2024-11-21 10:01:09,568 - INFO - Exam KH0463 scheduled in time slot 22
+2024-11-21 10:01:09,571 - INFO - Exam KH0520 scheduled in time slot 22
+2024-11-21 10:01:09,571 - INFO - Time slot 23: 
+2024-11-21 10:01:09,575 - INFO - Number of rooms: 24
+2024-11-21 10:01:09,577 - INFO - Exam KH0063 scheduled in time slot 23
+2024-11-21 10:01:09,579 - INFO - Exam KH0069 scheduled in time slot 23
+2024-11-21 10:01:09,581 - INFO - Exam KH0093 scheduled in time slot 23
+2024-11-21 10:01:09,584 - INFO - Exam KH0140 scheduled in time slot 23
+2024-11-21 10:01:09,586 - INFO - Exam KH0202 scheduled in time slot 23
+2024-11-21 10:01:09,588 - INFO - Exam KH0279 scheduled in time slot 23
+2024-11-21 10:01:09,591 - INFO - Exam KH0280 scheduled in time slot 23
+2024-11-21 10:01:09,593 - INFO - Exam KH0311 scheduled in time slot 23
+2024-11-21 10:01:09,595 - INFO - Exam KH0453 scheduled in time slot 23
+2024-11-21 10:01:09,598 - INFO - Exam KH0498 scheduled in time slot 23
+2024-11-21 10:01:09,600 - INFO - Exam KH0581 scheduled in time slot 23
+2024-11-21 10:01:09,602 - INFO - Exam KH0608 scheduled in time slot 23
+2024-11-21 10:01:09,605 - INFO - Exam KH0614 scheduled in time slot 23
+2024-11-21 10:01:09,605 - INFO - Time slot 24: 
+2024-11-21 10:01:09,608 - INFO - Number of rooms: 25
+2024-11-21 10:01:09,611 - INFO - Exam KH0006 scheduled in time slot 24
+2024-11-21 10:01:09,613 - INFO - Exam KH0081 scheduled in time slot 24
+2024-11-21 10:01:09,616 - INFO - Exam KH0149 scheduled in time slot 24
+2024-11-21 10:01:09,619 - INFO - Exam KH0163 scheduled in time slot 24
+2024-11-21 10:01:09,622 - INFO - Exam KH0188 scheduled in time slot 24
+2024-11-21 10:01:09,625 - INFO - Exam KH0197 scheduled in time slot 24
+2024-11-21 10:01:09,627 - INFO - Exam KH0240 scheduled in time slot 24
+2024-11-21 10:01:09,630 - INFO - Exam KH0265 scheduled in time slot 24
+2024-11-21 10:01:09,632 - INFO - Exam KH0310 scheduled in time slot 24
+2024-11-21 10:01:09,635 - INFO - Exam KH0355 scheduled in time slot 24
+2024-11-21 10:01:09,638 - INFO - Exam KH0397 scheduled in time slot 24
+2024-11-21 10:01:09,640 - INFO - Exam KH0426 scheduled in time slot 24
+2024-11-21 10:01:09,643 - INFO - Exam KH0436 scheduled in time slot 24
+2024-11-21 10:01:09,645 - INFO - Exam KH0448 scheduled in time slot 24
+2024-11-21 10:01:09,648 - INFO - Exam KH0516 scheduled in time slot 24
+2024-11-21 10:01:09,649 - INFO - Time slot 25: 
+2024-11-21 10:01:09,652 - INFO - Number of rooms: 25
+2024-11-21 10:01:09,655 - INFO - Exam KH0009 scheduled in time slot 25
+2024-11-21 10:01:09,658 - INFO - Exam KH0085 scheduled in time slot 25
+2024-11-21 10:01:09,660 - INFO - Exam KH0092 scheduled in time slot 25
+2024-11-21 10:01:09,662 - INFO - Exam KH0113 scheduled in time slot 25
+2024-11-21 10:01:09,664 - INFO - Exam KH0136 scheduled in time slot 25
+2024-11-21 10:01:09,667 - INFO - Exam KH0157 scheduled in time slot 25
+2024-11-21 10:01:09,669 - INFO - Exam KH0199 scheduled in time slot 25
+2024-11-21 10:01:09,671 - INFO - Exam KH0249 scheduled in time slot 25
+2024-11-21 10:01:09,673 - INFO - Exam KH0273 scheduled in time slot 25
+2024-11-21 10:01:09,676 - INFO - Exam KH0297 scheduled in time slot 25
+2024-11-21 10:01:09,678 - INFO - Exam KH0307 scheduled in time slot 25
+2024-11-21 10:01:09,680 - INFO - Exam KH0308 scheduled in time slot 25
+2024-11-21 10:01:09,682 - INFO - Exam KH0316 scheduled in time slot 25
+2024-11-21 10:01:09,685 - INFO - Exam KH0395 scheduled in time slot 25
+2024-11-21 10:01:09,687 - INFO - Exam KH0412 scheduled in time slot 25
+2024-11-21 10:01:09,689 - INFO - Exam KH0451 scheduled in time slot 25
+2024-11-21 10:01:09,692 - INFO - Exam KH0611 scheduled in time slot 25
+2024-11-21 10:01:09,692 - INFO - Time slot 26: 
+2024-11-21 10:01:09,695 - INFO - Number of rooms: 18
+2024-11-21 10:01:09,697 - INFO - Exam KH0117 scheduled in time slot 26
+2024-11-21 10:01:09,700 - INFO - Exam KH0126 scheduled in time slot 26
+2024-11-21 10:01:09,702 - INFO - Exam KH0148 scheduled in time slot 26
+2024-11-21 10:01:09,704 - INFO - Exam KH0198 scheduled in time slot 26
+2024-11-21 10:01:09,707 - INFO - Exam KH0257 scheduled in time slot 26
+2024-11-21 10:01:09,709 - INFO - Exam KH0306 scheduled in time slot 26
+2024-11-21 10:01:09,712 - INFO - Exam KH0384 scheduled in time slot 26
+2024-11-21 10:01:09,714 - INFO - Exam KH0385 scheduled in time slot 26
+2024-11-21 10:01:09,716 - INFO - Exam KH0420 scheduled in time slot 26
+2024-11-21 10:01:09,719 - INFO - Exam KH0435 scheduled in time slot 26
+2024-11-21 10:01:09,721 - INFO - Exam KH0454 scheduled in time slot 26
+2024-11-21 10:01:09,723 - INFO - Exam KH0612 scheduled in time slot 26
+2024-11-21 10:01:09,724 - INFO - Time slot 27: 
+2024-11-21 10:01:09,727 - INFO - Number of rooms: 26
+2024-11-21 10:01:09,729 - INFO - Exam KH0021 scheduled in time slot 27
+2024-11-21 10:01:09,731 - INFO - Exam KH0024 scheduled in time slot 27
+2024-11-21 10:01:09,734 - INFO - Exam KH0048 scheduled in time slot 27
+2024-11-21 10:01:09,736 - INFO - Exam KH0051 scheduled in time slot 27
+2024-11-21 10:01:09,739 - INFO - Exam KH0076 scheduled in time slot 27
+2024-11-21 10:01:09,741 - INFO - Exam KH0090 scheduled in time slot 27
+2024-11-21 10:01:09,744 - INFO - Exam KH0105 scheduled in time slot 27
+2024-11-21 10:01:09,746 - INFO - Exam KH0123 scheduled in time slot 27
+2024-11-21 10:01:09,748 - INFO - Exam KH0143 scheduled in time slot 27
+2024-11-21 10:01:09,750 - INFO - Exam KH0227 scheduled in time slot 27
+2024-11-21 10:01:09,752 - INFO - Exam KH0264 scheduled in time slot 27
+2024-11-21 10:01:09,755 - INFO - Exam KH0301 scheduled in time slot 27
+2024-11-21 10:01:09,757 - INFO - Exam KH0302 scheduled in time slot 27
+2024-11-21 10:01:09,760 - INFO - Exam KH0314 scheduled in time slot 27
+2024-11-21 10:01:09,762 - INFO - Exam KH0383 scheduled in time slot 27
+2024-11-21 10:01:09,764 - INFO - Exam KH0486 scheduled in time slot 27
+2024-11-21 10:01:09,764 - INFO - Time slot 28: 
+2024-11-21 10:01:09,768 - INFO - Number of rooms: 23
+2024-11-21 10:01:09,770 - INFO - Exam KH0065 scheduled in time slot 28
+2024-11-21 10:01:09,773 - INFO - Exam KH0094 scheduled in time slot 28
+2024-11-21 10:01:09,775 - INFO - Exam KH0155 scheduled in time slot 28
+2024-11-21 10:01:09,778 - INFO - Exam KH0167 scheduled in time slot 28
+2024-11-21 10:01:09,780 - INFO - Exam KH0219 scheduled in time slot 28
+2024-11-21 10:01:09,782 - INFO - Exam KH0276 scheduled in time slot 28
+2024-11-21 10:01:09,784 - INFO - Exam KH0382 scheduled in time slot 28
+2024-11-21 10:01:09,787 - INFO - Exam KH0392 scheduled in time slot 28
+2024-11-21 10:01:09,789 - INFO - Exam KH0432 scheduled in time slot 28
+2024-11-21 10:01:09,792 - INFO - Exam KH0439 scheduled in time slot 28
+2024-11-21 10:01:09,794 - INFO - Exam KH0440 scheduled in time slot 28
+2024-11-21 10:01:09,796 - INFO - Exam KH0441 scheduled in time slot 28
+2024-11-21 10:01:09,798 - INFO - Exam KH0517 scheduled in time slot 28
+2024-11-21 10:01:09,801 - INFO - Exam KH0582 scheduled in time slot 28
+2024-11-21 10:01:09,801 - INFO - Time slot 29: 
+2024-11-21 10:01:09,804 - INFO - Number of rooms: 26
+2024-11-21 10:01:09,807 - INFO - Exam KH0012 scheduled in time slot 29
+2024-11-21 10:01:09,809 - INFO - Exam KH0031 scheduled in time slot 29
+2024-11-21 10:01:09,811 - INFO - Exam KH0103 scheduled in time slot 29
+2024-11-21 10:01:09,814 - INFO - Exam KH0119 scheduled in time slot 29
+2024-11-21 10:01:09,816 - INFO - Exam KH0215 scheduled in time slot 29
+2024-11-21 10:01:09,822 - INFO - Exam KH0317 scheduled in time slot 29
+2024-11-21 10:01:09,826 - INFO - Exam KH0356 scheduled in time slot 29
+2024-11-21 10:01:09,834 - INFO - Exam KH0433 scheduled in time slot 29
+2024-11-21 10:01:09,839 - INFO - Exam KH0438 scheduled in time slot 29
+2024-11-21 10:01:09,842 - INFO - Exam KH0489 scheduled in time slot 29
+2024-11-21 10:01:09,844 - INFO - Exam KH0574 scheduled in time slot 29
+2024-11-21 10:01:11,335 - INFO - Solution found
+2024-11-21 10:01:35,665 - INFO - Time slot 0: 
+2024-11-21 10:01:35,668 - INFO - Number of rooms: 75
+2024-11-21 10:01:35,671 - INFO - Exam KH0040
+2024-11-21 10:01:35,673 - INFO - Exam KH0044
+2024-11-21 10:01:35,676 - INFO - Exam KH0046
+2024-11-21 10:01:35,678 - INFO - Exam KH0084
+2024-11-21 10:01:35,680 - INFO - Exam KH0101
+2024-11-21 10:01:35,682 - INFO - Exam KH0125
+2024-11-21 10:01:35,685 - INFO - Exam KH0134
+2024-11-21 10:01:35,687 - INFO - Exam KH0168
+2024-11-21 10:01:35,690 - INFO - Exam KH0176
+2024-11-21 10:01:35,692 - INFO - Exam KH0189
+2024-11-21 10:01:35,694 - INFO - Exam KH0218
+2024-11-21 10:01:35,696 - INFO - Exam KH0222
+2024-11-21 10:01:35,698 - INFO - Exam KH0224
+2024-11-21 10:01:35,700 - INFO - Exam KH0233
+2024-11-21 10:01:35,703 - INFO - Exam KH0252
+2024-11-21 10:01:35,705 - INFO - Exam KH0266
+2024-11-21 10:01:35,707 - INFO - Exam KH0292
+2024-11-21 10:01:35,709 - INFO - Exam KH0294
+2024-11-21 10:01:35,711 - INFO - Exam KH0296
+2024-11-21 10:01:35,713 - INFO - Exam KH0298
+2024-11-21 10:01:35,716 - INFO - Exam KH0324
+2024-11-21 10:01:35,718 - INFO - Exam KH0326
+2024-11-21 10:01:35,721 - INFO - Exam KH0334
+2024-11-21 10:01:35,723 - INFO - Exam KH0335
+2024-11-21 10:01:35,725 - INFO - Exam KH0337
+2024-11-21 10:01:35,728 - INFO - Exam KH0340
+2024-11-21 10:01:35,730 - INFO - Exam KH0341
+2024-11-21 10:01:35,732 - INFO - Exam KH0346
+2024-11-21 10:01:35,734 - INFO - Exam KH0371
+2024-11-21 10:01:35,737 - INFO - Exam KH0373
+2024-11-21 10:01:35,740 - INFO - Exam KH0400
+2024-11-21 10:01:35,742 - INFO - Exam KH0408
+2024-11-21 10:01:35,744 - INFO - Exam KH0421
+2024-11-21 10:01:35,746 - INFO - Exam KH0431
+2024-11-21 10:01:35,748 - INFO - Exam KH0449
+2024-11-21 10:01:35,751 - INFO - Exam KH0459
+2024-11-21 10:01:35,753 - INFO - Exam KH0478
+2024-11-21 10:01:35,756 - INFO - Exam KH0480
+2024-11-21 10:01:35,757 - INFO - Exam KH0481
+2024-11-21 10:01:35,760 - INFO - Exam KH0504
+2024-11-21 10:01:35,763 - INFO - Exam KH0508
+2024-11-21 10:01:35,765 - INFO - Exam KH0512
+2024-11-21 10:01:35,768 - INFO - Exam KH0533
+2024-11-21 10:01:35,770 - INFO - Exam KH0534
+2024-11-21 10:01:35,772 - INFO - Exam KH0538
+2024-11-21 10:01:35,775 - INFO - Exam KH0540
+2024-11-21 10:01:35,777 - INFO - Exam KH0544
+2024-11-21 10:01:35,779 - INFO - Exam KH0548
+2024-11-21 10:01:35,781 - INFO - Exam KH0549
+2024-11-21 10:01:35,784 - INFO - Exam KH0550
+2024-11-21 10:01:35,786 - INFO - Exam KH0551
+2024-11-21 10:01:35,789 - INFO - Exam KH0554
+2024-11-21 10:01:35,791 - INFO - Exam KH0557
+2024-11-21 10:01:35,793 - INFO - Exam KH0561
+2024-11-21 10:01:35,796 - INFO - Exam KH0562
+2024-11-21 10:01:35,798 - INFO - Exam KH0563
+2024-11-21 10:01:35,800 - INFO - Exam KH0564
+2024-11-21 10:01:35,803 - INFO - Exam KH0568
+2024-11-21 10:01:35,806 - INFO - Exam KH0571
+2024-11-21 10:01:35,808 - INFO - Exam KH0572
+2024-11-21 10:01:35,810 - INFO - Exam KH0579
+2024-11-21 10:01:35,812 - INFO - Exam KH0580
+2024-11-21 10:01:35,815 - INFO - Exam KH0585
+2024-11-21 10:01:35,817 - INFO - Exam KH0596
+2024-11-21 10:01:35,819 - INFO - Exam KH0605
+2024-11-21 10:01:35,821 - INFO - Exam KH0619
+2024-11-21 10:01:35,824 - INFO - Exam KH0621
+2024-11-21 10:01:35,824 - INFO - Time slot 1: 
+2024-11-21 10:01:35,827 - INFO - Number of rooms: 66
+2024-11-21 10:01:35,829 - INFO - Exam KH0036
+2024-11-21 10:01:35,831 - INFO - Exam KH0047
+2024-11-21 10:01:35,834 - INFO - Exam KH0054
+2024-11-21 10:01:35,837 - INFO - Exam KH0107
+2024-11-21 10:01:35,840 - INFO - Exam KH0129
+2024-11-21 10:01:35,842 - INFO - Exam KH0135
+2024-11-21 10:01:35,844 - INFO - Exam KH0141
+2024-11-21 10:01:35,847 - INFO - Exam KH0177
+2024-11-21 10:01:35,849 - INFO - Exam KH0179
+2024-11-21 10:01:35,852 - INFO - Exam KH0192
+2024-11-21 10:01:35,854 - INFO - Exam KH0214
+2024-11-21 10:01:35,856 - INFO - Exam KH0217
+2024-11-21 10:01:35,859 - INFO - Exam KH0226
+2024-11-21 10:01:35,861 - INFO - Exam KH0282
+2024-11-21 10:01:35,863 - INFO - Exam KH0284
+2024-11-21 10:01:35,865 - INFO - Exam KH0287
+2024-11-21 10:01:35,868 - INFO - Exam KH0291
+2024-11-21 10:01:35,870 - INFO - Exam KH0293
+2024-11-21 10:01:35,873 - INFO - Exam KH0323
+2024-11-21 10:01:35,875 - INFO - Exam KH0327
+2024-11-21 10:01:35,878 - INFO - Exam KH0330
+2024-11-21 10:01:35,880 - INFO - Exam KH0333
+2024-11-21 10:01:35,882 - INFO - Exam KH0342
+2024-11-21 10:01:35,884 - INFO - Exam KH0345
+2024-11-21 10:01:35,887 - INFO - Exam KH0369
+2024-11-21 10:01:35,889 - INFO - Exam KH0378
+2024-11-21 10:01:35,891 - INFO - Exam KH0390
+2024-11-21 10:01:35,894 - INFO - Exam KH0401
+2024-11-21 10:01:35,896 - INFO - Exam KH0415
+2024-11-21 10:01:35,898 - INFO - Exam KH0419
+2024-11-21 10:01:35,901 - INFO - Exam KH0428
+2024-11-21 10:01:35,903 - INFO - Exam KH0460
+2024-11-21 10:01:35,906 - INFO - Exam KH0469
+2024-11-21 10:01:35,908 - INFO - Exam KH0479
+2024-11-21 10:01:35,910 - INFO - Exam KH0513
+2024-11-21 10:01:35,913 - INFO - Exam KH0514
+2024-11-21 10:01:35,915 - INFO - Exam KH0532
+2024-11-21 10:01:35,918 - INFO - Exam KH0539
+2024-11-21 10:01:35,920 - INFO - Exam KH0553
+2024-11-21 10:01:35,923 - INFO - Exam KH0556
+2024-11-21 10:01:35,925 - INFO - Exam KH0558
+2024-11-21 10:01:35,928 - INFO - Exam KH0559
+2024-11-21 10:01:35,930 - INFO - Exam KH0560
+2024-11-21 10:01:35,932 - INFO - Exam KH0569
+2024-11-21 10:01:35,934 - INFO - Exam KH0577
+2024-11-21 10:01:35,937 - INFO - Exam KH0589
+2024-11-21 10:01:35,939 - INFO - Exam KH0593
+2024-11-21 10:01:35,941 - INFO - Exam KH0594
+2024-11-21 10:01:35,943 - INFO - Exam KH0599
+2024-11-21 10:01:35,945 - INFO - Exam KH0603
+2024-11-21 10:01:35,948 - INFO - Exam KH0618
+2024-11-21 10:01:35,950 - INFO - Exam KH0620
+2024-11-21 10:01:35,950 - INFO - Time slot 2: 
+2024-11-21 10:01:35,953 - INFO - Number of rooms: 40
+2024-11-21 10:01:35,956 - INFO - Exam KH0008
+2024-11-21 10:01:35,958 - INFO - Exam KH0045
+2024-11-21 10:01:35,961 - INFO - Exam KH0157
+2024-11-21 10:01:35,963 - INFO - Exam KH0216
+2024-11-21 10:01:35,965 - INFO - Exam KH0230
+2024-11-21 10:01:35,968 - INFO - Exam KH0232
+2024-11-21 10:01:35,970 - INFO - Exam KH0235
+2024-11-21 10:01:35,972 - INFO - Exam KH0258
+2024-11-21 10:01:35,975 - INFO - Exam KH0281
+2024-11-21 10:01:35,977 - INFO - Exam KH0325
+2024-11-21 10:01:35,979 - INFO - Exam KH0336
+2024-11-21 10:01:35,981 - INFO - Exam KH0344
+2024-11-21 10:01:35,984 - INFO - Exam KH0350
+2024-11-21 10:01:35,986 - INFO - Exam KH0361
+2024-11-21 10:01:35,988 - INFO - Exam KH0370
+2024-11-21 10:01:35,991 - INFO - Exam KH0393
+2024-11-21 10:01:35,994 - INFO - Exam KH0394
+2024-11-21 10:01:35,996 - INFO - Exam KH0464
+2024-11-21 10:01:35,998 - INFO - Exam KH0470
+2024-11-21 10:01:36,000 - INFO - Exam KH0471
+2024-11-21 10:01:36,003 - INFO - Exam KH0475
+2024-11-21 10:01:36,005 - INFO - Exam KH0485
+2024-11-21 10:01:36,008 - INFO - Exam KH0500
+2024-11-21 10:01:36,011 - INFO - Exam KH0530
+2024-11-21 10:01:36,013 - INFO - Exam KH0535
+2024-11-21 10:01:36,015 - INFO - Exam KH0546
+2024-11-21 10:01:36,018 - INFO - Exam KH0552
+2024-11-21 10:01:36,020 - INFO - Exam KH0586
+2024-11-21 10:01:36,023 - INFO - Exam KH0592
+2024-11-21 10:01:36,026 - INFO - Exam KH0598
+2024-11-21 10:01:36,026 - INFO - Time slot 3: 
+2024-11-21 10:01:36,029 - INFO - Number of rooms: 50
+2024-11-21 10:01:36,031 - INFO - Exam KH0004
+2024-11-21 10:01:36,034 - INFO - Exam KH0041
+2024-11-21 10:01:36,036 - INFO - Exam KH0058
+2024-11-21 10:01:36,039 - INFO - Exam KH0098
+2024-11-21 10:01:36,041 - INFO - Exam KH0099
+2024-11-21 10:01:36,043 - INFO - Exam KH0103
+2024-11-21 10:01:36,046 - INFO - Exam KH0120
+2024-11-21 10:01:36,048 - INFO - Exam KH0150
+2024-11-21 10:01:36,050 - INFO - Exam KH0208
+2024-11-21 10:01:36,052 - INFO - Exam KH0223
+2024-11-21 10:01:36,055 - INFO - Exam KH0229
+2024-11-21 10:01:36,058 - INFO - Exam KH0276
+2024-11-21 10:01:36,059 - INFO - Exam KH0283
+2024-11-21 10:01:36,062 - INFO - Exam KH0320
+2024-11-21 10:01:36,064 - INFO - Exam KH0322
+2024-11-21 10:01:36,066 - INFO - Exam KH0329
+2024-11-21 10:01:36,068 - INFO - Exam KH0332
+2024-11-21 10:01:36,071 - INFO - Exam KH0343
+2024-11-21 10:01:36,073 - INFO - Exam KH0368
+2024-11-21 10:01:36,076 - INFO - Exam KH0377
+2024-11-21 10:01:36,079 - INFO - Exam KH0418
+2024-11-21 10:01:36,081 - INFO - Exam KH0422
+2024-11-21 10:01:36,084 - INFO - Exam KH0430
+2024-11-21 10:01:36,086 - INFO - Exam KH0445
+2024-11-21 10:01:36,088 - INFO - Exam KH0458
+2024-11-21 10:01:36,091 - INFO - Exam KH0491
+2024-11-21 10:01:36,093 - INFO - Exam KH0495
+2024-11-21 10:01:36,095 - INFO - Exam KH0531
+2024-11-21 10:01:36,097 - INFO - Exam KH0543
+2024-11-21 10:01:36,100 - INFO - Exam KH0565
+2024-11-21 10:01:36,116 - INFO - Exam KH0576
+2024-11-21 10:01:36,121 - INFO - Exam KH0584
+2024-11-21 10:01:36,124 - INFO - Exam KH0591
+2024-11-21 10:01:36,126 - INFO - Exam KH0600
+2024-11-21 10:01:36,127 - INFO - Time slot 4: 
+2024-11-21 10:01:36,129 - INFO - Number of rooms: 44
+2024-11-21 10:01:36,132 - INFO - Exam KH0010
+2024-11-21 10:01:36,135 - INFO - Exam KH0015
+2024-11-21 10:01:36,137 - INFO - Exam KH0035
+2024-11-21 10:01:36,139 - INFO - Exam KH0055
+2024-11-21 10:01:36,141 - INFO - Exam KH0066
+2024-11-21 10:01:36,144 - INFO - Exam KH0082
+2024-11-21 10:01:36,146 - INFO - Exam KH0122
+2024-11-21 10:01:36,148 - INFO - Exam KH0142
+2024-11-21 10:01:36,150 - INFO - Exam KH0146
+2024-11-21 10:01:36,152 - INFO - Exam KH0175
+2024-11-21 10:01:36,154 - INFO - Exam KH0225
+2024-11-21 10:01:36,157 - INFO - Exam KH0236
+2024-11-21 10:01:36,159 - INFO - Exam KH0254
+2024-11-21 10:01:36,161 - INFO - Exam KH0256
+2024-11-21 10:01:36,164 - INFO - Exam KH0262
+2024-11-21 10:01:36,166 - INFO - Exam KH0268
+2024-11-21 10:01:36,168 - INFO - Exam KH0305
+2024-11-21 10:01:36,171 - INFO - Exam KH0307
+2024-11-21 10:01:36,173 - INFO - Exam KH0318
+2024-11-21 10:01:36,175 - INFO - Exam KH0328
+2024-11-21 10:01:36,177 - INFO - Exam KH0351
+2024-11-21 10:01:36,180 - INFO - Exam KH0376
+2024-11-21 10:01:36,182 - INFO - Exam KH0409
+2024-11-21 10:01:36,185 - INFO - Exam KH0414
+2024-11-21 10:01:36,187 - INFO - Exam KH0463
+2024-11-21 10:01:36,190 - INFO - Exam KH0468
+2024-11-21 10:01:36,192 - INFO - Exam KH0474
+2024-11-21 10:01:36,194 - INFO - Exam KH0477
+2024-11-21 10:01:36,196 - INFO - Exam KH0496
+2024-11-21 10:01:36,198 - INFO - Exam KH0506
+2024-11-21 10:01:36,201 - INFO - Exam KH0507
+2024-11-21 10:01:36,203 - INFO - Exam KH0526
+2024-11-21 10:01:36,205 - INFO - Exam KH0545
+2024-11-21 10:01:36,208 - INFO - Exam KH0567
+2024-11-21 10:01:36,210 - INFO - Exam KH0601
+2024-11-21 10:01:36,210 - INFO - Time slot 5: 
+2024-11-21 10:01:36,213 - INFO - Number of rooms: 37
+2024-11-21 10:01:36,215 - INFO - Exam KH0006
+2024-11-21 10:01:36,218 - INFO - Exam KH0019
+2024-11-21 10:01:36,221 - INFO - Exam KH0039
+2024-11-21 10:01:36,224 - INFO - Exam KH0051
+2024-11-21 10:01:36,226 - INFO - Exam KH0052
+2024-11-21 10:01:36,228 - INFO - Exam KH0061
+2024-11-21 10:01:36,231 - INFO - Exam KH0095
+2024-11-21 10:01:36,233 - INFO - Exam KH0123
+2024-11-21 10:01:36,236 - INFO - Exam KH0161
+2024-11-21 10:01:36,238 - INFO - Exam KH0190
+2024-11-21 10:01:36,241 - INFO - Exam KH0227
+2024-11-21 10:01:36,243 - INFO - Exam KH0263
+2024-11-21 10:01:36,245 - INFO - Exam KH0269
+2024-11-21 10:01:36,247 - INFO - Exam KH0300
+2024-11-21 10:01:36,249 - INFO - Exam KH0339
+2024-11-21 10:01:36,252 - INFO - Exam KH0349
+2024-11-21 10:01:36,254 - INFO - Exam KH0363
+2024-11-21 10:01:36,257 - INFO - Exam KH0367
+2024-11-21 10:01:36,258 - INFO - Exam KH0381
+2024-11-21 10:01:36,261 - INFO - Exam KH0413
+2024-11-21 10:01:36,263 - INFO - Exam KH0473
+2024-11-21 10:01:36,265 - INFO - Exam KH0493
+2024-11-21 10:01:36,268 - INFO - Exam KH0529
+2024-11-21 10:01:36,270 - INFO - Exam KH0536
+2024-11-21 10:01:36,273 - INFO - Exam KH0537
+2024-11-21 10:01:36,275 - INFO - Exam KH0547
+2024-11-21 10:01:36,277 - INFO - Exam KH0555
+2024-11-21 10:01:36,280 - INFO - Exam KH0573
+2024-11-21 10:01:36,282 - INFO - Exam KH0595
+2024-11-21 10:01:36,284 - INFO - Exam KH0604
+2024-11-21 10:01:36,285 - INFO - Time slot 6: 
+2024-11-21 10:01:36,289 - INFO - Number of rooms: 42
+2024-11-21 10:01:36,292 - INFO - Exam KH0005
+2024-11-21 10:01:36,294 - INFO - Exam KH0026
+2024-11-21 10:01:36,296 - INFO - Exam KH0038
+2024-11-21 10:01:36,299 - INFO - Exam KH0077
+2024-11-21 10:01:36,301 - INFO - Exam KH0086
+2024-11-21 10:01:36,303 - INFO - Exam KH0089
+2024-11-21 10:01:36,306 - INFO - Exam KH0100
+2024-11-21 10:01:36,308 - INFO - Exam KH0117
+2024-11-21 10:01:36,311 - INFO - Exam KH0148
+2024-11-21 10:01:36,313 - INFO - Exam KH0203
+2024-11-21 10:01:36,316 - INFO - Exam KH0234
+2024-11-21 10:01:36,318 - INFO - Exam KH0245
+2024-11-21 10:01:36,321 - INFO - Exam KH0267
+2024-11-21 10:01:36,323 - INFO - Exam KH0295
+2024-11-21 10:01:36,326 - INFO - Exam KH0338
+2024-11-21 10:01:36,328 - INFO - Exam KH0407
+2024-11-21 10:01:36,330 - INFO - Exam KH0417
+2024-11-21 10:01:36,333 - INFO - Exam KH0454
+2024-11-21 10:01:36,335 - INFO - Exam KH0456
+2024-11-21 10:01:36,337 - INFO - Exam KH0465
+2024-11-21 10:01:36,340 - INFO - Exam KH0466
+2024-11-21 10:01:36,342 - INFO - Exam KH0476
+2024-11-21 10:01:36,344 - INFO - Exam KH0505
+2024-11-21 10:01:36,346 - INFO - Exam KH0575
+2024-11-21 10:01:36,348 - INFO - Exam KH0583
+2024-11-21 10:01:36,351 - INFO - Exam KH0602
+2024-11-21 10:01:36,351 - INFO - Time slot 7: 
+2024-11-21 10:01:36,354 - INFO - Number of rooms: 34
+2024-11-21 10:01:36,356 - INFO - Exam KH0003
+2024-11-21 10:01:36,359 - INFO - Exam KH0014
+2024-11-21 10:01:36,361 - INFO - Exam KH0020
+2024-11-21 10:01:36,363 - INFO - Exam KH0079
+2024-11-21 10:01:36,365 - INFO - Exam KH0094
+2024-11-21 10:01:36,368 - INFO - Exam KH0116
+2024-11-21 10:01:36,370 - INFO - Exam KH0170
+2024-11-21 10:01:36,373 - INFO - Exam KH0191
+2024-11-21 10:01:36,375 - INFO - Exam KH0205
+2024-11-21 10:01:36,378 - INFO - Exam KH0274
+2024-11-21 10:01:36,380 - INFO - Exam KH0289
+2024-11-21 10:01:36,382 - INFO - Exam KH0301
+2024-11-21 10:01:36,385 - INFO - Exam KH0362
+2024-11-21 10:01:36,387 - INFO - Exam KH0374
+2024-11-21 10:01:36,389 - INFO - Exam KH0379
+2024-11-21 10:01:36,391 - INFO - Exam KH0380
+2024-11-21 10:01:36,394 - INFO - Exam KH0451
+2024-11-21 10:01:36,396 - INFO - Exam KH0502
+2024-11-21 10:01:36,398 - INFO - Exam KH0527
+2024-11-21 10:01:36,401 - INFO - Exam KH0590
+2024-11-21 10:01:36,403 - INFO - Exam KH0606
+2024-11-21 10:01:36,405 - INFO - Exam KH0622
+2024-11-21 10:01:36,405 - INFO - Time slot 8: 
+2024-11-21 10:01:36,408 - INFO - Number of rooms: 25
+2024-11-21 10:01:36,411 - INFO - Exam KH0023
+2024-11-21 10:01:36,413 - INFO - Exam KH0070
+2024-11-21 10:01:36,415 - INFO - Exam KH0104
+2024-11-21 10:01:36,418 - INFO - Exam KH0133
+2024-11-21 10:01:36,420 - INFO - Exam KH0153
+2024-11-21 10:01:36,423 - INFO - Exam KH0207
+2024-11-21 10:01:36,425 - INFO - Exam KH0248
+2024-11-21 10:01:36,427 - INFO - Exam KH0272
+2024-11-21 10:01:36,429 - INFO - Exam KH0366
+2024-11-21 10:01:36,432 - INFO - Exam KH0405
+2024-11-21 10:01:36,434 - INFO - Exam KH0429
+2024-11-21 10:01:36,436 - INFO - Exam KH0446
+2024-11-21 10:01:36,439 - INFO - Exam KH0501
+2024-11-21 10:01:36,441 - INFO - Exam KH0519
+2024-11-21 10:01:36,443 - INFO - Exam KH0528
+2024-11-21 10:01:36,444 - INFO - Time slot 9: 
+2024-11-21 10:01:36,447 - INFO - Number of rooms: 28
+2024-11-21 10:01:36,449 - INFO - Exam KH0016
+2024-11-21 10:01:36,452 - INFO - Exam KH0102
+2024-11-21 10:01:36,454 - INFO - Exam KH0105
+2024-11-21 10:01:36,456 - INFO - Exam KH0132
+2024-11-21 10:01:36,459 - INFO - Exam KH0160
+2024-11-21 10:01:36,462 - INFO - Exam KH0171
+2024-11-21 10:01:36,464 - INFO - Exam KH0181
+2024-11-21 10:01:36,466 - INFO - Exam KH0186
+2024-11-21 10:01:36,468 - INFO - Exam KH0231
+2024-11-21 10:01:36,471 - INFO - Exam KH0237
+2024-11-21 10:01:36,473 - INFO - Exam KH0253
+2024-11-21 10:01:36,475 - INFO - Exam KH0255
+2024-11-21 10:01:36,478 - INFO - Exam KH0365
+2024-11-21 10:01:36,480 - INFO - Exam KH0383
+2024-11-21 10:01:36,482 - INFO - Exam KH0388
+2024-11-21 10:01:36,485 - INFO - Exam KH0426
+2024-11-21 10:01:36,487 - INFO - Exam KH0453
+2024-11-21 10:01:36,490 - INFO - Exam KH0542
+2024-11-21 10:01:36,490 - INFO - Time slot 10: 
+2024-11-21 10:01:36,493 - INFO - Number of rooms: 34
+2024-11-21 10:01:36,496 - INFO - Exam KH0022
+2024-11-21 10:01:36,498 - INFO - Exam KH0155
+2024-11-21 10:01:36,500 - INFO - Exam KH0166
+2024-11-21 10:01:36,503 - INFO - Exam KH0172
+2024-11-21 10:01:36,505 - INFO - Exam KH0251
+2024-11-21 10:01:36,507 - INFO - Exam KH0299
+2024-11-21 10:01:36,510 - INFO - Exam KH0321
+2024-11-21 10:01:36,512 - INFO - Exam KH0358
+2024-11-21 10:01:36,514 - INFO - Exam KH0364
+2024-11-21 10:01:36,516 - INFO - Exam KH0404
+2024-11-21 10:01:36,519 - INFO - Exam KH0424
+2024-11-21 10:01:36,521 - INFO - Exam KH0444
+2024-11-21 10:01:36,523 - INFO - Exam KH0452
+2024-11-21 10:01:36,526 - INFO - Exam KH0566
+2024-11-21 10:01:36,528 - INFO - Exam KH0612
+2024-11-21 10:01:36,528 - INFO - Time slot 11: 
+2024-11-21 10:01:36,531 - INFO - Number of rooms: 35
+2024-11-21 10:01:36,534 - INFO - Exam KH0001
+2024-11-21 10:01:36,536 - INFO - Exam KH0034
+2024-11-21 10:01:36,538 - INFO - Exam KH0083
+2024-11-21 10:01:36,541 - INFO - Exam KH0109
+2024-11-21 10:01:36,543 - INFO - Exam KH0139
+2024-11-21 10:01:36,545 - INFO - Exam KH0206
+2024-11-21 10:01:36,547 - INFO - Exam KH0285
+2024-11-21 10:01:36,549 - INFO - Exam KH0348
+2024-11-21 10:01:36,552 - INFO - Exam KH0352
+2024-11-21 10:01:36,554 - INFO - Exam KH0354
+2024-11-21 10:01:36,557 - INFO - Exam KH0397
+2024-11-21 10:01:36,559 - INFO - Exam KH0423
+2024-11-21 10:01:36,561 - INFO - Exam KH0461
+2024-11-21 10:01:36,563 - INFO - Exam KH0503
+2024-11-21 10:01:36,565 - INFO - Exam KH0511
+2024-11-21 10:01:36,568 - INFO - Exam KH0541
+2024-11-21 10:01:36,568 - INFO - Time slot 12: 
+2024-11-21 10:01:36,571 - INFO - Number of rooms: 23
+2024-11-21 10:01:36,574 - INFO - Exam KH0050
+2024-11-21 10:01:36,576 - INFO - Exam KH0063
+2024-11-21 10:01:36,578 - INFO - Exam KH0074
+2024-11-21 10:01:36,580 - INFO - Exam KH0121
+2024-11-21 10:01:36,582 - INFO - Exam KH0159
+2024-11-21 10:01:36,585 - INFO - Exam KH0194
+2024-11-21 10:01:36,587 - INFO - Exam KH0212
+2024-11-21 10:01:36,590 - INFO - Exam KH0347
+2024-11-21 10:01:36,592 - INFO - Exam KH0406
+2024-11-21 10:01:36,594 - INFO - Exam KH0412
+2024-11-21 10:01:36,596 - INFO - Exam KH0472
+2024-11-21 10:01:36,598 - INFO - Exam KH0492
+2024-11-21 10:01:36,601 - INFO - Exam KH0494
+2024-11-21 10:01:36,603 - INFO - Exam KH0520
+2024-11-21 10:01:36,606 - INFO - Exam KH0570
+2024-11-21 10:01:36,608 - INFO - Exam KH0597
+2024-11-21 10:01:36,608 - INFO - Time slot 13: 
+2024-11-21 10:01:36,611 - INFO - Number of rooms: 31
+2024-11-21 10:01:36,614 - INFO - Exam KH0028
+2024-11-21 10:01:36,616 - INFO - Exam KH0043
+2024-11-21 10:01:36,619 - INFO - Exam KH0059
+2024-11-21 10:01:36,621 - INFO - Exam KH0080
+2024-11-21 10:01:36,624 - INFO - Exam KH0085
+2024-11-21 10:01:36,626 - INFO - Exam KH0112
+2024-11-21 10:01:36,628 - INFO - Exam KH0136
+2024-11-21 10:01:36,630 - INFO - Exam KH0164
+2024-11-21 10:01:36,633 - INFO - Exam KH0180
+2024-11-21 10:01:36,635 - INFO - Exam KH0195
+2024-11-21 10:01:36,637 - INFO - Exam KH0213
+2024-11-21 10:01:36,640 - INFO - Exam KH0277
+2024-11-21 10:01:36,642 - INFO - Exam KH0319
+2024-11-21 10:01:36,644 - INFO - Exam KH0372
+2024-11-21 10:01:36,646 - INFO - Exam KH0382
+2024-11-21 10:01:36,649 - INFO - Exam KH0427
+2024-11-21 10:01:36,651 - INFO - Exam KH0482
+2024-11-21 10:01:36,653 - INFO - Exam KH0483
+2024-11-21 10:01:36,656 - INFO - Exam KH0490
+2024-11-21 10:01:36,658 - INFO - Exam KH0525
+2024-11-21 10:01:36,661 - INFO - Exam KH0588
+2024-11-21 10:01:36,661 - INFO - Time slot 14: 
+2024-11-21 10:01:36,664 - INFO - Number of rooms: 26
+2024-11-21 10:01:36,667 - INFO - Exam KH0011
+2024-11-21 10:01:36,669 - INFO - Exam KH0032
+2024-11-21 10:01:36,672 - INFO - Exam KH0060
+2024-11-21 10:01:36,674 - INFO - Exam KH0081
+2024-11-21 10:01:36,676 - INFO - Exam KH0108
+2024-11-21 10:01:36,679 - INFO - Exam KH0151
+2024-11-21 10:01:36,681 - INFO - Exam KH0183
+2024-11-21 10:01:36,683 - INFO - Exam KH0211
+2024-11-21 10:01:36,685 - INFO - Exam KH0247
+2024-11-21 10:01:36,688 - INFO - Exam KH0275
+2024-11-21 10:01:36,690 - INFO - Exam KH0314
+2024-11-21 10:01:36,692 - INFO - Exam KH0391
+2024-11-21 10:01:36,695 - INFO - Exam KH0462
+2024-11-21 10:01:36,697 - INFO - Exam KH0523
+2024-11-21 10:01:36,699 - INFO - Exam KH0587
+2024-11-21 10:01:36,702 - INFO - Exam KH0607
+2024-11-21 10:01:36,702 - INFO - Time slot 15: 
+2024-11-21 10:01:36,705 - INFO - Number of rooms: 22
+2024-11-21 10:01:36,707 - INFO - Exam KH0013
+2024-11-21 10:01:36,709 - INFO - Exam KH0031
+2024-11-21 10:01:36,712 - INFO - Exam KH0053
+2024-11-21 10:01:36,714 - INFO - Exam KH0073
+2024-11-21 10:01:36,716 - INFO - Exam KH0126
+2024-11-21 10:01:36,719 - INFO - Exam KH0197
+2024-11-21 10:01:36,721 - INFO - Exam KH0243
+2024-11-21 10:01:36,724 - INFO - Exam KH0280
+2024-11-21 10:01:36,726 - INFO - Exam KH0306
+2024-11-21 10:01:36,728 - INFO - Exam KH0308
+2024-11-21 10:01:36,730 - INFO - Exam KH0313
+2024-11-21 10:01:36,733 - INFO - Exam KH0315
+2024-11-21 10:01:36,735 - INFO - Exam KH0384
+2024-11-21 10:01:36,737 - INFO - Exam KH0385
+2024-11-21 10:01:36,740 - INFO - Exam KH0416
+2024-11-21 10:01:36,742 - INFO - Exam KH0578
+2024-11-21 10:01:36,742 - INFO - Time slot 16: 
+2024-11-21 10:01:36,745 - INFO - Number of rooms: 22
+2024-11-21 10:01:36,748 - INFO - Exam KH0037
+2024-11-21 10:01:36,750 - INFO - Exam KH0078
+2024-11-21 10:01:36,752 - INFO - Exam KH0096
+2024-11-21 10:01:36,755 - INFO - Exam KH0113
+2024-11-21 10:01:36,757 - INFO - Exam KH0158
+2024-11-21 10:01:36,759 - INFO - Exam KH0169
+2024-11-21 10:01:36,761 - INFO - Exam KH0201
+2024-11-21 10:01:36,763 - INFO - Exam KH0387
+2024-11-21 10:01:36,765 - INFO - Exam KH0437
+2024-11-21 10:01:36,768 - INFO - Exam KH0447
+2024-11-21 10:01:36,770 - INFO - Exam KH0484
+2024-11-21 10:01:36,773 - INFO - Exam KH0499
+2024-11-21 10:01:36,775 - INFO - Exam KH0524
+2024-11-21 10:01:36,775 - INFO - Time slot 17: 
+2024-11-21 10:01:36,778 - INFO - Number of rooms: 24
+2024-11-21 10:01:36,780 - INFO - Exam KH0072
+2024-11-21 10:01:36,783 - INFO - Exam KH0087
+2024-11-21 10:01:36,785 - INFO - Exam KH0111
+2024-11-21 10:01:36,787 - INFO - Exam KH0130
+2024-11-21 10:01:36,790 - INFO - Exam KH0152
+2024-11-21 10:01:36,792 - INFO - Exam KH0165
+2024-11-21 10:01:36,794 - INFO - Exam KH0178
+2024-11-21 10:01:36,797 - INFO - Exam KH0198
+2024-11-21 10:01:36,799 - INFO - Exam KH0270
+2024-11-21 10:01:36,801 - INFO - Exam KH0288
+2024-11-21 10:01:36,804 - INFO - Exam KH0303
+2024-11-21 10:01:36,806 - INFO - Exam KH0312
+2024-11-21 10:01:36,808 - INFO - Exam KH0389
+2024-11-21 10:01:36,811 - INFO - Exam KH0448
+2024-11-21 10:01:36,813 - INFO - Exam KH0450
+2024-11-21 10:01:36,815 - INFO - Exam KH0457
+2024-11-21 10:01:36,819 - INFO - Exam KH0614
+2024-11-21 10:01:36,819 - INFO - Time slot 18: 
+2024-11-21 10:01:36,822 - INFO - Number of rooms: 32
+2024-11-21 10:01:36,824 - INFO - Exam KH0027
+2024-11-21 10:01:36,827 - INFO - Exam KH0029
+2024-11-21 10:01:36,829 - INFO - Exam KH0030
+2024-11-21 10:01:36,831 - INFO - Exam KH0033
+2024-11-21 10:01:36,833 - INFO - Exam KH0057
+2024-11-21 10:01:36,836 - INFO - Exam KH0064
+2024-11-21 10:01:36,838 - INFO - Exam KH0145
+2024-11-21 10:01:36,841 - INFO - Exam KH0162
+2024-11-21 10:01:36,843 - INFO - Exam KH0204
+2024-11-21 10:01:36,845 - INFO - Exam KH0210
+2024-11-21 10:01:36,847 - INFO - Exam KH0244
+2024-11-21 10:01:36,850 - INFO - Exam KH0257
+2024-11-21 10:01:36,852 - INFO - Exam KH0259
+2024-11-21 10:01:36,854 - INFO - Exam KH0316
+2024-11-21 10:01:36,857 - INFO - Exam KH0488
+2024-11-21 10:01:36,857 - INFO - Time slot 19: 
+2024-11-21 10:01:36,860 - INFO - Number of rooms: 24
+2024-11-21 10:01:36,863 - INFO - Exam KH0002
+2024-11-21 10:01:36,865 - INFO - Exam KH0024
+2024-11-21 10:01:36,867 - INFO - Exam KH0114
+2024-11-21 10:01:36,870 - INFO - Exam KH0144
+2024-11-21 10:01:36,872 - INFO - Exam KH0193
+2024-11-21 10:01:36,875 - INFO - Exam KH0200
+2024-11-21 10:01:36,877 - INFO - Exam KH0228
+2024-11-21 10:01:36,879 - INFO - Exam KH0239
+2024-11-21 10:01:36,881 - INFO - Exam KH0264
+2024-11-21 10:01:36,884 - INFO - Exam KH0309
+2024-11-21 10:01:36,886 - INFO - Exam KH0398
+2024-11-21 10:01:36,888 - INFO - Exam KH0435
+2024-11-21 10:01:36,891 - INFO - Exam KH0467
+2024-11-21 10:01:36,893 - INFO - Exam KH0522
+2024-11-21 10:01:36,893 - INFO - Time slot 20: 
+2024-11-21 10:01:36,896 - INFO - Number of rooms: 25
+2024-11-21 10:01:36,899 - INFO - Exam KH0018
+2024-11-21 10:01:36,901 - INFO - Exam KH0076
+2024-11-21 10:01:36,903 - INFO - Exam KH0091
+2024-11-21 10:01:36,905 - INFO - Exam KH0092
+2024-11-21 10:01:36,908 - INFO - Exam KH0110
+2024-11-21 10:01:36,910 - INFO - Exam KH0124
+2024-11-21 10:01:36,913 - INFO - Exam KH0131
+2024-11-21 10:01:36,915 - INFO - Exam KH0143
+2024-11-21 10:01:36,918 - INFO - Exam KH0156
+2024-11-21 10:01:36,920 - INFO - Exam KH0209
+2024-11-21 10:01:36,923 - INFO - Exam KH0250
+2024-11-21 10:01:36,925 - INFO - Exam KH0355
+2024-11-21 10:01:36,927 - INFO - Exam KH0436
+2024-11-21 10:01:36,929 - INFO - Exam KH0487
+2024-11-21 10:01:36,931 - INFO - Exam KH0489
+2024-11-21 10:01:36,934 - INFO - Exam KH0516
+2024-11-21 10:01:36,936 - INFO - Exam KH0617
+2024-11-21 10:01:36,937 - INFO - Time slot 21: 
+2024-11-21 10:01:36,940 - INFO - Number of rooms: 33
+2024-11-21 10:01:36,942 - INFO - Exam KH0075
+2024-11-21 10:01:36,945 - INFO - Exam KH0115
+2024-11-21 10:01:36,947 - INFO - Exam KH0147
+2024-11-21 10:01:36,949 - INFO - Exam KH0163
+2024-11-21 10:01:36,952 - INFO - Exam KH0202
+2024-11-21 10:01:36,954 - INFO - Exam KH0260
+2024-11-21 10:01:36,956 - INFO - Exam KH0261
+2024-11-21 10:01:36,959 - INFO - Exam KH0271
+2024-11-21 10:01:36,960 - INFO - Exam KH0304
+2024-11-21 10:01:36,963 - INFO - Exam KH0353
+2024-11-21 10:01:36,965 - INFO - Exam KH0357
+2024-11-21 10:01:36,967 - INFO - Exam KH0360
+2024-11-21 10:01:36,970 - INFO - Exam KH0395
+2024-11-21 10:01:36,973 - INFO - Exam KH0486
+2024-11-21 10:01:36,975 - INFO - Exam KH0518
+2024-11-21 10:01:36,977 - INFO - Exam KH0615
+2024-11-21 10:01:36,979 - INFO - Exam KH0616
+2024-11-21 10:01:36,979 - INFO - Time slot 22: 
+2024-11-21 10:01:36,983 - INFO - Number of rooms: 22
+2024-11-21 10:01:36,985 - INFO - Exam KH0049
+2024-11-21 10:01:36,987 - INFO - Exam KH0056
+2024-11-21 10:01:36,990 - INFO - Exam KH0119
+2024-11-21 10:01:36,992 - INFO - Exam KH0173
+2024-11-21 10:01:36,994 - INFO - Exam KH0188
+2024-11-21 10:01:36,997 - INFO - Exam KH0199
+2024-11-21 10:01:36,999 - INFO - Exam KH0249
+2024-11-21 10:01:37,001 - INFO - Exam KH0286
+2024-11-21 10:01:37,004 - INFO - Exam KH0297
+2024-11-21 10:01:37,006 - INFO - Exam KH0317
+2024-11-21 10:01:37,008 - INFO - Exam KH0356
+2024-11-21 10:01:37,010 - INFO - Exam KH0392
+2024-11-21 10:01:37,013 - INFO - Exam KH0420
+2024-11-21 10:01:37,015 - INFO - Exam KH0455
+2024-11-21 10:01:37,017 - INFO - Exam KH0613
+2024-11-21 10:01:37,017 - INFO - Time slot 23: 
+2024-11-21 10:01:37,021 - INFO - Number of rooms: 21
+2024-11-21 10:01:37,023 - INFO - Exam KH0007
+2024-11-21 10:01:37,026 - INFO - Exam KH0012
+2024-11-21 10:01:37,028 - INFO - Exam KH0088
+2024-11-21 10:01:37,030 - INFO - Exam KH0128
+2024-11-21 10:01:37,032 - INFO - Exam KH0149
+2024-11-21 10:01:37,035 - INFO - Exam KH0182
+2024-11-21 10:01:37,037 - INFO - Exam KH0184
+2024-11-21 10:01:37,040 - INFO - Exam KH0221
+2024-11-21 10:01:37,042 - INFO - Exam KH0241
+2024-11-21 10:01:37,044 - INFO - Exam KH0331
+2024-11-21 10:01:37,047 - INFO - Exam KH0442
+2024-11-21 10:01:37,049 - INFO - Exam KH0443
+2024-11-21 10:01:37,052 - INFO - Exam KH0497
+2024-11-21 10:01:37,052 - INFO - Time slot 24: 
+2024-11-21 10:01:37,055 - INFO - Number of rooms: 26
+2024-11-21 10:01:37,057 - INFO - Exam KH0021
+2024-11-21 10:01:37,060 - INFO - Exam KH0069
+2024-11-21 10:01:37,062 - INFO - Exam KH0093
+2024-11-21 10:01:37,065 - INFO - Exam KH0106
+2024-11-21 10:01:37,067 - INFO - Exam KH0138
+2024-11-21 10:01:37,069 - INFO - Exam KH0238
+2024-11-21 10:01:37,072 - INFO - Exam KH0240
+2024-11-21 10:01:37,074 - INFO - Exam KH0273
+2024-11-21 10:01:37,077 - INFO - Exam KH0403
+2024-11-21 10:01:37,079 - INFO - Exam KH0433
+2024-11-21 10:01:37,081 - INFO - Exam KH0509
+2024-11-21 10:01:37,083 - INFO - Exam KH0510
+2024-11-21 10:01:37,084 - INFO - Time slot 25: 
+2024-11-21 10:01:37,087 - INFO - Number of rooms: 18
+2024-11-21 10:01:37,089 - INFO - Exam KH0025
+2024-11-21 10:01:37,092 - INFO - Exam KH0068
+2024-11-21 10:01:37,094 - INFO - Exam KH0185
+2024-11-21 10:01:37,096 - INFO - Exam KH0187
+2024-11-21 10:01:37,098 - INFO - Exam KH0196
+2024-11-21 10:01:37,101 - INFO - Exam KH0242
+2024-11-21 10:01:37,103 - INFO - Exam KH0310
+2024-11-21 10:01:37,106 - INFO - Exam KH0386
+2024-11-21 10:01:37,108 - INFO - Exam KH0402
+2024-11-21 10:01:37,110 - INFO - Exam KH0410
+2024-11-21 10:01:37,113 - INFO - Exam KH0521
+2024-11-21 10:01:37,115 - INFO - Exam KH0610
+2024-11-21 10:01:37,115 - INFO - Time slot 26: 
+2024-11-21 10:01:37,118 - INFO - Number of rooms: 24
+2024-11-21 10:01:37,121 - INFO - Exam KH0042
+2024-11-21 10:01:37,123 - INFO - Exam KH0062
+2024-11-21 10:01:37,125 - INFO - Exam KH0071
+2024-11-21 10:01:37,127 - INFO - Exam KH0127
+2024-11-21 10:01:37,130 - INFO - Exam KH0140
+2024-11-21 10:01:37,132 - INFO - Exam KH0174
+2024-11-21 10:01:37,135 - INFO - Exam KH0215
+2024-11-21 10:01:37,137 - INFO - Exam KH0290
+2024-11-21 10:01:37,139 - INFO - Exam KH0411
+2024-11-21 10:01:37,142 - INFO - Exam KH0581
+2024-11-21 10:01:37,144 - INFO - Exam KH0608
+2024-11-21 10:01:37,146 - INFO - Exam KH0611
+2024-11-21 10:01:37,146 - INFO - Time slot 27: 
+2024-11-21 10:01:37,149 - INFO - Number of rooms: 22
+2024-11-21 10:01:37,152 - INFO - Exam KH0009
+2024-11-21 10:01:37,154 - INFO - Exam KH0048
+2024-11-21 10:01:37,157 - INFO - Exam KH0067
+2024-11-21 10:01:37,159 - INFO - Exam KH0090
+2024-11-21 10:01:37,161 - INFO - Exam KH0220
+2024-11-21 10:01:37,163 - INFO - Exam KH0279
+2024-11-21 10:01:37,165 - INFO - Exam KH0302
+2024-11-21 10:01:37,168 - INFO - Exam KH0311
+2024-11-21 10:01:37,170 - INFO - Exam KH0396
+2024-11-21 10:01:37,173 - INFO - Exam KH0425
+2024-11-21 10:01:37,175 - INFO - Exam KH0438
+2024-11-21 10:01:37,177 - INFO - Exam KH0498
+2024-11-21 10:01:37,179 - INFO - Exam KH0515
+2024-11-21 10:01:37,182 - INFO - Exam KH0609
+2024-11-21 10:01:37,182 - INFO - Time slot 28: 
+2024-11-21 10:01:37,185 - INFO - Number of rooms: 23
+2024-11-21 10:01:37,187 - INFO - Exam KH0017
+2024-11-21 10:01:37,190 - INFO - Exam KH0065
+2024-11-21 10:01:37,192 - INFO - Exam KH0097
+2024-11-21 10:01:37,194 - INFO - Exam KH0118
+2024-11-21 10:01:37,197 - INFO - Exam KH0137
+2024-11-21 10:01:37,199 - INFO - Exam KH0167
+2024-11-21 10:01:37,202 - INFO - Exam KH0219
+2024-11-21 10:01:37,204 - INFO - Exam KH0246
+2024-11-21 10:01:37,207 - INFO - Exam KH0278
+2024-11-21 10:01:37,209 - INFO - Exam KH0432
+2024-11-21 10:01:37,211 - INFO - Exam KH0439
+2024-11-21 10:01:37,213 - INFO - Exam KH0440
+2024-11-21 10:01:37,216 - INFO - Exam KH0441
+2024-11-21 10:01:37,218 - INFO - Exam KH0517
+2024-11-21 10:01:37,221 - INFO - Exam KH0582
+2024-11-21 10:01:37,221 - INFO - Time slot 29: 
+2024-11-21 10:01:37,224 - INFO - Number of rooms: 22
+2024-11-21 10:01:37,227 - INFO - Exam KH0154
+2024-11-21 10:01:37,229 - INFO - Exam KH0265
+2024-11-21 10:01:37,231 - INFO - Exam KH0359
+2024-11-21 10:01:37,234 - INFO - Exam KH0375
+2024-11-21 10:01:37,236 - INFO - Exam KH0399
+2024-11-21 10:01:37,239 - INFO - Exam KH0434
+2024-11-21 10:01:37,241 - INFO - Exam KH0574

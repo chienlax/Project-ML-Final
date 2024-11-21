@@ -18,16 +18,22 @@ from sklearn.cluster import KMeans, AgglomerativeClustering, SpectralClustering,
 from sklearn.preprocessing import StandardScaler
 from k_means_constrained import KMeansConstrained
 
+from sklearn.mixture import GaussianMixture
+from sklearn.cluster import MiniBatchKMeans
+from pyclustering.cluster.kmedoids import kmedoids
+from pyclustering.utils import calculate_distance_matrix
+import numpy as np
+
 from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
 
 FLAGS = flags.FLAGS
 flags.DEFINE_string("input_dir", "input", "Input data directory")
 flags.DEFINE_string("output_dir", "output", "Schedule output directory")
-flags.DEFINE_integer("timeslot", 18, "Số ca thi")
-flags.DEFINE_integer("num_of_available_room", 400, "Số phòng khả dụng")
-flags.DEFINE_integer("student_per_room", 1000, "Số sinh viên/ phòng") # for normal room
+flags.DEFINE_integer("timeslot", 27, "Số ca thi")
+flags.DEFINE_integer("num_of_available_room", 40, "Số phòng khả dụng")
+flags.DEFINE_integer("student_per_room", 100, "Số sinh viên/ phòng") # for normal room
 flags.DEFINE_integer("min_student_per_room", 10, "Số sv tối thiểu/phòng")
-flags.DEFINE_string("exam", "2024_8", "Đợt thi")
+flags.DEFINE_string("exam", "2024_2", "Đợt thi")
 flags.DEFINE_string("location", "HN", "Địa điểm thi")
 flags.DEFINE_integer("n_jobs", -1, "n_jobs")
 flags.DEFINE_integer("max_division", 4, "max_division") # value n = n-1 divisions
@@ -44,7 +50,10 @@ def apply_clustering_algorithms(X, min_hp_sv, n_jobs=1, weights=(0.5, 0.3, 0.2))
         ('KMeansConstrained', KMeansConstrained),
         ('AgglomerativeClustering', AgglomerativeClustering),
         ('SpectralClustering', SpectralClustering),
-        ('Birch', Birch)
+        ('Birch', Birch),
+        ('GMM', GaussianMixture),
+        ('MiniBatchKMeans', MiniBatchKMeans),
+        ('PAM', kmedoids)
     ]
 
     # Standardize data
@@ -54,10 +63,10 @@ def apply_clustering_algorithms(X, min_hp_sv, n_jobs=1, weights=(0.5, 0.3, 0.2))
     for algo_name, algo in clustering_algorithms:
         labels = None
         weighted_score = -1  # Initialize weighted score for each algorithm
-        
+
         if algo_name == 'KMeans':
             for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
-                kmeans = algo(n_clusters=nc, random_state=0, algorithm = 'elkan')
+                kmeans = algo(n_clusters=nc, random_state=0, algorithm='elkan')
                 labels = kmeans.fit_predict(X_scaled)
                 weighted_score = calculate_weighted_score(X_scaled, labels, weights)
                 if weighted_score > best_score:
@@ -95,16 +104,40 @@ def apply_clustering_algorithms(X, min_hp_sv, n_jobs=1, weights=(0.5, 0.3, 0.2))
                 if weighted_score > best_score:
                     best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
 
+        elif algo_name == 'GMM':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                gmm = algo(n_components=nc, random_state=0)
+                labels = gmm.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                if weighted_score > best_score:
+                    best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
+
+        elif algo_name == 'MiniBatchKMeans':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                minibatch_kmeans = algo(n_clusters=nc, random_state=0, batch_size=256)
+                labels = minibatch_kmeans.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                if weighted_score > best_score:
+                    best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
+
+        elif algo_name == 'PAM':
+            distance_matrix = calculate_distance_matrix(X_scaled)
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                initial_medoids = list(range(nc))  # Select initial medoids
+                pam = algo(distance_matrix, initial_medoids)
+                pam.process()
+
+                clusters = pam.get_clusters()
+                labels = np.zeros(X_scaled.shape[0], dtype=int)
+                for cluster_id, cluster_indices in enumerate(clusters):
+                    for index in cluster_indices:
+                        labels[index] = cluster_id
+
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                if weighted_score > best_score:
+                    best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
+
     return best_y, best_nc, best_score, best_algorithm
-
-def calculate_weighted_score(X_scaled, labels, weights):
-    # Calculate individual scores
-    silhouette = silhouette_score(X_scaled, labels) if len(set(labels)) > 1 else -1
-    calinski = calinski_harabasz_score(X_scaled, labels) if len(set(labels)) > 1 else -1
-    davies = davies_bouldin_score(X_scaled, labels) if len(set(labels)) > 1 else float('inf')
-
-    # Weighted average score
-    return weights[0] * silhouette + weights[1] * (calinski / 1000) - weights[2] * davies
 
 def calculate_weighted_score(X_scaled, labels, weights):
     silhouette = silhouette_score(X_scaled, labels) if len(set(labels)) > 1 else -1
@@ -129,7 +162,10 @@ def export_report(X, min_hp_sv, output, dot_thi, tinh, weights=(0.5, 0.3, 0.2), 
         ('KMeansConstrained', KMeansConstrained),
         ('AgglomerativeClustering', AgglomerativeClustering),
         ('SpectralClustering', SpectralClustering),
-        ('Birch', Birch)
+        ('Birch', Birch),
+        ('GMM', GaussianMixture),
+        ('MiniBatchKMeans', MiniBatchKMeans),
+        ('PAM', kmedoids)
     ]
 
     # Standardize data
@@ -215,15 +251,67 @@ def export_report(X, min_hp_sv, output, dot_thi, tinh, weights=(0.5, 0.3, 0.2), 
                     'Weighted Score': weighted_score
                 })
 
+        elif algo_name == 'GMM':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                gmm = algo(n_components=nc, random_state=0)
+                labels = gmm.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                
+                report_data.append({
+                    'Algorithm': algo_name,
+                    'n_clusters': nc,
+                    'Silhouette Score': silhouette_score(X_scaled, labels),
+                    'Calinski-Harabasz Score': calinski_harabasz_score(X_scaled, labels),
+                    'Davies-Bouldin Score': davies_bouldin_score(X_scaled, labels),
+                    'Weighted Score': weighted_score
+                })
+
+        elif algo_name == 'MiniBatchKMeans':
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                minibatch_kmeans = algo(n_clusters=nc, random_state=0, batch_size=256)
+                labels = minibatch_kmeans.fit_predict(X_scaled)
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                
+                report_data.append({
+                    'Algorithm': algo_name,
+                    'n_clusters': nc,
+                    'Silhouette Score': silhouette_score(X_scaled, labels),
+                    'Calinski-Harabasz Score': calinski_harabasz_score(X_scaled, labels),
+                    'Davies-Bouldin Score': davies_bouldin_score(X_scaled, labels),
+                    'Weighted Score': weighted_score
+                })
+
+        elif algo_name == 'PAM':
+            distance_matrix = calculate_distance_matrix(X_scaled)
+            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
+                initial_medoids = list(range(nc))  # Select initial medoids
+                pam = algo(distance_matrix, initial_medoids)
+                pam.process()
+
+                clusters = pam.get_clusters()
+                labels = np.zeros(X_scaled.shape[0], dtype=int)
+                for cluster_id, cluster_indices in enumerate(clusters):
+                    for index in cluster_indices:
+                        labels[index] = cluster_id
+
+                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
+                
+                report_data.append({
+                    'Algorithm': algo_name,
+                    'n_clusters': nc,
+                    'Silhouette Score': silhouette_score(X_scaled, labels),
+                    'Calinski-Harabasz Score': calinski_harabasz_score(X_scaled, labels),
+                    'Davies-Bouldin Score': davies_bouldin_score(X_scaled, labels),
+                    'Weighted Score': weighted_score
+                })
+
     report_df = pd.DataFrame(report_data)
     
     report_df.to_csv(clustering_report_path, index=False)
-    print(f"Clustering report saved to: {clustering_report_path}")
     logging.info(f"Clustering report saved to: {clustering_report_path}")
+    logging.info(f"Clustering report data:\n{report_df}")
 
 def main(argv):
-    start_time = time.time()
-    
     FLAGS(argv)
     dot_thi = FLAGS.exam
     tinh = FLAGS.location
@@ -473,7 +561,7 @@ def main(argv):
                 model.minimize(obj2)
 
                 solver = cp_model.CpSolver()
-                solver.parameters.max_time_in_seconds = 120  
+                solver.parameters.max_time_in_seconds = 60  
                 solver.parameters.log_search_progress = True
                 status = solver.Solve(model)
 
@@ -499,9 +587,6 @@ def main(argv):
         by=["Time slot", "Ma SV", "Ma HP"],
         ascending=[True, True, True],
     )
-    
-    end_time = time.time()
-    logging.info(f"Execution time: {end_time - start_time} seconds")
 
     folder_out = "/".join([output_dir, dot_thi])
     if not os.path.exists(folder_out):
@@ -512,6 +597,6 @@ def main(argv):
 
 if __name__ == "__main__":
     p = psutil.Process()
-    p.cpu_affinity(cpus=[1, 2, 3, 4, 5, 6, 7, 8])
+    p.cpu_affinity([1, 2, 3, 4, 5])
     app.run(main)
     

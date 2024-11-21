@@ -1,0 +1,2 @@
+2024-11-21 15:35:25,692 - INFO - Starting execution with exam: 2024_7, location: HN
+2024-11-21 15:35:25,723 - DEBUG - Initialized Time slot column with -1
