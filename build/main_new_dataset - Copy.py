@@ -49,7 +49,6 @@ def apply_clustering_algorithms(X, min_hp_sv, n_jobs=1, weights=(0.5, 0.3, 0.2))
         ('KMeans', KMeans),
         ('KMeansConstrained', KMeansConstrained),
         ('AgglomerativeClustering', AgglomerativeClustering),
-        ('SpectralClustering', SpectralClustering),
         ('Birch', Birch),
         ('GMM', GaussianMixture),
         ('MiniBatchKMeans', MiniBatchKMeans),
@@ -84,14 +83,6 @@ def apply_clustering_algorithms(X, min_hp_sv, n_jobs=1, weights=(0.5, 0.3, 0.2))
             for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
                 agglom = algo(n_clusters=nc)
                 labels = agglom.fit_predict(X_scaled)
-                weighted_score = calculate_weighted_score(X_scaled, labels, weights)
-                if weighted_score > best_score:
-                    best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
-
-        elif algo_name == 'SpectralClustering':
-            for nc in range(2, min((X.shape[0] // min_hp_sv) + 1, 11)):
-                spectral = algo(n_clusters=nc, random_state=0)
-                labels = spectral.fit_predict(X_scaled)
                 weighted_score = calculate_weighted_score(X_scaled, labels, weights)
                 if weighted_score > best_score:
                     best_y, best_nc, best_score, best_algorithm = labels, nc, weighted_score, algo_name
